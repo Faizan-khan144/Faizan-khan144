@@ -1,35 +1,65 @@
-<h1 align="center">Hi 👋, I'm Faizan Khan</h1>
-<h3 align="center">Front-End Developer | Learner</h3>
+# Hi 👋, I'm Muhammad Faizan Khan
 
-<p align="center">
-  Building responsive, modern, and user-friendly web experiences.
-</p>
+### Front-End Developer | Student Developer | Future AI Engineer
 
----
+🌱 Currently learning **HTML, CSS, JavaScript, and React**
 
-### 🚀 About Me
+💻 Building responsive websites and web applications
 
-- 💻 Front-End Developer
-- 🌱 Currently learning JavaScript 
-- 🎯 Focused on UI/UX and responsive design
-- 🔥 Passionate about turning ideas into websites
-- 📚 Always learning new technologies
+🚀 Passionate about coding, problem-solving, and technology
 
-### 🛠️ Tech Stack
+📚 Always learning new skills and improving every day
 
-HTML • CSS • JavaScript • Git • GitHub
+💬 Ask me about Front-End Development and Web Design
 
-### 📈 Goals
+📫 Contact: muhammadfaizankhan525@gmail.com
 
-- Build impactful web applications
-- Contribute to open-source projects
-- Master modern front-end technologies
-- Continuously improve coding skills
 
-### 📫 Connect With Me
-
-- GitHub: https://github.com/Faizan-khan144
+⚡ Fun Fact: I enjoy turning ideas into websites and projects.
 
 ---
 
-⭐ "Code is like humor. When you have to explain it, it's bad."
+## 💫 About Me
+
+I'm Muhammad Faizan Khan, a student and aspiring Front-End Developer from Pakistan.
+
+My journey started with learning HTML and CSS, and I am continuously expanding my skills in JavaScript and modern web technologies.
+
+I enjoy building projects that help me improve my development skills and gain real-world experience. My goal is to become a professional software engineer and contribute to impactful technology projects.
+
+Currently, I'm focused on:
+
+* Front-End Development
+* Responsive Web Design
+* Git & GitHub
+* JavaScript (Learning)
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 🎯 Goals
+
+* Build professional web applications
+* Learn React and modern frameworks
+* Contribute to open-source projects
+* Create a strong developer portfolio
+* Explore Artificial Intelligence
+
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/Faizan-khan144
+
+---
+
+⭐ “Code. Learn. Build. Repeat.”
