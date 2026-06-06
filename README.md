@@ -1,3 +1,4 @@
+<video class="jI_JN7" data-test-id="duplo-hls-video" elementtiming="closeup-video-main-MainPinImage" playsinline="" poster="https://i.pinimg.com/videos/thumbnails/originals/4f/26/99/4f2699e7f205b0f637e3ff1de9d3700d.0000000.jpg" preload="auto" src="blob:https://www.pinterest.com/040b6303-874c-4e15-ad5a-6df5f64bc065" style="object-fit: contain;"><track kind="captions"></video>
 # Hi 👋, I'm Muhammad Faizan Khan
 
 ### Front-End Developer | Student Developer | Future AI Engineer
