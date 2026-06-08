@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="[YOUR_GIF_LINK](https://github.com/user-attachments/assets/c94c0439-d29e-45ef-ab39-b7e5797c7d6d
+)" width="400"/>
+</p>
 
-
-https://github.com/user-attachments/assets/c94c0439-d29e-45ef-ab39-b7e5797c7d6d
 
 
 # Hi 👋, I'm Muhammad Faizan Khan
