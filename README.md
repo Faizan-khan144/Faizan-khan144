@@ -1,11 +1,10 @@
-# Hi 👋, I'm Muhammad Faizan Khan
+<h1 align="center">Hi 👋, I'm Muhammad Faizan Khan</h1>
 
 <h3 align="center">Front-End Developer • Student Developer • Future Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
-
 ---
 
 ## 🚀 About Me
