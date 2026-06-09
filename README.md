@@ -67,6 +67,22 @@ I'm **Muhammad Faizan Khan**, a passionate student developer from Pakistan with 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Faizan-khan144&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Faizan-khan144
