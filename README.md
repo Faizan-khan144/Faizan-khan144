@@ -2,7 +2,7 @@
 
 ### Front-End Developer | Student Developer | Future AI Engineer
 
-🌱 Currently learning **HTML, CSS, JavaScript, and React**
+🌱 Currently learning **HTML, CSS **
 
 💻 Building responsive websites and web applications
 
