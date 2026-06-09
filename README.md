@@ -36,14 +36,6 @@ Currently, I'm focused on:
 
 ---
 
-## 🚀 Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
 ---
 
 ## 🎯 Goals
@@ -54,6 +46,13 @@ Currently, I'm focused on:
 * Create a strong developer portfolio
 * Explore Artificial Intelligence
 
+---
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,bootstrap,netlify" />
+</p>
+---
 
 ## 🤝 Connect With Me
 
