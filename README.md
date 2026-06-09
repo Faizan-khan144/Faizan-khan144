@@ -1,7 +1,3 @@
-https://github.com/user-attachments/assets/(https://www.pinterest.com/pin/734509020520775427/)
-
-
-
 # Hi 👋, I'm Muhammad Faizan Khan
 
 ### Front-End Developer | Student Developer | Future AI Engineer
