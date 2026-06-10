@@ -41,6 +41,32 @@ const faizan = {
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech | Status | Live |
+|--------|-------------|------|--------|------|
+| 🏦 **FZ Bank** | Modern digital banking web app with dashboard, deposits, withdrawals & transaction history | HTML · CSS · JS | ✅ Complete | [View Live](https://faizan-khan144.github.io/fz-bank-modern-banking-website/) |
+
+</div>
+
+### 🏦 FZ Bank — Modern Banking Website
+
+> A fully functional digital banking interface built from scratch.
+
+**Key Features:**
+- 💳 Interactive bank dashboard with live balance display
+- 💰 Deposit & Withdraw functionality with transaction tracking
+- 📊 Transaction history with real-time updates
+- 🔒 Clean, secure UI with 99.9% uptime design principle
+- 📱 Responsive layout across all devices
+
+[![FZ Bank](https://img.shields.io/badge/🔗%20Live%20Demo-FZ%20Bank-000000?style=for-the-badge&logoColor=white)](https://faizan-khan144.github.io/fz-bank-modern-banking-website/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144/fz-bank-modern-banking-website)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -54,23 +80,19 @@ const faizan = {
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" />
 </div>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🐍 Contribution Snake
 
-| Status | Goal |
-|--------|------|
-| 🔄 In Progress | Master JavaScript deeply (ES6+, async, closures) |
-| 🔄 In Progress | Learn React & modern frontend frameworks |
-| ⏳ Upcoming | Build 5+ real-world portfolio projects |
-| ⏳ Upcoming | Start AI/ML Engineering fundamentals |
-| 🔁 Ongoing | Sharpen DSA & problem-solving skills |
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
