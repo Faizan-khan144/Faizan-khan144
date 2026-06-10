@@ -16,6 +16,8 @@
 
 ## 🚀 About Me
 
+---
+
 javascript
 const developer = {
   name: "Muhammad Faizan Khan",
@@ -26,27 +28,60 @@ const developer = {
   goal: "Become an AI Engineer",
   passion: "Building clean and useful web applications"
 };
+
+---
+
 🛠 Tech Stack
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </p>
+
+---
+
 📊 GitHub Stats
+
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+---
+
 🔥 Contribution Streak
+
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=tokyonight&hide_border=true" /> </p>
+
+---
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </p>
+
+---
+
 🎯 Current Focus
+
 🌱 Strengthening Front-End fundamentals
 ⚡ Building real-world projects
 📚 Improving JavaScript skills
 🤖 Exploring Artificial Intelligence
+
+---
+
 🏆 Achievements
+
 💻 Active GitHub Developer
 🚀 Building personal projects
 📖 Continuous learner
 🎯 Focused on growth every day
+
+---
+
 🌐 Connect With Me
+
 <p align="center"> <a href="https://github.com/Faizan-khan144"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> </p>
 <div align="center">
+
+---
+
 ⭐ Thanks for visiting my profile
 
 Code • Learn • Build • Improve • Repeat 🚀
 
-</div> ```
+</div>
