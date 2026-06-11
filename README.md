@@ -45,9 +45,9 @@ const faizan = {
 
 <div align="center">
 
-| Project | Description | Tech | Status | Repository |
+| Project | Description | Tech | Status | Live |
 |----------|-------------|------|--------|------------|
-| 🎓 **Student Attendance Tracker** | Student attendance management system with attendance tracking and record management | HTML · CSS · JS | ✅ Complete | [View Repo](https://faizan-khan144.github.io/student-attendance-tracker/) |
+| 🎓 **Student Attendance Tracker** | Student attendance management system with attendance tracking and record management | HTML · CSS · JS | ✅ Complete | [View live](https://faizan-khan144.github.io/student-attendance-tracker/) |
 
 </div>
 
@@ -62,7 +62,7 @@ const faizan = {
 - 🔍 Clean and user-friendly interface
 - 📱 Responsive design for all devices
 
-[![Repository](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144/mstudent-attendance-tracker)
+[![Repository](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://faizan-khan144.github.io/student-attendance-tracker/)
 
 ---
 
