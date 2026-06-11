@@ -47,7 +47,7 @@ const faizan = {
 
 | Project | Description | Tech | Status | Repository |
 |----------|-------------|------|--------|------------|
-| 🎓 **Student Attendance Tracker** | Student attendance management system with attendance tracking and record management | HTML · CSS · JS | ✅ Complete | [View Repo](https://github.com/Faizan-khan144/mstudent-attendance-tracker) |
+| 🎓 **Student Attendance Tracker** | Student attendance management system with attendance tracking and record management | HTML · CSS · JS | ✅ Complete | [View Repo](https://faizan-khan144.github.io/student-attendance-tracker/) |
 
 </div>
 
