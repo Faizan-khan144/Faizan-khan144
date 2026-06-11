@@ -45,25 +45,26 @@ const faizan = {
 
 <div align="center">
 
-| Project | Description | Tech | Status | Live |
-|--------|-------------|------|--------|------|
-| 🏦 **FZ Bank** | Modern digital banking web app with dashboard, deposits, withdrawals & transaction history | HTML · CSS · JS | ✅ Complete | [View Live](https://faizan-khan144.github.io/fz-bank-modern-banking-website/) |
+| Project | Description | Tech | Status | Repository |
+|----------|-------------|------|--------|------------|
+| 🎓 **Student Attendance Tracker** | Student attendance management system with attendance tracking and record management | HTML · CSS · JS | ✅ Complete | [View Repo](https://github.com/Faizan-khan144/mstudent-attendance-tracker) |
 
 </div>
 
-### 🏦 FZ Bank — Modern Banking Website
+### 🎓 Student Attendance Tracker
 
-> A fully functional digital banking interface built from scratch.
+> A simple and efficient attendance management system built from scratch.
 
 **Key Features:**
-- 💳 Interactive bank dashboard with live balance display
-- 💰 Deposit & Withdraw functionality with transaction tracking
-- 📊 Transaction history with real-time updates
-- 🔒 Clean, secure UI with 99.9% uptime design principle
-- 📱 Responsive layout across all devices
+- 👨‍🎓 Add and manage student records
+- ✅ Mark and track attendance efficiently
+- 📊 Organized attendance records and reports
+- 🔍 Clean and user-friendly interface
+- 📱 Responsive design for all devices
 
-[![FZ Bank](https://img.shields.io/badge/🔗%20Live%20Demo-FZ%20Bank-000000?style=for-the-badge&logoColor=white)](https://faizan-khan144.github.io/fz-bank-modern-banking-website/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144/fz-bank-modern-banking-website)
+[![Repository](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144/mstudent-attendance-tracker)
+
+---
 
 ---
 
