@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Faizan 👋</h1>
-<h3 align="center">Front-End Developer • Building Clean, Modern Web Experiences</h3>
+<h3 align="center">Front-End Developer • Learning by Building</h3>
 <h4 align="center">📍 Karachi, Pakistan 🇵🇰</h4>
 
 <p align="center">
   Passionate about building clean, responsive, and user-friendly web experiences.<br/>
-  Currently levelling up in JavaScript, Python, React.js, and Tailwind CSS.
+  Currently learning JavaScript, React.js, Python, and Tailwind CSS.
 </p>
 
 <p align="center">
@@ -27,71 +27,59 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```js
-const faizan = {
-  name          : "Muhammad Faizan Khan",
-  role          : "Front-End Developer",
-  location      : "Karachi, Pakistan",
-  languages     : ["HTML5", "CSS3", "JavaScript", "Python"],
-  frameworks    : ["React.js", "Tailwind CSS"],
-  tools         : ["Git", "GitHub", "VS Code", "Figma", "npm"],
-  learning      : ["Advanced JavaScript", "React.js Ecosystem", "Python", "Tailwind CSS"],
-  goals         : ["Build real-world projects", "Contribute to open-source", "Become a pro dev"],
-  funFact       : "I enjoy turning messy ideas into clean, working UIs",
-  mindset       : "Learn → Build → Improve → Repeat",
-};
-```
-
-I'm a front-end developer focused on crafting clean, responsive, and accessible user interfaces. I build modern, component-driven UIs with **React.js**, style them efficiently with **Tailwind CSS**, and I'm expanding into **Python** to round out my problem-solving toolkit on the backend and scripting side.
-
-- 🔭 Currently building projects with **React.js** and **Tailwind CSS**
-- 🐍 Currently learning **Python** for backend and scripting fundamentals
-- 🌱 Currently strengthening my **advanced JavaScript** fundamentals
-- 🤝 Open to front-end collaboration and open-source contributions
-- ⚡ Fun fact: I like refactoring old projects until every pixel behaves
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/) or via email above
+- 🌱 I'm currently learning **React.js**, **Tailwind CSS**, and **Python**
+- 💬 Ask me about **HTML, CSS, and JavaScript fundamentals**
+- 📫 How to reach me: **muhammadfaizankhan525@example.com**
+- ⚡ Fun fact: **I enjoy refactoring old projects until every pixel behaves**
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### Languages
+I'm Muhammad Faizan Khan, a front-end developer from Karachi, Pakistan, focused on turning designs into clean, responsive, working web pages.
+
+I started with the fundamentals — HTML, CSS, and JavaScript — and I'm now building on that foundation by learning **React.js** for component-based UIs, **Tailwind CSS** for faster styling, and **Python** to broaden my problem-solving toolkit beyond the browser.
+
+I'm not claiming to be an expert in React, Tailwind, or JavaScript yet — I'm actively learning all three through small projects, practice, and consistent building. My goal is to keep improving until I can confidently build production-ready, real-world applications.
+
+I'm looking to collaborate on beginner-friendly projects, learn from more experienced developers, and eventually contribute to open-source.
+
+<br/>
+
+---
+
+## 🛠️ Languages & Tools
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Tools & Platforms
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
 
 ---
 
-## 📈 Skill Proficiency
+## 📈 Where I'm At
 
 | Skill | Level |
 |---|---|
-| HTML5 / CSS3 | ████████████████████ 95% |
-| JavaScript | ███████████████░░░░░ 75% |
-| React.js | ████████████░░░░░░░░ 60% |
-| Tailwind CSS | ██████████████░░░░░░ 70% |
-| Python | ████████░░░░░░░░░░░░ 40% |
-| Git / GitHub | ████████████████░░░░ 80% |
+| HTML5 / CSS3 | ████████████████████ 90% |
+| JavaScript | ██████████░░░░░░░░░░ 50% |
+| React.js | ██████░░░░░░░░░░░░░░ 30% |
+| Tailwind CSS | ██████░░░░░░░░░░░░░░ 30% |
+| Python | ████░░░░░░░░░░░░░░░░ 20% |
+| Git / GitHub | ██████████████░░░░░░ 70% |
+
+*Still learning React, Tailwind, and advanced JavaScript — this bar shows where I am today, not where I'll stop.*
 
 <br/>
 
@@ -116,6 +104,10 @@ I'm a front-end developer focused on crafting clean, responsive, and accessible 
   <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
 <br/>
 
 ---
@@ -123,9 +115,10 @@ I'm a front-end developer focused on crafting clean, responsive, and accessible 
 ## 🎯 Goals for 2026
 
 - [x] Build multiple real-world projects
-- [ ] Master advanced JavaScript
-- [ ] Get comfortable with React.js and Tailwind CSS in production-scale apps
-- [ ] Learn Python fundamentals and apply them in small backend projects
+- [ ] Get confident and comfortable with **React.js**
+- [ ] Get confident and comfortable with **Tailwind CSS**
+- [ ] Master advanced **JavaScript**
+- [ ] Learn **Python** fundamentals
 - [ ] Contribute to open-source
 - [ ] Land a front-end developer role
 
@@ -135,7 +128,7 @@ I'm a front-end developer focused on crafting clean, responsive, and accessible 
 
 ## 🤝 Let's Build Something Together
 
-I'm always open to collaborating on front-end projects, contributing to open-source repos, or connecting with other developers. If you'd like to work together or just talk tech, reach out — my inbox is always open.
+I'm early in my React, Tailwind, and JavaScript journey, but always open to collaborating on beginner-friendly projects, pairing with other learners, or connecting with developers who are further along. If you'd like to work together or just talk tech, reach out — my inbox is always open.
 
 <br/>
 
