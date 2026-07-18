@@ -18,20 +18,46 @@ I'm open to collaborating on beginner-friendly projects, learning from more expe
 
 ---
 
-## Skills
+## Languages & Tools
 
-**Core:** HTML5, CSS3, JavaScript
-**Currently learning:** React.js, Tailwind CSS, Python
-**Tools:** Git, GitHub, VS Code, Figma, Postman, Notion, Vercel
+**Languages:** HTML5, CSS3, JavaScript, Python
+**Frameworks / Libraries:** React.js, Tailwind CSS
+**Tools & Platforms:** Git, GitHub, VS Code, Figma, Canva, Postman, Notion, Vercel, Linux, NPM
 
-| Skill | Proficiency |
-|---|---|
-| HTML5 / CSS3 | Proficient |
-| JavaScript | Intermediate |
-| React.js | Developing |
-| Tailwind CSS | Developing |
-| Python | Beginner |
-| Git / GitHub | Proficient |
+---
+
+## Where I'm At
+
+| Skill | Level | Progress |
+|---|---|---|
+| HTML5 / CSS3 | 90% | ████████████████████ |
+| JavaScript | 50% | ██████████░░░░░░░░░░ |
+| React.js | 30% | ██████░░░░░░░░░░░░░░ |
+| Tailwind CSS | 30% | ██████░░░░░░░░░░░░░░ |
+| Python | 20% | ████░░░░░░░░░░░░░░░░ |
+| Git / GitHub | 70% | ██████████████░░░░░░ |
+
+*Still learning React, Tailwind, and advanced JavaScript — this reflects where I am today, not where I'll stop.*
+
+---
+
+## What I'm Doing
+
+- Building small, focused projects to strengthen React.js and Tailwind CSS fundamentals
+- Learning Python to broaden my problem-solving toolkit beyond the browser
+- Practicing Git/GitHub workflows and writing cleaner, more maintainable code
+- Refactoring older projects as my skills improve
+- Looking to collaborate on beginner-friendly projects and eventually contribute to open-source
+
+---
+
+## Focus Areas
+
+- **Front-end fundamentals:** semantic HTML, responsive CSS, accessibility basics
+- **JavaScript:** DOM manipulation, ES6+, asynchronous JS, working toward advanced concepts
+- **React.js:** components, props, state, hooks
+- **Styling:** Tailwind CSS utility-first workflows
+- **Version control:** Git branching, commits, pull requests, GitHub collaboration
 
 ---
 
