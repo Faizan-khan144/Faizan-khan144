@@ -1,83 +1,154 @@
-# Hi 👋, I'm Muhammad Faizan Khan
+<div align="center">
 
-### Front-End Developer | Learning React, Tailwind & Python | Building Real Projects One Step at a Time
+# MUHAMMAD FAIZAN KHAN
 
-[![profile views](https://komarev.com/ghpvc/?username=Faizan-khan144&label=Profile%20views&color=2563eb&style=flat)](https://github.com/Faizan-khan144)
-[![followers](https://img.shields.io/github/followers/Faizan-khan144?label=Followers&style=flat&color=2563eb)](https://github.com/Faizan-khan144?tab=followers)
+### Frontend Developer • React Learner • UI Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Building+modern+and+responsive+websites;Turning+ideas+into+clean+user+interfaces;Learning+React+and+advanced+JavaScript;Focused+on+real+projects+and+continuous+improvement" alt="Typing SVG" />
 
-- 🌱 I'm currently learning **React.js**, **Tailwind CSS**, and **Python**
-- 💬 Ask me about **HTML, CSS, and JavaScript fundamentals**
-- 📫 How to reach me: **muhammadfaizankhan525@example.com**
-- ⚡ Fun fact: **I enjoy refactoring old projects until every pixel behaves**
-
-### 💫 About Me
-
-I'm Muhammad Faizan Khan, a front-end developer from Karachi, Pakistan, focused on turning designs into clean, responsive, working web pages.
-
-I started with the fundamentals — HTML, CSS, and JavaScript — and I'm now building on that foundation by learning React.js for component-based UIs, Tailwind CSS for faster styling, and Python to broaden my problem-solving toolkit beyond the browser.
-
-I'm not claiming to be an expert in React, Tailwind, or JavaScript yet. I'm actively learning all three through small projects, consistent practice, and a lot of trial and error. My goal is to keep improving until I can confidently build production-ready, real-world applications.
-
-I'm looking to collaborate on beginner-friendly projects, learn from more experienced developers, and eventually contribute to open-source.
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![Twitter](https://img.shields.io/badge/Twitter-@faizan525nk-2563eb?style=flat&logo=x&logoColor=white)](https://x.com/faizan525nk)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-2563eb?style=flat&logo=gmail&logoColor=white)](mailto:muhammadfaizankhan525@example.com)
-
-### 🛠️ Languages & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### 📈 Where I'm At
-
-| Skill | Progress |
-|---|---|
-| HTML5 / CSS3 | ████████████████████ 90% |
-| JavaScript | ██████████░░░░░░░░░░ 50% |
-| React.js | ██████░░░░░░░░░░░░░░ 30% |
-| Tailwind CSS | ██████░░░░░░░░░░░░░░ 30% |
-| Python | ████░░░░░░░░░░░░░░░░ 20% |
-| Git / GitHub | ██████████████░░░░░░ 70% |
-
-### 📊 GitHub Stats
-
-[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0f172a&bg_color=f8faff)](https://github.com/Faizan-khan144)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=0f172a&bg_color=f8faff)](https://github.com/Faizan-khan144)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Faizan-khan144&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff)](https://github.com/Faizan-khan144)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/Faizan-khan144)
-
-### 🎯 Goals for 2026
-
-- [x] Build multiple real-world projects
-- [ ] Get confident and comfortable with **React.js**
-- [ ] Get confident and comfortable with **Tailwind CSS**
-- [ ] Master advanced **JavaScript**
-- [ ] Learn **Python** fundamentals
-- [ ] Contribute to open-source
-- [ ] Land a front-end developer role
+</div>
 
 ---
 
-<p align="center"><code>&lt; Code /&gt;</code> • <code>Learn</code> • <code>Build</code> • <code>Repeat</code></p>
+## About Me
+
+I’m **Muhammad Faizan Khan**, a frontend developer from **Karachi, Pakistan** who enjoys building modern, responsive, and visually polished web applications.
+
+I started with **HTML, CSS, and JavaScript** and I’m currently expanding my skills with **React, Tailwind CSS, and Python**. My focus is on writing clean code, improving UI/UX, and building projects that feel professional and production-ready.
+
+* Currently learning **React.js, Tailwind CSS, and Python**
+* Ask me about **HTML, CSS, and JavaScript**
+* Building **real-world frontend projects**
+* Interested in **UI design, performance, and responsive development**
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+## Featured Projects
+
+### Dev Dashboard
+
+Modern developer dashboard with analytics cards, charts, and a clean dark UI.
+
+**Live:** https://faizan-khan144.github.io/DevDashboard/
+
+---
+
+### FZ Bank – Modern Banking Website
+
+Responsive banking landing page with modern sections, cards, and smooth layout.
+
+**Live:** https://faizan-khan144.github.io/fz-bank-modern-banking-website/
+
+---
+
+### August & Oak – E-commerce Website
+
+A stylish e-commerce frontend focused on product presentation and responsive design.
+
+**Live:** https://faizan-khan144.github.io/august-and-oak-ecommerce/
+
+---
+
+### Modern Tic-Tac-Toe
+
+Interactive game with a modern UI and smooth gameplay experience.
+
+**Live:** https://faizan-khan144.github.io/Tic-Tac-Toe-Game/
+
+---
+
+### Vortex Agency
+
+Creative agency website with modern layout, service sections, and responsive design.
+
+**Live:** https://faizan-khan144.github.io/vortex-agency/
+
+---
+
+## Portfolio
+
+<div align="center">
+
+### View my complete portfolio
+
+**https://faizan-khan144.github.io/faizan-portfolio/**
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=dark&hide_border=true&title_color=00C853&icon_color=00C853&text_color=ffffff&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=dark&hide_border=true&title_color=00C853&text_color=ffffff&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&theme=dark&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&background=0D1117" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0D1117&color=00C853&line=00C853&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## Current Goals
+
+* Build **full-stack MERN applications**
+* Improve **JavaScript problem-solving**
+* Create **pixel-perfect responsive interfaces**
+* Contribute to **open-source projects**
+* Learn **API integration and state management**
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:muhammadfaizankhan525@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://faizan-khan144.github.io/faizan-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00C853" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&label=Profile%20Views&color=00C853&style=for-the-badge" />
+
+### “Consistency turns small projects into a strong portfolio.”
+
+⭐ **If you like my work, consider following my profile and starring my repositories!**
+
+</div>
