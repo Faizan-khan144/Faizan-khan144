@@ -1,36 +1,81 @@
-<div align="center">
+<h1 align="center">Muhammad Faizan Khan</h1>
 
-# Muhammad Faizan Khan
+<h3 align="center">Frontend Developer • Building Modern Web Experiences</h3>
 
-### Frontend Developer • Building Modern Web Experiences
-
+<p align="center">
 Karachi, Pakistan
+</p>
 
-<br>
+<p align="center">
+Passionate about creating clean, responsive and high-performance web applications using modern web technologies.
+</p>
+
+<p align="center">
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
 </a>
 
 <a href="https://github.com/Faizan-khan144?tab=followers">
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=FFD700&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 </a>
 
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=FFD700&labelColor=000000"/>
+<a href="https://github.com/Faizan-khan144?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View-2563eb?style=for-the-badge"/>
 </a>
 
-</div>
+<a href="https://faizan-khan144.github.io/faizan-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Live-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan%20Khan-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammadfaizankhan525@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/faizan525nk">
+<img src="https://img.shields.io/badge/X-@faizan525nk-2563eb?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2563eb?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-2563eb?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Location-Karachi%20Pakistan-2563eb?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # About Me
 
-I'm **Muhammad Faizan Khan**, a frontend developer from **Karachi, Pakistan** who enjoys building modern, responsive and user-friendly web applications.
+I'm **Muhammad Faizan Khan**, a frontend developer passionate about building clean, responsive and user-friendly web experiences.
 
-I primarily work with **HTML, CSS, JavaScript and React**, focusing on writing clean code, creating polished interfaces and continuously improving through real-world projects.
+I primarily work with **HTML, CSS, JavaScript and React**, while continuously expanding my knowledge of modern frontend development through real-world projects.
 
-My goal is to become a professional frontend engineer capable of building fast, accessible and scalable web applications.
+I enjoy transforming ideas into polished interfaces with a strong focus on performance, accessibility and responsive design.
+
+---
+
+# Current Focus
+
+- Building modern React applications
+- Improving JavaScript problem-solving skills
+- Creating responsive user interfaces
+- Learning Python fundamentals
+- Exploring backend development
+- Contributing to open-source projects
 
 ---
 
@@ -48,7 +93,7 @@ My goal is to become a professional frontend engineer capable of building fast, 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,npm"/>
 
 </p>
 
@@ -62,29 +107,6 @@ My goal is to become a professional frontend engineer capable of building fast, 
 
 ---
 
-# Current Focus
-
-- Building modern React applications
-- Improving JavaScript fundamentals
-- Creating responsive UI/UX
-- Learning backend fundamentals
-- Exploring Open Source
-- Writing cleaner and more maintainable code
-
----
-
-# Portfolio
-
-### Personal Portfolio
-
-https://faizan-khan144.github.io/faizan-portfolio/
-
----
-
-# Quote
-
-> Great interfaces aren't built by chance—they're built one component at a time.
-
 # Featured Projects
 
 <table>
@@ -93,18 +115,22 @@ https://faizan-khan144.github.io/faizan-portfolio/
 
 <td width="50%">
 
-## Dev Dashboard
+## Crypto Dashboard
 
-A modern developer dashboard designed to improve productivity with a clean interface and responsive layout.
+A modern cryptocurrency dashboard that displays live market data with a responsive interface focused on performance and usability.
 
-**Tech Stack**
+**Technology**
 
-HTML • CSS • JavaScript
+React • JavaScript • REST API • CSS
 
 <br>
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/Source_Code-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Repository-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://faizan-khan144.github.io/">
+<img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -113,16 +139,20 @@ HTML • CSS • JavaScript
 
 ## Modern Banking Website
 
-A responsive banking landing page with modern UI, smooth layouts and reusable components.
+A responsive banking website featuring a modern UI, reusable sections and a clean user experience.
 
-**Tech Stack**
+**Technology**
 
 HTML • CSS • JavaScript
 
 <br>
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/Source_Code-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Repository-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://faizan-khan144.github.io/fz-bank-modern-banking-website/">
+<img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -130,39 +160,47 @@ HTML • CSS • JavaScript
 </tr>
 
 <tr>
-
-<td width="50%">
-
-## Student Attendance Tracker
-
-A clean attendance management application with an intuitive interface for tracking student records.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-<br>
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/Source_Code-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-</td>
 
 <td width="50%">
 
 ## Restaurant Website
 
-A modern restaurant website featuring responsive layouts, menu sections and interactive UI.
+A responsive restaurant website with interactive sections, elegant layouts and a mobile-first design.
 
-**Tech Stack**
+**Technology**
 
 HTML • CSS • JavaScript
 
 <br>
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/Source_Code-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Repository-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## Student Attendance Tracker
+
+A web application built to simplify attendance management with an intuitive and responsive interface.
+
+**Technology**
+
+HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/badge/Repository-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -173,36 +211,44 @@ HTML • CSS • JavaScript
 
 <td width="50%">
 
-## Crypto Dashboard
+## Personal Portfolio
 
-A cryptocurrency dashboard displaying market information with a modern responsive design.
+My personal portfolio showcasing my projects, skills and journey as a frontend developer.
 
-**Tech Stack**
+**Technology**
 
-React • API • CSS
+HTML • CSS • JavaScript
 
 <br>
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/Source_Code-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Repository-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://faizan-khan144.github.io/faizan-portfolio/">
+<img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-## Personal Portfolio
+## Dev Dashboard
 
-My personal portfolio showcasing projects, skills and experience with a modern responsive design.
+A productivity dashboard built for developers with a modern interface and responsive design.
 
-**Tech Stack**
+**Technology**
 
 HTML • CSS • JavaScript
 
 <br>
 
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/Live_Demo-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000"/>
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/badge/Repository-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Live_Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </td>
@@ -215,30 +261,40 @@ HTML • CSS • JavaScript
 
 # Development Philosophy
 
-```
-Clean Code
+```text
+Plan
 
-Responsive Design
+↓
 
-Performance First
+Design
 
-Accessibility Matters
+↓
 
-Continuous Learning
+Develop
 
-Attention to Detail
+↓
+
+Test
+
+↓
+
+Optimize
+
+↓
+
+Deploy
 ```
 
 ---
 
 # What I'm Working On
 
-- Developing modern React projects
-- Building reusable UI components
-- Improving JavaScript problem-solving skills
-- Learning advanced React concepts
-- Exploring backend development
-- Contributing to open-source projects
+- Building production-ready React applications
+- Improving JavaScript fundamentals
+- Exploring REST APIs
+- Learning backend development
+- Writing clean and maintainable code
+- Creating responsive user interfaces
 
 ---
 
@@ -246,49 +302,9 @@ Attention to Detail
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0f172a&bg_color=f8faff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=transparent&hide_border=true&title_color=FFD700&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=transparent&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=AAAAAA"/>
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** The snake animation will only work after you add a GitHub Action to generate it automatically.
-
----
-
-# GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=0f172a&bg_color=f8faff"/>
 
 </div>
 
@@ -296,110 +312,60 @@ Attention to Detail
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan-khan144&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan-khan144&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
 
 </div>
 
 ---
 
-# Developer Workflow
+# Contribution Activity
 
-```
-Idea
-   │
-   ▼
-Planning
-   │
-   ▼
-Design
-   │
-   ▼
-Development
-   │
-   ▼
-Testing
-   │
-   ▼
-Deployment
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=f8faff&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=github"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan-khan144&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan-khan144&theme=github"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan-khan144&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=github&utcOffset=5"/>
+
+</div>
 
 ---
 
 # Current Goals
 
-✔ Build production-ready React applications
-
-✔ Master modern JavaScript
-
-✔ Learn backend development
-
-✔ Improve UI/UX skills
-
-✔ Contribute to Open Source
-
-✔ Land a Frontend Developer role
-
----
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-</a>
-
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000"/>
-</a>
-
-<a href="mailto:muhammadfaizankhan525@example.com">
-<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
-</a>
-
-</div>
-
----
-
-# Support
-
-If you enjoy my work, consider giving a ⭐ to my repositories.
-
----
-
-# Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-# Currently Learning
-
-```text
-React.js
-
-Modern JavaScript
-
-REST APIs
-
-Frontend Architecture
-
-Performance Optimization
-
-Backend Fundamentals
-```
+- Build production-ready React applications
+- Strengthen JavaScript fundamentals
+- Learn backend development with modern tools
+- Contribute to open-source projects
+- Improve UI/UX design skills
+- Build scalable and maintainable applications
 
 ---
 
@@ -413,24 +379,88 @@ Backend Fundamentals
 
 ---
 
-# Fun Facts
-
-- I enjoy rebuilding old projects to improve their UI and code quality.
-- I believe small improvements every day lead to great results.
-- Clean code and responsive design are priorities in every project I build.
-
 ---
+
+# Connect With Me
 
 <div align="center">
 
-## Thanks for visiting my profile
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/badge/GitHub-Faizan--khan144-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Building modern web experiences with clean code and thoughtful design.
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan%20Khan-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://faizan-khan144.github.io/faizan-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
+<a href="mailto:muhammadfaizankhan525@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/faizan525nk">
+<img src="https://img.shields.io/badge/X-@faizan525nk-2563eb?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </div>
 
 ---
+
+# Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> Enable a GitHub Action later to generate the snake animation automatically.
+
+---
+
+# Development Principles
+
+```text
+Write Clean Code
+
+Build Responsive Interfaces
+
+Keep Learning
+
+Improve Every Project
+
+Focus On User Experience
+
+Never Stop Building
+```
+
+---
+
+# Thanks For Visiting
+
+<div align="center">
+
+If you like my work, consider starring one of my repositories.
+
+Building modern web experiences with clean code, thoughtful design and continuous learning.
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2563eb&section=footer"/>
+
+</div>
+
+
