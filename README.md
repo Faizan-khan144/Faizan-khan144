@@ -69,17 +69,38 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 ## 🚀 Featured Projects
 
-> Swap these placeholders for your 3–6 strongest repos. A short, punchy description + live demo link makes each one count.
-
 <div align="center">
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| **[Project One](https://github.com/Faizan-khan144)** | One-line summary of what it does and why it's interesting | HTML · CSS · JS | [Demo](https://vercel.com) |
-| **[Project Two](https://github.com/Faizan-khan144)** | One-line summary of what it does and why it's interesting | React · Tailwind | [Demo](https://vercel.com) |
-| **[Project Three](https://github.com/Faizan-khan144)** | One-line summary of what it does and why it's interesting | React · Tailwind · API | [Demo](https://vercel.com) |
+| 🌀 **[Vortex Portfolio](https://github.com/Faizan-khan144)** | *Add repo link* — personal portfolio site showcasing projects, skills, and contact info | HTML · CSS · JS | *Add live link* |
+| 🛒 **[E-Commerce Website](https://github.com/Faizan-khan144)** | *Add repo link* — online store front with product listings, cart, and checkout flow | HTML · CSS · JS | *Add live link* |
+| 🏦 **[FZ Bank — Modern Banking Website](https://github.com/Faizan-khan144/fz-bank-modern-banking-website)** | A banking website UI with deposits, withdrawals, balance tracking, and a responsive interface | HTML · CSS · JS | [Repo](https://github.com/Faizan-khan144/fz-bank-modern-banking-website) |
 
 </div>
+
+### 🌀 Vortex Portfolio
+> Personal portfolio project. *Send me the repo link and I'll pull in the real description, tech stack, and live demo.*
+
+**Placeholder highlights** (replace once confirmed):
+- 🎨 Custom-designed personal brand and layout
+- 🧭 Project showcase with links to live demos
+- 📱 Fully responsive across devices
+
+### 🛒 E-Commerce Website
+> Online store project. *Send me the repo link and I'll pull in the real description, tech stack, and live demo.*
+
+**Placeholder highlights** (replace once confirmed):
+- 🛍️ Product listing and detail pages
+- 🛒 Cart and checkout flow
+- 💳 Responsive, mobile-friendly storefront
+
+### 🏦 FZ Bank — Modern Banking Website
+- 💰 Deposit, withdrawal, and balance tracking features
+- 🎨 Clean, responsive banking UI
+- ⭐ 4 stars · 🍴 1 fork on GitHub
+
+> More repos live at [github.com/Faizan-khan144](https://github.com/Faizan-khan144?tab=repositories) — pin your next strongest projects here as you build them.
 
 <br/>
 
@@ -135,6 +156,61 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 ---
 
+## 🗓️ My Learning Timeline
+
+```
+2024  ─── Started with HTML, CSS & JavaScript fundamentals
+2025  ─── Built first static websites & UI clones
+2026  ─── Learning React.js, Tailwind CSS & Python
+Next  ─── Ship full-stack projects, contribute to open-source,
+          and land a front-end developer role
+```
+
+<br/>
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Codewars](https://img.shields.io/badge/Codewars-Add%20Profile-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Add%20Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
+
+*Add your handles on these platforms once you're active there — it's an easy credibility boost for recruiters.*
+
+</div>
+
+<br/>
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>What's your current tech stack?</b></summary>
+<br/>
+HTML5, CSS3, and JavaScript are my strongest tools. I'm actively building with React.js and Tailwind CSS, and learning Python for backend/scripting work.
+</details>
+
+<details>
+<summary><b>Are you open to freelance or junior roles?</b></summary>
+<br/>
+Yes — open to junior/entry-level front-end roles, freelance gigs, and collaborations on beginner-friendly or open-source projects.
+</details>
+
+<details>
+<summary><b>How can I collaborate with you?</b></summary>
+<br/>
+Reach out via email or LinkedIn (links below) — happy to pair on projects or just talk tech.
+</details>
+
+<br/>
+
+---
+
 ## 🤝 Let's Build Something Together
 
 I'm early in my React, Tailwind, and JavaScript journey, but always open to collaborating on beginner-friendly projects, pairing with other learners, or connecting with developers who are further along. If you'd like to work together or just talk tech, my inbox is always open.
@@ -154,6 +230,32 @@ I'm early in my React, Tailwind, and JavaScript journey, but always open to coll
 
 </div>
 
+<br/>
+
 ---
 
-<p align="center"><code>&lt; Code /&gt;</code> • <code>Learn</code> • <code>Build</code> • <code>Repeat</code></p>
+## ⭐ Support My Work
+
+If any of my projects helped you or you'd like to support my journey:
+
+<div align="center">
+
+![Star](https://img.shields.io/badge/⭐_Star_my_repos-2563eb?style=for-the-badge)
+![Follow](https://img.shields.io/badge/👤_Follow_on_GitHub-2563eb?style=for-the-badge)
+![Share](https://img.shields.io/badge/🔁_Share_with_others-2563eb?style=for-the-badge)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💭 "Learn → Build → Improve → Repeat"
+
+<p><code>&lt; Code /&gt;</code> • <code>Learn</code> • <code>Build</code> • <code>Repeat</code></p>
+
+<sub>Thanks for stopping by — feel free to explore my pinned repos above 👆</sub>
+
+</div>
