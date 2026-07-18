@@ -73,32 +73,29 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🌀 **[Vortex Portfolio](https://github.com/Faizan-khan144)** | *Add repo link* — personal portfolio site showcasing projects, skills, and contact info | HTML · CSS · JS | *Add live link* |
-| 🛒 **[E-Commerce Website](https://github.com/Faizan-khan144)** | *Add repo link* — online store front with product listings, cart, and checkout flow | HTML · CSS · JS | *Add live link* |
-| 🏦 **[FZ Bank — Modern Banking Website](https://github.com/Faizan-khan144/fz-bank-modern-banking-website)** | A banking website UI with deposits, withdrawals, balance tracking, and a responsive interface | HTML · CSS · JS | [Repo](https://github.com/Faizan-khan144/fz-bank-modern-banking-website) |
+| 🌐 **[Faizan Portfolio](https://github.com/Faizan-khan144/faizan-portfolio)** | Personal responsive portfolio with a terminal-style animated hero, project showcase, and contact form | HTML · CSS · JS | [View Live](https://faizan-khan144.github.io/faizan-portfolio/) |
+| 🛍️ **[August & Oak — E-Commerce](https://github.com/Faizan-khan144/august-and-oak-ecommerce)** | Modern e-commerce storefront with product search, category filtering, wishlist, cart, and quick view | HTML · CSS · JS | ⭐ 3 stars |
+| 🌀 **[Vortex Agency](https://github.com/Faizan-khan144/vortex-agency)** | Digital agency website with responsive layouts, interactive animations, and a premium UX feel | HTML · CSS · JS | ⭐ 3 stars |
 
 </div>
 
-### 🌀 Vortex Portfolio
-> Personal portfolio project. *Send me the repo link and I'll pull in the real description, tech stack, and live demo.*
+### 🌐 Faizan Portfolio
+- 🖥️ Terminal-style animated hero section
+- 🧩 Responsive skills grid & project showcase with live links
+- 🗺️ Roadmap/goals section and working contact form
+- ⭐ 2 stars on GitHub
 
-**Placeholder highlights** (replace once confirmed):
-- 🎨 Custom-designed personal brand and layout
-- 🧭 Project showcase with links to live demos
+### 🛍️ August & Oak — E-Commerce
+- 🔍 Product search, category filtering, and sorting
+- 🛒 Shopping cart, wishlist, and quick view with Local Storage support
+- 📰 Newsletter signup, testimonials, and FAQ sections
+- ⭐ 3 stars on GitHub
+
+### 🌀 Vortex Agency
+- 🎨 Premium, animation-rich digital agency design
 - 📱 Fully responsive across devices
-
-### 🛒 E-Commerce Website
-> Online store project. *Send me the repo link and I'll pull in the real description, tech stack, and live demo.*
-
-**Placeholder highlights** (replace once confirmed):
-- 🛍️ Product listing and detail pages
-- 🛒 Cart and checkout flow
-- 💳 Responsive, mobile-friendly storefront
-
-### 🏦 FZ Bank — Modern Banking Website
-- 💰 Deposit, withdrawal, and balance tracking features
-- 🎨 Clean, responsive banking UI
-- ⭐ 4 stars · 🍴 1 fork on GitHub
+- ⚡ Smooth interactive transitions throughout
+- ⭐ 3 stars on GitHub
 
 > More repos live at [github.com/Faizan-khan144](https://github.com/Faizan-khan144?tab=repositories) — pin your next strongest projects here as you build them.
 
@@ -175,11 +172,9 @@ Next  ─── Ship full-stack projects, contribute to open-source,
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Codewars](https://img.shields.io/badge/Codewars-Add%20Profile-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Add%20Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-
-*Add your handles on these platforms once you're active there — it's an easy credibility boost for recruiters.*
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yOe2wMOKjt/)
+[![Codewars](https://img.shields.io/badge/Codewars-Faizan--khan144-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Faizan-khan144)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Muhammad--Faizan--khan-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Muhammad-Faizan-khan)
 
 </div>
 
