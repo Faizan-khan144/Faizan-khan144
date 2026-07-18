@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muhammad Faizan Khan 👋
+# Hi, I'm Muhammad Faizan Khan 
 
 ### Front-End Developer • Learning by Building
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a front-end developer based in Karachi, Pakistan, focused on turning designs into clean, responsive, and accessible web experiences.
 
@@ -32,16 +32,16 @@ I'm not claiming expertise in React, Tailwind, or advanced JavaScript yet — I'
 
 I'm currently **open to junior/entry-level front-end roles** and looking to collaborate on beginner-friendly or open-source projects.
 
-- 🔭 Currently learning **React.js**, **Tailwind CSS**, and **Python**
-- 💬 Ask me about **HTML, CSS, and JavaScript fundamentals**
-- 📫 Reach me at **muhammadfaizankhan525@example.com**
-- ⚡ Fun fact: **I enjoy refactoring old projects until every pixel behaves**
+-  Currently learning **React.js**, **Tailwind CSS**, and **Python**
+-  Ask me about **HTML, CSS, and JavaScript fundamentals**
+-  Reach me at **muhammadfaizankhan525@example.com**
+-  Fun fact: **I enjoy refactoring old projects until every pixel behaves**
 
 <br/>
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <div align="center">
 
@@ -67,43 +67,43 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🌐 **[Faizan Portfolio](https://github.com/Faizan-khan144/faizan-portfolio)** | Personal responsive portfolio with a terminal-style animated hero, project showcase, and contact form | HTML · CSS · JS | [View Live](https://faizan-khan144.github.io/faizan-portfolio/) |
-| 🛍️ **[August & Oak — E-Commerce](https://github.com/Faizan-khan144/august-and-oak-ecommerce)** | Modern e-commerce storefront with product search, category filtering, wishlist, cart, and quick view | HTML · CSS · JS | ⭐ 3 stars |
-| 🌀 **[Vortex Agency](https://github.com/Faizan-khan144/vortex-agency)** | Digital agency website with responsive layouts, interactive animations, and a premium UX feel | HTML · CSS · JS | ⭐ 3 stars |
+|  **[Faizan Portfolio](https://github.com/Faizan-khan144/faizan-portfolio)** | Personal responsive portfolio with a terminal-style animated hero, project showcase, and contact form | HTML · CSS · JS | [View Live](https://faizan-khan144.github.io/faizan-portfolio/) |
+|  **[August & Oak — E-Commerce](https://github.com/Faizan-khan144/august-and-oak-ecommerce)** | Modern e-commerce storefront with product search, category filtering, wishlist, cart, and quick view | HTML · CSS · JS | ⭐ 3 stars |
+|  **[Vortex Agency](https://github.com/Faizan-khan144/vortex-agency)** | Digital agency website with responsive layouts, interactive animations, and a premium UX feel | HTML · CSS · JS | ⭐ 3 stars |
 
 </div>
 
-### 🌐 Faizan Portfolio
-- 🖥️ Terminal-style animated hero section
-- 🧩 Responsive skills grid & project showcase with live links
-- 🗺️ Roadmap/goals section and working contact form
+###  Faizan Portfolio
+-  Terminal-style animated hero section
+-  Responsive skills grid & project showcase with live links
+-  Roadmap/goals section and working contact form
 - ⭐ 2 stars on GitHub
 
-### 🛍️ August & Oak — E-Commerce
-- 🔍 Product search, category filtering, and sorting
-- 🛒 Shopping cart, wishlist, and quick view with Local Storage support
-- 📰 Newsletter signup, testimonials, and FAQ sections
+###  August & Oak — E-Commerce
+-  Product search, category filtering, and sorting
+-  Shopping cart, wishlist, and quick view with Local Storage support
+-  Newsletter signup, testimonials, and FAQ sections
 - ⭐ 3 stars on GitHub
 
-### 🌀 Vortex Agency
-- 🎨 Premium, animation-rich digital agency design
-- 📱 Fully responsive across devices
-- ⚡ Smooth interactive transitions throughout
-- ⭐ 3 stars on GitHub
+###  Vortex Agency
+-  Premium, animation-rich digital agency design
+-  Fully responsive across devices
+-  Smooth interactive transitions throughout
+-  3 stars on GitHub
 
-> More repos live at [github.com/Faizan-khan144](https://github.com/Faizan-khan144?tab=repositories) — pin your next strongest projects here as you build them.
+> More repos live at [github.com/Faizan-khan144](https://github.com/Faizan-khan144?tab=repositories) 
 
 <br/>
 
 ---
 
-## 📈 Where I'm At
+##  Where I'm At
 
 | Skill | Progress |
 |---|---|
@@ -120,7 +120,7 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -139,7 +139,7 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 ---
 
-## 🎯 Goals for 2026
+##  Goals for 2026
 
 - [x] Build multiple real-world projects
 - [ ] Get confident and comfortable with **React.js**
@@ -153,7 +153,7 @@ I'm currently **open to junior/entry-level front-end roles** and looking to coll
 
 ---
 
-## 🗓️ My Learning Timeline
+##  My Learning Timeline
 
 ```
 2024  ─── Started with HTML, CSS & JavaScript fundamentals
@@ -167,7 +167,7 @@ Next  ─── Ship full-stack projects, contribute to open-source,
 
 ---
 
-## 🧩 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -182,7 +182,7 @@ Next  ─── Ship full-stack projects, contribute to open-source,
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 <details>
 <summary><b>What's your current tech stack?</b></summary>
@@ -206,7 +206,7 @@ Reach out via email or LinkedIn (links below) — happy to pair on projects or j
 
 ---
 
-## 🤝 Let's Build Something Together
+##  Let's Build Something Together
 
 I'm early in my React, Tailwind, and JavaScript journey, but always open to collaborating on beginner-friendly projects, pairing with other learners, or connecting with developers who are further along. If you'd like to work together or just talk tech, my inbox is always open.
 
@@ -214,7 +214,7 @@ I'm early in my React, Tailwind, and JavaScript journey, but always open to coll
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -229,7 +229,7 @@ I'm early in my React, Tailwind, and JavaScript journey, but always open to coll
 
 ---
 
-## ⭐ Support My Work
+##  Support My Work
 
 If any of my projects helped you or you'd like to support my journey:
 
