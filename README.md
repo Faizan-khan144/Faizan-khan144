@@ -126,14 +126,26 @@ I'm currently **open to junior/entry-level roles** and looking to collaborate on
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=0f172a&bg_color=f8faff" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=0f172a&bg_color=f8faff" height="185"/>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=github_light&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=github_light&hide_border=true&langs_count=8" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=default&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=64748b&dates=64748b&background=f8faff"/>
+<p>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=github-light&hide_border=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=f8faff&color=2563eb&line=2563eb&point=0f172a&area=true&hide_border=true"/>
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true&area=true" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+<p>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=github" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15" />
+</p>
 
 </div>
 
