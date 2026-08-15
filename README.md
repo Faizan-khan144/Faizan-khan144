@@ -1,330 +1,409 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Muhammad%20Faizan%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner%20%7C%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
+# Muhammad Faizan Khan
+
+### Frontend Developer • MERN Stack Learner • Python Developer • AI & Data Enthusiast
+
+Building modern web experiences, learning full-stack development, and exploring Python-based data & AI workflows.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<p>
+  <a href="https://github.com/Faizan-khan144">
+    <img src="https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/faizan525nk">
+    <img src="https://img.shields.io/badge/X-@faizan525nk-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Development-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Muhammad Faizan Khan**, a developer focused on building modern, responsive, and user-friendly web applications.
+
+My development journey started with **HTML, CSS, and JavaScript**, and has grown into exploring the **MERN stack**, modern frontend tooling, and Python-based development.
+
+Currently, I'm expanding my skills across two major areas:
+
+* **Web Development** — React, Tailwind CSS, Node.js, Express.js, MongoDB
+* **Python & Data** — Python, NumPy, Pandas, Matplotlib, Seaborn, and AI-focused development
+
+I believe the best way to learn development is to **build real projects, break things, understand why they broke, and improve them**.
+
+I'm continuously building projects, improving my coding practices, and exploring new technologies.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+```text
+Frontend Development
+├── HTML5
+├── CSS3
+├── JavaScript
+├── React.js
+└── Tailwind CSS
+
+Full-Stack Development
+├── Node.js
+├── Express.js
+└── MongoDB
+
+Python Development
+├── Python
+├── NumPy
+├── Pandas
+├── Matplotlib
+└── Seaborn
+
+Developer Tools
+├── Git
+├── GitHub
+├── VS Code / VSCodium
+├── Postman
+├── npm
+└── Vercel
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
+</p>
+
+**HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS**
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light" />
+</p>
+
+**Node.js · Express.js · MongoDB**
+
+### Python & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=light" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+**Python · NumPy · Pandas · Matplotlib · Seaborn**
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,npm,notion&theme=light" />
+</p>
+
+**Git · GitHub · VS Code · VSCodium · Postman · Vercel · Linux · npm · Notion**
+
+---
+
+## 🧩 Development Focus
+
+| Area                        | Technologies                                    |
+| --------------------------- | ----------------------------------------------- |
+| **Frontend**                | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
+| **Backend**                 | Node.js, Express.js                             |
+| **Database**                | MongoDB                                         |
+| **Programming**             | JavaScript, Python                              |
+| **Python Data Stack**       | NumPy, Pandas, Matplotlib, Seaborn              |
+| **Version Control**         | Git, GitHub                                     |
+| **API Development**         | REST APIs, Postman                              |
+| **Deployment**              | Vercel                                          |
+| **Development Environment** | VS Code, VSCodium, Linux                        |
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+### 🌐 Faizan Portfolio
+
+**Personal developer portfolio showcasing my projects, skills, experience, and development journey.**
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Faizan-khan144/faizan-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge\&logo=vercel\&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 🛍️ August & Oak — E-Commerce
+
+A modern e-commerce experience focused on responsive UI, product discovery, filtering, cart functionality, wishlist functionality, and a polished shopping experience.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Faizan-khan144/august-and-oak-ecommerce)
+
+**Tech:** HTML · CSS · JavaScript · Local Storage
+
+---
+
+### 🏢 Vortex Agency
+
+A modern digital agency website designed around premium visuals, responsive layouts, interactive sections, and smooth user experiences.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Faizan-khan144/vortex-agency)
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 💳 FZ Bank
+
+A modern banking interface focused on creating a clean financial dashboard experience with responsive layouts and interactive UI components.
+
+[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Faizan-khan144)
+
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+### 📊 HR Analytics Dashboard
+
+A dashboard project focused on transforming structured data into meaningful visual insights and an easy-to-understand analytics experience.
+
+[![GitHub](https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Faizan-khan144)
+
+**Focus:** Data Analysis · Visualization · Dashboard Design
+
+</div>
+
+---
+
+# 📚 Current Learning
+
+### Full-Stack Development
+
+Currently developing my understanding of the **MERN ecosystem**:
+
+```text
+MongoDB
+   ↓
+Express.js
+   ↓
+React.js
+   ↓
+Node.js
+```
+
+I'm focusing on understanding how frontend applications communicate with backend APIs, how databases integrate with applications, and how complete web applications are structured.
+
+### Python & Data
+
+I'm also expanding my Python development skills through:
+
+```text
+Python
+  │
+  ├── NumPy
+  │
+  ├── Pandas
+  │
+  ├── Matplotlib
+  │
+  └── Seaborn
+```
+
+My current focus includes **arrays, data manipulation, data analysis, visualization, performance concepts, and building a strong Python foundation for future AI development**.
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Build multiple real-world frontend projects
+* [x] Strengthen HTML & CSS fundamentals
+* [x] Build JavaScript-based applications
+* [x] Start learning React.js
+* [x] Start learning Python
+* [x] Start working with NumPy
+* [x] Start working with Pandas
+* [x] Start exploring Matplotlib & Seaborn
+* [ ] Build complete MERN applications
+* [ ] Build and consume REST APIs
+* [ ] Strengthen Node.js & Express.js
+* [ ] Build projects using MongoDB
+* [ ] Build my first AI-powered Python project
+* [ ] Contribute to open-source projects
+* [ ] Continue improving software development practices
+
+---
+
+# 🧠 Development Philosophy
+
+> **Learn → Build → Debug → Improve → Repeat**
+
+I don't want to simply collect technologies.
+
+I want to understand how they work, use them in real projects, and continuously improve the way I build software.
+
+Every project is an opportunity to learn something new.
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=github_light&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=github_light&hide_border=true&langs_count=8"/>
 
 <br/>
 
+<img height="180em" src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=github-light&hide_border=true"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GitHub-Faizan--khan144-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/LinkedIn-Faizan%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://leetcode.com/u/yOe2wMOKjt/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<a href="https://www.codewars.com/users/Faizan-khan144">
+<img src="https://img.shields.io/badge/Codewars-Faizan--khan144-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
 </a>
+
+<a href="https://www.freecodecamp.org/Muhammad-Faizan-khan">
+<img src="https://img.shields.io/badge/freeCodeCamp-Muhammad--Faizan--khan-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🗺️ My Development Journey
+
+```text
+2024
+│
+├── HTML
+├── CSS
+└── JavaScript Fundamentals
+        │
+        ▼
+2025
+│
+├── Responsive Web Development
+├── Frontend Projects
+├── Git & GitHub
+└── Modern UI Development
+        │
+        ▼
+2026
+│
+├── React.js
+├── Tailwind CSS
+├── MERN Stack
+│   ├── MongoDB
+│   ├── Express.js
+│   ├── React.js
+│   └── Node.js
+│
+├── Python
+├── NumPy
+├── Pandas
+├── Matplotlib
+└── Seaborn
+        │
+        ▼
+NEXT
+│
+├── Full-Stack MERN Applications
+├── REST APIs
+├── AI with Python
+├── Data-driven Applications
+├── Open Source
+└── Production-ready Projects
+```
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on projects, learning from others, and exploring new opportunities.
+
+<div align="center">
+
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://x.com/faizan525nk">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-# `> whoami`
-
-I'm **Muhammad Faizan Khan**, a developer focused on building modern, responsive, and interactive web experiences.
-
-My development path started with **HTML, CSS, and JavaScript** and has expanded into **React, Tailwind CSS, Git/GitHub, and the MERN stack**.
-
-I'm also developing my **Python skills**, currently working with **NumPy, Pandas, Matplotlib, and Seaborn**, while exploring Python for data-focused and AI-powered applications.
-
-I learn by **building, breaking, debugging, rebuilding, and shipping**.
-
-### Development Direction
-
-`Frontend Development` → `MERN Stack` → `Python & Data` → `AI with Python`
-
----
-
-# `01` — CURRENT FOCUS
-
-<table>
-<tr>
-<td width="50%">
-
-### Web Development
-
-Currently strengthening my frontend and full-stack development skills.
-
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Vite
-
-**Full Stack**
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Git & GitHub
-
-</td>
-
-<td width="50%">
-
-### Python & Data
-
-Building my Python foundation and moving toward data-focused programming.
-
-**Python**
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
-**Exploring**
-- Data manipulation
-- Data visualization
-- AI with Python
-- Python-based projects
-
-</td>
-</tr>
-</table>
-
----
-
-# `02` — TECHNOLOGY STACK
-
-> A practical stack focused on modern web development, MERN applications, Python, and data exploration.
-
-### Frontend Development
-
-`HTML5` · `CSS3` · `JavaScript` · `React.js` · `Tailwind CSS` · `Vite`
-
-### MERN Stack
-
-`MongoDB` · `Express.js` · `React.js` · `Node.js` · `REST APIs`
-
-### Python & Data
-
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
-
-### Development & Workflow
-
-`Git` · `GitHub` · `VS Code` · `VSCodium` · `NPM` · `Postman` · `Linux` · `Vercel`
-
-### Design & Creative
-
-`Figma` · `Canva` · `CapCut`
-
----
-
-### CURRENT DEVELOPMENT PATH
-
-**Frontend**
-
-HTML → CSS → JavaScript → React → Tailwind CSS
-
-**Full Stack**
-
-React → Node.js → Express.js → MongoDB → REST APIs
-
-**Python**
-
-Python → NumPy → Pandas → Matplotlib → Seaborn
-
-**Next**
-
-MERN Applications → Data Projects → AI with Python
-
-> **My stack evolves with every project — learning, building, improving.**
-
----
-
-# `03` — WHAT I BUILD
-
-I enjoy creating projects that combine **clean UI, responsive design, interactivity, and practical functionality**.
-
-| Project | Description | Technology |
-| :--- | :--- | :--- |
-| **Faizan Portfolio** | Personal developer portfolio | HTML · CSS · JavaScript |
-| **August & Oak** | Modern e-commerce storefront | HTML · CSS · JavaScript |
-| **Vortex Agency** | Premium digital agency website | HTML · CSS · JavaScript |
-| **FZ Bank** | Modern banking interface | HTML · CSS · JavaScript |
-| **CryptoLens** | Cryptocurrency dashboard | HTML · CSS · JavaScript |
-| **Student Attendance** | Attendance management interface | HTML · CSS · JavaScript |
-| **Modern Tic-Tac-Toe** | Interactive browser game | HTML · CSS · JavaScript |
-| **FZ Fitness** | Fitness-focused web experience | HTML · CSS · JavaScript |
-| **HR Analytics** | Dashboard and analytics project | Dashboard · Visualization |
-
----
-
-# `04` — FEATURED WORK
-
-<div align="center">
-
-### FAIZAN PORTFOLIO
-
-**A personal developer platform showcasing my work, skills, projects, and development journey.**
-
-<a href="https://github.com/Faizan-khan144/faizan-portfolio">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### AUGUST & OAK
-
-**A modern e-commerce experience with product discovery and interactive shopping features.**
-
-`Search` · `Filtering` · `Sorting` · `Cart` · `Wishlist` · `Quick View` · `Local Storage`
-
-<br/>
-
-<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### VORTEX AGENCY
-
-**A premium digital agency concept focused on visual design, responsive layouts, and interactive experiences.**
-
-`Responsive UI` · `Animations` · `Modern Layouts` · `Interactive Sections`
-
-<br/>
-
-<a href="https://github.com/Faizan-khan144/vortex-agency">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:muhammadfaizankhan525@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# `05` — DEVELOPMENT PHILOSOPHY
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-SHIP
-  ↓
-REPEAT
-
-I don't want to only learn technologies. I want to build things with them.
-
-06 — LEARNING ROADMAP
-Completed Foundations
- HTML
- CSS
- Responsive Web Design
- JavaScript Fundamentals
- Git & GitHub
- Multiple Frontend Projects
- Personal Portfolio
-Currently Learning
- Advanced JavaScript
- React.js
- Tailwind CSS
- Node.js
- Express.js
- MongoDB
- MERN Applications
- Python
- NumPy
- Pandas
- Matplotlib
- Seaborn
- AI with Python
-Next Stage
- Build larger full-stack applications
- Build Python-based data projects
- Explore AI-powered applications
- Contribute to open source
- Strengthen production development practices
- Continue gaining professional experience
-07 — DEVELOPMENT JOURNEY
-2024
-
-HTML → CSS → First Web Projects
-
-2025
-
-JavaScript → Responsive Design → Git & GitHub → Portfolio Development
-
-2026
-
-React.js → Tailwind CSS → MERN Stack → Python → NumPy → Pandas → Matplotlib → Seaborn → AI with Python
-
-NEXT CHAPTER
-
-Full-Stack Applications → Advanced React → Python Projects → AI Experiments → Open Source
-
-08 — GITHUB ANALYTICS
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=tokyonight&hide_border=true"/> </div>
-09 — CONTRIBUTION ACTIVITY
-<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=tokyo-night&hide_border=true&area=true&custom_title=Faizan's%20Contribution%20Activity"/> </div>
-10 — PROFILE SUMMARY
-<div align="center"> <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan-khan144&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan-khan144&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan-khan144&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=tokyonight&utcOffset=5"/> </div>
-11 — GITHUB TROPHIES
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12"/> </div>
-12 — CODING PROFILES
-<div align="center"> <a href="https://leetcode.com/u/yOe2wMOKjt/"> <img src="https://img.shields.io/badge/LeetCode-Faizan-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://www.codewars.com/users/Faizan-khan144"> <img src="https://img.shields.io/badge/Codewars-Faizan--khan144-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/> </a> <a href="https://www.freecodecamp.org/Muhammad-Faizan-khan"> <img src="https://img.shields.io/badge/freeCodeCamp-Muhammad--Faizan--khan-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/> </a> </div>
-13 — 2026 TARGETS
-Area	Direction
-Frontend	Stronger JavaScript + React skills
-Full Stack	Complete MERN applications
-Python	Stronger Python + data libraries
-Projects	More practical real-world applications
-Open Source	Begin contributing to open-source projects
-14 — BEYOND CODE
-
-I also enjoy working on the design and presentation side of technology.
-
-Creative Toolkit
-
-Figma · Canva · CapCut · UI Design · Responsive Layouts · Portfolio Design · Developer Branding
-
-I care about both sides of development:
-
-How it works → How it feels
-
-15 — CONNECT
 <div align="center">
-Have an idea, project, or opportunity?
 
-Let's connect.
+## ⚡ Build. Learn. Improve.
 
-<br/> <a href="https://github.com/Faizan-khan144"> <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://faizan-portfolio-kappa.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Projects-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+**Frontend Development · MERN · Python · Data · AI**
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat-square&color=2563eb&label=VISITORS"/>
+<sub>Thanks for visiting my profile. Explore my repositories and follow the journey.</sub>
 
-<br/><br/>
-
-Learn. Build. Debug. Ship. Repeat.
-</div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/> </div> ```
+</div>
