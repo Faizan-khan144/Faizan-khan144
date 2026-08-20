@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1917,100:292524&height=200&section=header&text=Muhammad%20Faizan%20Khan&fontSize=38&fontColor=d4af37&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20%7C%20Python%20%26%20Data&descAlignY=58&descSize=16&descColor=e5e5e5" width="100%" />
 
-</div>
 
 ### Frontend Developer · MERN Stack Learner · Python Developer · Data & AI Enthusiast
 
