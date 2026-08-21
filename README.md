@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=200&section=header&text=Muhammad%20Faizan%20Khan&fontSize=38&fontColor=ffffff" width="100%" />
 
-</div>
+
 
 
 ### Frontend Developer · MERN Stack Learner · Python Developer · Data & AI Enthusiast
