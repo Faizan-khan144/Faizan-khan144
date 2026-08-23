@@ -1,32 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Muhammad%20Faizan%20Khan&fontSize=36&fontColor=ffffff&animation=fadeIn&color=0:020617,50:0f172a,100:0ea5e9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Muhammad%20Faizan%20Khan&fontSize=36&fontColor=d4af37&animation=fadeIn&color=0:0a0a0a,50:1c1917,100:0a0a0a" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Learner;Python+%2B+Data+Enthusiast;print(%22Always+shipping%22)" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Learner;Python+%2B+Data+Enthusiast;print(%22Always+shipping%22)" alt="Typing SVG"/>
 
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/followers/Faizan-khan144?logo=github&style=flat&color=0f172a&labelColor=020617"/></a>
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/stars/Faizan-khan144?logo=github&style=flat&color=0f172a&labelColor=020617"/></a>
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=0f172a&style=flat&label=Views"/>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/followers/Faizan-khan144?logo=github&style=flat&color=1c1917&labelColor=0a0a0a&logoColor=d4af37"/></a>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/stars/Faizan-khan144?logo=github&style=flat&color=1c1917&labelColor=0a0a0a&logoColor=d4af37"/></a>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=1c1917&style=flat&label=Views"/>
 
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-0f172a?style=flat&logo=x&logoColor=38BDF8"/></a>
-<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat&logo=gmail&logoColor=38BDF8"/></a>
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-1c1917?style=flat&logo=linkedin&logoColor=d4af37"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-1c1917?style=flat&logo=x&logoColor=d4af37"/></a>
+<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-1c1917?style=flat&logo=gmail&logoColor=d4af37"/></a>
+<img src="https://img.shields.io/badge/Open_to_Work-1c1917?style=flat&logo=googlechrome&logoColor=d4af37"/>
 
 </div>
 
-<br>
+---
 
-## 💻 whoami
+## 💻 About Me
 
 ```python
 class MuhammadFaizanKhan:
     """Frontend Developer, transitioning into full-stack + data."""
 
     role        = "Frontend Developer"
-    learning    = ["MERN Stack", "Python for Data & AI"]
+    location    = "Pakistan"
     stack       = ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"]
-    exploring   = ["Node.js", "Express", "MongoDB", "NumPy", "Pandas"]
-    based_in    = "Pakistan"
+    learning    = ["Node.js", "Express", "MongoDB", "MERN Stack"]
+    exploring   = ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
+    available_for = ["Open source", "Internships", "Junior dev roles"]
 
     def philosophy(self) -> str:
         return "I don't just want to learn technologies — I want to build things with them."
@@ -40,25 +42,66 @@ print(me.philosophy())
 # → I don't just want to learn technologies — I want to build things with them.
 ```
 
-<br>
+*"Learn → Build → Debug → Improve → Repeat."*
+
+---
 
 ## 🧰 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel&perline=7&theme=dark"/>
-
 </div>
 
-| Category | Tools |
-|---|---|
-| **Frontend** | HTML5 · CSS3 · JavaScript · React · Tailwind CSS |
-| **Backend (learning)** | Node.js · Express.js · REST APIs |
-| **Database (learning)** | MongoDB |
-| **Python & Data** | Python · NumPy · Pandas · Matplotlib · Seaborn |
-| **Tools** | Git · GitHub · VS Code · Postman · Vercel |
+<table align="center">
+<tr>
+<td valign="top" width="20%">
 
-<br>
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+
+</td>
+<td valign="top" width="20%">
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+</td>
+<td valign="top" width="20%">
+
+**Database**
+- MongoDB
+- Local Storage
+
+</td>
+<td valign="top" width="20%">
+
+**Python & Data**
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+</td>
+<td valign="top" width="20%">
+
+**Dev Tools**
+- Git · GitHub
+- VS Code
+- Postman
+- Vercel
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🏗️ MERN Architecture — what I'm building toward
 
@@ -71,13 +114,13 @@ flowchart TD
     C --> B
     B -->|JSON Response| A
 
-    style A fill:#0f172a,stroke:#38BDF8,color:#e2e8f0
-    style B fill:#0f172a,stroke:#38BDF8,color:#e2e8f0
-    style C fill:#0f172a,stroke:#38BDF8,color:#e2e8f0
-    style D fill:#0f172a,stroke:#38BDF8,color:#e2e8f0
+    style A fill:#1c1917,stroke:#d4af37,color:#e5e5e5
+    style B fill:#1c1917,stroke:#d4af37,color:#e5e5e5
+    style C fill:#1c1917,stroke:#d4af37,color:#e5e5e5
+    style D fill:#1c1917,stroke:#d4af37,color:#e5e5e5
 ```
 
-<br>
+---
 
 ## 🧭 2026 Learning Roadmap
 
@@ -98,7 +141,7 @@ timeline
         Open Source : First real-world contributions
 ```
 
-<br>
+---
 
 ## 🎯 Current Focus Board
 
@@ -121,7 +164,7 @@ kanban
         Student Attendance Tracker
 ```
 
-<br>
+---
 
 ## 🔁 How I Work
 
@@ -137,7 +180,25 @@ gitGraph
     commit id: "deploy"
 ```
 
-<br>
+---
+
+## 🧠 What I'm Open To
+
+```mermaid
+mindmap
+  root((Faizan))
+    Collaboration
+      Open source projects
+      Web dev collabs
+    Learning
+      From experienced devs
+      MERN + Python deep dives
+    Opportunities
+      Internships
+      Junior developer roles
+```
+
+---
 
 ## 🚀 Featured Projects
 
@@ -180,61 +241,74 @@ Banking interface with clean layouts and a dashboard experience.
 </tr>
 </table>
 
-<br>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=d4af37&text_color=e5e5e5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d4af37&text_color=e5e5e5"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=020617&stroke=1e293b&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=CBD5E1&dates=64748B"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=0a0a0a&stroke=1c1917&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=e5e5e5&dates=78716c"/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=020617&color=CBD5E1&line=38BDF8&point=FFFFFF&area_color=0f172a&area=true&hide_border=true"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0a0a0a&color=e5e5e5&line=d4af37&point=ffffff&area_color=1c1917&area=true&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15"/>
 
 </div>
 
-**Contribution snake** — add the [Platane/snk](https://github.com/Platane/snk) Action to `Faizan-khan144/Faizan-khan144` once, then this will render:
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
+
+**Contribution snake** *(needs the included `snake.yml` workflow running once)*
 <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+**3D contribution profile** *(needs the included `3d-contrib.yml` workflow running once)*
+<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+**GitHub Skyline** — 3D-print your contribution history: [skyline.github.com](https://skyline.github.com/Faizan-khan144/2026)
+
+**GitHub City** — drive through your contributions: [honzaap.github.io/GithubCity](https://honzaap.github.io/GithubCity?name=Faizan-khan144)
+
 </div>
 
-<br>
+---
 
-## 🎯 What I'm Open To
+## ✍️ Random Dev Quote
 
-```mermaid
-mindmap
-  root((Faizan))
-    Collaboration
-      Open source projects
-      Web dev collabs
-    Learning
-      From experienced devs
-      MERN + Python deep dives
-    Opportunities
-      Internships
-      Junior developer roles
-```
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
 
-<br>
+---
+
+## 📝 Guestbook
+
+Drop a hello or say what you're building — opens a quick issue on this repo.
+
+<div align="center">
+<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues/new?title=👋%20Hello!&body=Say%20hi%20or%20share%20what%20you're%20building!&labels=guestbook"><img src="https://img.shields.io/badge/Sign_the_Guestbook-1c1917?style=for-the-badge&logo=githubactions&logoColor=d4af37"/></a>
+<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues?q=label%3Aguestbook"><img src="https://img.shields.io/badge/Read_Past_Entries-1c1917?style=for-the-badge&logo=readdotcv&logoColor=d4af37"/></a>
+</div>
+
+---
 
 ## 🌍 Connect
 
 <div align="center">
 
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8"/></a>
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/></a>
-<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=38BDF8"/></a>
-<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/></a>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-1c1917?style=for-the-badge&logo=github&logoColor=d4af37"/></a>
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-1c1917?style=for-the-badge&logo=linkedin&logoColor=d4af37"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-1c1917?style=for-the-badge&logo=x&logoColor=d4af37"/></a>
+<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-1c1917?style=for-the-badge&logo=gmail&logoColor=d4af37"/></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0ea5e9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1917,100:0a0a0a&height=120&section=footer" width="100%"/>
 
 **Learn → Build → Debug → Improve → Repeat**
 
