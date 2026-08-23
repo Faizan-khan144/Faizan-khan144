@@ -1,28 +1,40 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│ root@faizan-dev:~# whoami                                  │
-│ frontend_developer                                          │
-│ root@faizan-dev:~# cat role.txt                             │
-│ MERN-in-progress :: Python + Data :: always shipping        │
-│ root@faizan-dev:~# ./status --check                         │
-│ [OK] compiling... [OK] deploying... [OK] never sleeping     │
-└──────────────────────────────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="380"/>
+<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="35" align="center"/> Hey, I'm Faizan <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" align="center"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=800&lines=%3E+sudo+access+granted;%3E+booting+dev_environment...;%3E+MERN+stack+compiling;%3E+status%3A+always_shipping" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Learner;Python+%2B+Data+Enthusiast;Always+building+something+new" alt="Typing SVG"/>
 
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/followers/Faizan-khan144?logo=github&style=flat&color=0d1117&labelColor=000000&logoColor=39FF14"/></a>
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/stars/Faizan-khan144?logo=github&style=flat&color=0d1117&labelColor=000000&logoColor=39FF14"/></a>
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=0d1117&style=flat&label=Views"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/> <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="30"/>
 
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=39FF14"/></a>
-<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=39FF14"/></a>
-<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=39FF14"/></a>
-<img src="https://img.shields.io/badge/Open_to_Work-000000?style=flat&logo=googlechrome&logoColor=39FF14"/>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/followers/Faizan-khan144?logo=github&style=flat&color=1a1a2e&labelColor=16213e&logoColor=C084FC"/></a>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/stars/Faizan-khan144?logo=github&style=flat&color=1a1a2e&labelColor=16213e&logoColor=C084FC"/></a>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=1a1a2e&style=flat&label=Views"/>
+
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-16213e?style=flat&logo=linkedin&logoColor=C084FC"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-16213e?style=flat&logo=x&logoColor=C084FC"/></a>
+<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-16213e?style=flat&logo=gmail&logoColor=C084FC"/></a>
+<img src="https://img.shields.io/badge/Open_to_Work-16213e?style=flat&logo=googlechrome&logoColor=C084FC"/>
+
+</div>
+
+---
+
+## Moving Logos
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60"/>
+
+</div>
 
 </div>
 
@@ -237,12 +249,12 @@ flowchart TD
     E["Tailwind CSS"] -.-> A
     F["JWT / Sessions"] -.-> C
 
-    style A fill:#0d1117,stroke:#39FF14,color:#e5e5e5
-    style B fill:#0d1117,stroke:#39FF14,color:#e5e5e5
-    style C fill:#0d1117,stroke:#39FF14,color:#e5e5e5
-    style D fill:#0d1117,stroke:#39FF14,color:#e5e5e5
-    style E fill:#000000,stroke:#78716c,color:#e5e5e5
-    style F fill:#000000,stroke:#78716c,color:#e5e5e5
+    style A fill:#1a1a2e,stroke:#C084FC,color:#e5e5e5
+    style B fill:#1a1a2e,stroke:#C084FC,color:#e5e5e5
+    style C fill:#1a1a2e,stroke:#C084FC,color:#e5e5e5
+    style D fill:#1a1a2e,stroke:#C084FC,color:#e5e5e5
+    style E fill:#16213e,stroke:#78716c,color:#e5e5e5
+    style F fill:#16213e,stroke:#78716c,color:#e5e5e5
 ```
 
 ---
@@ -467,12 +479,12 @@ Designing and building responsive, production-style web interfaces using HTML, C
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=e5e5e5"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=e5e5e5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=C084FC&icon_color=C084FC&text_color=e5e5e5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=C084FC&text_color=e5e5e5"/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=000000&stroke=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=e5e5e5&dates=78716c"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=000000&stroke=1a1a2e&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=e5e5e5&dates=78716c"/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=000000&color=e5e5e5&line=39FF14&point=ffffff&area_color=0d1117&area=true&hide_border=true"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=1a1a2e&color=e5e5e5&line=C084FC&point=ffffff&area_color=1a1a2e&area=true&hide_border=true"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15"/>
 
@@ -519,13 +531,41 @@ xychart-beta
 
 ---
 
+## Work Culture
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="280"/>
+
+</div>
+
+---
+
+## Mood Board
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width="45"/>
+<img src="https://user-images.githubusercontent.com/74038190/216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f.png" width="45"/>
+
+*Animated emojis from [animated-fluent-emoji](https://animated-fluent-emoji.vercel.app/)*
+
+</div>
+
+---
+
 ## Guestbook
 
 Drop a hello or say what you're building — opens a quick issue on this repo.
 
 <div align="center">
-<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues/new?title=Hello!&body=Say%20hi%20or%20share%20what%20you're%20building!&labels=guestbook"><img src="https://img.shields.io/badge/Sign_the_Guestbook-0d1117?style=for-the-badge&logo=githubactions&logoColor=39FF14"/></a>
-<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues?q=label%3Aguestbook"><img src="https://img.shields.io/badge/Read_Past_Entries-0d1117?style=for-the-badge&logo=readdotcv&logoColor=39FF14"/></a>
+<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues/new?title=Hello!&body=Say%20hi%20or%20share%20what%20you're%20building!&labels=guestbook"><img src="https://img.shields.io/badge/Sign_the_Guestbook-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=C084FC"/></a>
+<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues?q=label%3Aguestbook"><img src="https://img.shields.io/badge/Read_Past_Entries-1a1a2e?style=for-the-badge&logo=readdotcv&logoColor=C084FC"/></a>
 </div>
 
 ---
@@ -534,14 +574,14 @@ Drop a hello or say what you're building — opens a quick issue on this repo.
 
 <div align="center">
 
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
-<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=39FF14"/></a>
-<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14"/></a>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=C084FC"/></a>
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C084FC"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=C084FC"/></a>
+<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C084FC"/></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
 
 **Learn → Build → Debug → Improve → Repeat**
 
