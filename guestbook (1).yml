@@ -1,0 +1,16 @@
+name: Guestbook Entry
+description: Say hello or share what you're building!
+title: "👋 Guestbook entry"
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for stopping by! Drop a quick hello below 🙌
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      placeholder: "Hi! Just saying hi / here's what I'm building..."
+    validations:
+      required: true
