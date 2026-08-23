@@ -1,689 +1,413 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1917,100:0a0a0a&height=220&section=header&text=Muhammad%20Faizan%20Khan&fontSize=40&fontColor=d4af37&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20MERN%20Stack%20Learner%20%C2%B7%20Python%20%2B%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=e5e5e5" width="100%" />
 
-<br>
+<h2>
+Hi there, I'm Faizan
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand"/>
+</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Muhammad+Faizan+Khan+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Developer;Python+Developer;Building+Modern+Web+Applications;Exploring+APIs%2C+Automation+%26+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+responsive+web+experiences...;Learning+the+MERN+Stack...;Writing+Python+for+Data+%26+AI...;Turning+bugs+into+lessons+%F0%9F%90%9B;console.log(%22Always+shipping%22)%3B" alt="Typing SVG" />
 
-<br>
+<p>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-Faizan--khan144-1c1917?style=for-the-badge&logo=github&logoColor=d4af37"/></a>
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Faizan%20Khan-1c1917?style=for-the-badge&logo=linkedin&logoColor=d4af37"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-@faizan525nk-1c1917?style=for-the-badge&logo=x&logoColor=d4af37"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="75%"/>
-
-### `CODE • BUILD • DEBUG • DEPLOY`
-
-<br>
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GitHub-Faizan--khan144-161b22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/">
-<img src="https://img.shields.io/badge/LinkedIn-Faizan%20Khan-161b22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-<a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-@faizan525nk-161b22?style=for-the-badge&logo=x&logoColor=58A6FF"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=161b22&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=161b22&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=161b22&label=STARS"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=1c1917&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=1c1917&label=FOLLOWERS&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=1c1917&label=STARS&labelColor=0a0a0a"/>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257466-2c7a2a20-4f4f-4c6d-8b58-2d8e9f4b1d88.gif" width="100"/>
-
-# `01 / SYSTEM INITIALIZED`
-
-</div>
+## `whoami`
 
 ```bash
-┌──[faizan@developer]─[~/github]
-└─$ ./initialize.sh
+faizan@dev:~$ whoami
+Muhammad Faizan Khan — Frontend Developer & MERN Stack Learner
 
-[ OK ] Loading developer profile
-[ OK ] Loading frontend stack
-[ OK ] Loading backend stack
-[ OK ] Loading database systems
-[ OK ] Loading Python environment
-[ OK ] Loading API toolkit
-[ OK ] Loading automation modules
-[ OK ] Loading project workspace
+faizan@dev:~$ cat mission.txt
+Building responsive, modern, interactive web experiences.
+Expanding into full-stack development through the MERN ecosystem.
+Growing Python skills for data analysis and future AI applications.
 
-STATUS: ONLINE
+faizan@dev:~$ cat philosophy.txt
+"I don't just want to learn technologies — I want to build things with them."
 ```
 
+**Current Focus**
+
+- 🖥️ Building modern frontend interfaces with HTML, CSS, JavaScript, React & Tailwind CSS
+- 🔧 Learning full-stack development with MongoDB, Express.js, React.js & Node.js
+- 🐍 Strengthening Python through NumPy, Pandas, Matplotlib & Seaborn
+- 🤖 Exploring the foundations required for AI development with Python
+- ⚙️ Improving Git, GitHub, APIs, deployment, and development workflows
+- 🚀 Building real-world projects instead of only following tutorials
+
+---
+
+## Developer Profile
+
 ```text
-Developer      : Muhammad Faizan Khan
-Role           : Frontend Developer
-Stack          : MERN + Python
-Environment    : VS Code / VSCodium
-Version Control: Git + GitHub
-Deployment     : Vercel + GitHub Pages
-Current Mode   : BUILDING
+┌─────────────────────────────────────────────────────────────┐
+│                     MUHAMMAD FAIZAN KHAN                    │
+├─────────────────────────────────────────────────────────────┤
+│  Frontend        HTML • CSS • JavaScript • React            │
+│  UI              Tailwind CSS • Responsive Design           │
+│  Backend         Node.js • Express.js                       │
+│  Database        MongoDB                                    │
+│  Python          Python • NumPy • Pandas                    │
+│  Visualization   Matplotlib • Seaborn                       │
+│  Tools           Git • GitHub • VS Code • Postman • Vercel  │
+│  Approach        Learn → Build → Debug → Improve            │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257469-4d6e6c7a-3c2f-4e8a-9a0d-6d7a4c4c3f43.gif" width="130"/>
-
-# `02 / ABOUT`
-
-</div>
-
-I'm **Muhammad Faizan Khan**, a developer focused on creating modern web applications and continuously expanding into full-stack development, Python, APIs, automation, and AI.
-
-I enjoy taking an idea from:
-
-```text
-IDEA
- ↓
-DESIGN
- ↓
-CODE
- ↓
-API
- ↓
-DATA
- ↓
-TEST
- ↓
-DEBUG
- ↓
-DEPLOY
-```
-
-My approach is simple:
-
-> **Learn something → build something → break something → fix it → understand it → improve it.**
-
----
+## Technology Stack
 
 <div align="center">
 
-# `03 / TECHNOLOGY MATRIX`
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,npm,git,github,vscode,postman,vercel,linux&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
 
-</div>
+**Backend & Database**
 
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 
-| Layer           | Technologies                              |
-| --------------- | ----------------------------------------- |
-| `Frontend`      | HTML5 · CSS3 · JavaScript · React         |
-| `UI`            | Tailwind CSS · Responsive Design          |
-| `Backend`       | Node.js · Express.js                      |
-| `Database`      | MongoDB                                   |
-| `Programming`   | JavaScript · Python                       |
-| `Data`          | NumPy · Pandas                            |
-| `Visualization` | Matplotlib · Seaborn                      |
-| `API`           | REST APIs · Postman · API Integration     |
-| `Tooling`       | npm · Git · GitHub                        |
-| `Development`   | VS Code · VSCodium                        |
-| `Deployment`    | Vercel · GitHub Pages                     |
-| `Exploring`     | AI · Automation · Bots · Machine Learning |
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257480-9e7a0b6c-2c2a-4b1c-8d8f-8f2d5f7a8a93.gif" width="110"/>
-
-# `04 / FRONTEND ENGINEERING`
-
-</div>
-
-```text
-                    FRONTEND SYSTEM
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-            ▼              ▼              ▼
-         HTML5           CSS3        JavaScript
-            │              │              │
-            │              ▼              ▼
-            │        Responsive UI      Logic
-            │              │              │
-            └──────────────┼──────────────┘
-                           ▼
-                         React
-                           │
-                    Component System
-                           │
-                           ▼
-                      Tailwind CSS
-                           │
-                           ▼
-                     Modern Interface
-```
-
-### Frontend Focus
-
-```text
-✓ Responsive layouts
-✓ Component-based interfaces
-✓ Interactive UI
-✓ JavaScript application logic
-✓ API-connected interfaces
-✓ Modern styling
-✓ Mobile-first thinking
-✓ Reusable UI patterns
-```
-
----
-
-<div align="center">
-
-# `05 / FULL STACK ARCHITECTURE`
-
-</div>
-
-```text
-                         USER
-                           │
-                           ▼
-                 ┌──────────────────┐
-                 │    FRONTEND      │
-                 │                  │
-                 │ React            │
-                 │ JavaScript       │
-                 │ Tailwind CSS     │
-                 └────────┬─────────┘
-                          │
-                     HTTP / JSON
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │       API        │
-                 │                  │
-                 │ Express.js       │
-                 │ REST Endpoints   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     SERVER       │
-                 │                  │
-                 │ Node.js          │
-                 │ Business Logic   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │     DATABASE     │
-                 │                  │
-                 │ MongoDB          │
-                 └──────────────────┘
-```
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257480-9e7a0b6c-2c2a-4b1c-8d8f-8f2d5f7a8a93.gif" width="100"/>
-
-# `06 / API ENGINEERING`
-
-</div>
-
-```text
-CLIENT
-  │
-  │ GET / POST / PUT / DELETE
-  ▼
-ROUTER
-  │
-  ▼
-MIDDLEWARE
-  │
-  ▼
-CONTROLLER
-  │
-  ▼
-BUSINESS LOGIC
-  │
-  ▼
-DATABASE
-  │
-  ▼
-JSON RESPONSE
-  │
-  ▼
-CLIENT
-```
-
-### API Layer
-
-```text
-REST APIs
-API Integration
-HTTP Requests
-JSON
-Async JavaScript
-Postman
-External APIs
-Frontend ↔ Backend Communication
-```
-
----
-
-<div align="center">
-
-# `07 / PYTHON LAB`
+**Python & Data**
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/NumPy-1c1917?style=for-the-badge&logo=numpy&logoColor=d4af37"/>
+<img src="https://img.shields.io/badge/Pandas-1c1917?style=for-the-badge&logo=pandas&logoColor=d4af37"/>
+<img src="https://img.shields.io/badge/Matplotlib-1c1917?style=for-the-badge&logo=python&logoColor=d4af37"/>
+<img src="https://img.shields.io/badge/Seaborn-1c1917?style=for-the-badge&logoColor=d4af37"/>
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,npm&theme=dark"/>
 
 </div>
-
-```text
-                         PYTHON
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-              ▼            ▼            ▼
-            NumPy        Pandas     Visualization
-              │            │            │
-              │            │       ┌────┴────┐
-              │            │       │         │
-              ▼            ▼       ▼         ▼
-          Numerical      Data    Matplotlib Seaborn
-          Computing   Processing
-```
-
-### Python Direction
-
-```text
-Python
-  ↓
-NumPy
-  ↓
-Pandas
-  ↓
-Matplotlib
-  ↓
-Seaborn
-  ↓
-Data Projects
-  ↓
-AI / Machine Learning
-```
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257481-4c5e7f7d-3e4d-4d3e-b5a0-8e3d2f5e4c21.gif" width="120"/>
-
-# `08 / AUTOMATION + AI`
-
-</div>
-
-```text
-                    AUTOMATION
-                        │
-              ┌─────────┴─────────┐
-              │                   │
-              ▼                   ▼
-           TRIGGER              DATA
-              │                   │
-              └─────────┬─────────┘
-                        ▼
-                    PROCESS
-                        │
-              ┌─────────┴─────────┐
-              │                   │
-              ▼                   ▼
-           PYTHON              API / AI
-              │                   │
-              └─────────┬─────────┘
-                        ▼
-                     ACTION
-                        │
-              ┌─────────┼─────────┐
-              ▼         ▼         ▼
-            BOT       MESSAGE     TASK
-```
-
-### Exploring
-
-`AI APIs` · `Automation` · `Bots` · `Data Processing` · `AI-powered Applications`
-
----
-
-<div align="center">
-
-# `09 / PROJECT ARCHITECTURE`
-
-</div>
-
-```text
-PROJECT
-│
-├── UI
-│   ├── Components
-│   ├── Pages
-│   ├── Layouts
-│   └── Responsive Design
-│
-├── LOGIC
-│   ├── State
-│   ├── Events
-│   ├── Utilities
-│   └── Application Logic
-│
-├── API
-│   ├── Requests
-│   ├── Responses
-│   └── External Services
-│
-├── DATA
-│   ├── Local Storage
-│   └── MongoDB
-│
-└── DEPLOYMENT
-    ├── Vercel
-    └── GitHub Pages
-```
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257482-6e7f8f4c-4c6e-4a7e-b0b7-2f2a8c5e7d91.gif" width="120"/>
-
-# `10 / SELECTED BUILDS`
-
-</div>
+## Featured Projects
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### FZ Fitness
-
-Modern fitness platform with responsive layouts, structured sections, and interactive frontend experiences.
+### 🎨 Faizan Portfolio
+A responsive personal developer portfolio showcasing projects, skills, development journey, and contact information.
 
 `HTML` `CSS` `JavaScript`
 
-[Live Project](https://faizan-khan144.github.io/fitzone-fitness-platform/)
+[Repository](https://github.com/Faizan-khan144/faizan-portfolio) · [Live Demo](https://faizan-khan144.github.io/faizan-portfolio/)
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### August & Oak
-
-E-commerce interface with product discovery, filtering, sorting, cart, wishlist, and local storage.
+### 🛍️ August & Oak
+A modern e-commerce storefront with product discovery, filtering, sorting, cart functionality, wishlist features, and Local Storage.
 
 `HTML` `CSS` `JavaScript`
 
 [Repository](https://github.com/Faizan-khan144/august-and-oak-ecommerce)
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### CryptoLens
-
-Cryptocurrency dashboard focused on presenting market information through a modern interface and API-driven data.
-
-`HTML` `CSS` `JavaScript` `API`
-
-[GitHub](https://github.com/Faizan-khan144)
-
-</td>
-
-<td width="50%" valign="top">
-
-### Nexus
-
-Modern landing page focused on visual hierarchy, responsive layouts, and polished frontend interactions.
-
-`HTML` `CSS` `JavaScript`
-
-[GitHub](https://github.com/Faizan-khan144)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Vortex Agency
-
-Digital agency interface with responsive sections, modern visual design, and interactive elements.
+### 🏢 Vortex Agency
+A premium digital agency website focused on responsive layouts, interactive sections, animations, and modern UI design.
 
 `HTML` `CSS` `JavaScript`
 
 [Repository](https://github.com/Faizan-khan144/vortex-agency)
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### Dev Dashboard
-
-Developer-focused dashboard exploring structured layouts, reusable interface patterns, and data presentation.
+### 🏦 FZ Bank
+A modern banking interface designed around clean layouts, responsive components, and an engaging financial dashboard experience.
 
 `HTML` `CSS` `JavaScript`
 
-[GitHub](https://github.com/Faizan-khan144)
+[View Project](https://github.com/Faizan-khan144)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
+### 🎓 Student Attendance Tracker
+A web-based interface designed to simplify student attendance management through a clean and responsive UI.
+
+`HTML` `CSS` `JavaScript`
+
+[View Project](https://github.com/Faizan-khan144)
+
+</td>
+<td width="50%">
+
+### ❌⭕ Modern Tic-Tac-Toe
+A modern interactive implementation of the classic Tic-Tac-Toe game with a responsive interface.
+
+`HTML` `CSS` `JavaScript`
+
+[View Project](https://github.com/Faizan-khan144)
+
+</td>
 </tr>
 </table>
 
 ---
 
+## GitHub Analytics
+
 <div align="center">
-
-# `11 / DEVELOPMENT TERMINAL`
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=d4af37&icon_color=d4af37&text_color=e5e5e5"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&langs_count=10&bg_color=0a0a0a&title_color=d4af37&text_color=e5e5e5"/>
 </div>
 
-```bash
-┌──(faizan㉿dev)-[~/projects]
-└─$ git status
-
-On branch main
-
-modified:
-  frontend/
-  components/
-  api/
-  styles/
-  README.md
-
-┌──(faizan㉿dev)-[~/projects]
-└─$ npm run build
-
-> building application...
-> compiling components...
-> optimizing assets...
-> checking dependencies...
-
-BUILD SUCCESSFUL ✓
-```
-
-```bash
-┌──(faizan㉿dev)-[~/projects]
-└─$ git log --oneline
-
-feat: build new interface
-feat: integrate external API
-feat: add responsive layout
-fix: resolve mobile UI issue
-refactor: improve component structure
-style: improve visual system
-docs: update documentation
-deploy: publish application
-```
-
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&border_radius=10&background=0a0a0a&stroke=1c1917&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=78716c"/>
+</div>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257485-0c6c4e2d-7a9f-4e6c-9c8d-7e5f3a2b1c44.gif" width="120"/>
-
-# `12 / GITHUB COMMAND CENTER`
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0a0a0a&color=e5e5e5&line=d4af37&point=d4af37&area_color=1c1917&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+### Contribution Snake
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E"/>
+<sub>Generated automatically via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — set it up once in this repo's workflows to keep this animated.</sub>
 
 </div>
 
 ---
 
+## GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+</div>
+
+---
+
+## Development Areas
+
 <div align="center">
 
-# `13 / CONTRIBUTION SYSTEM`
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0d1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area_color=161B22&area=true&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+| Development Area | Current Focus |
+|---|---|
+| Frontend | HTML · CSS · JavaScript · React |
+| UI Development | Responsive Design · Tailwind CSS |
+| Backend | Node.js · Express.js |
+| Database | MongoDB |
+| Python | Python Fundamentals & Development |
+| Data | NumPy · Pandas |
+| Visualization | Matplotlib · Seaborn |
+| APIs | REST API Fundamentals · Postman |
+| Deployment | Vercel |
+| Version Control | Git · GitHub |
 
 </div>
 
 ---
 
-<div align="center">
-
-# `14 / CONTRIBUTION SNAKE`
-
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257488-5d7f2f4a-8b7e-4a1c-9e5d-3f6a2c8b7d90.gif" width="100"/>
-
-# `15 / CURRENTLY BUILDING`
-
-</div>
+## Current Learning Path
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                 CURRENT WORKSPACE                   │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  [██████████████████████░░░░] Frontend             │
-│  [██████████████████░░░░░░░░] React               │
-│  [███████████████░░░░░░░░░░░] MERN                │
-│  [████████████████░░░░░░░░░░] Python              │
-│  [████████████░░░░░░░░░░░░░░] Data                │
-│  [█████████░░░░░░░░░░░░░░░░░] APIs                │
-│  [███████░░░░░░░░░░░░░░░░░░░] Automation          │
-│  [██████░░░░░░░░░░░░░░░░░░░░] AI                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+                    FULL-STACK + PYTHON
+                           │
+          ┌────────────────┴────────────────┐
+          │                                 │
+     WEB DEVELOPMENT                    PYTHON
+          │                                 │
+    ┌─────┴─────┐                     ┌─────┴─────┐
+    │           │                     │           │
+ Frontend    Backend                Data        Future
+    │           │                     │           │
+    ▼           ▼                     ▼           ▼
+ React       Node.js               NumPy       AI
+ Tailwind    Express               Pandas      ML
+ JavaScript  MongoDB               Matplotlib
+                                    Seaborn
 ```
 
 ---
 
-<div align="center">
+## 2026 Roadmap
 
-# `16 / ROADMAP`
+<table>
+<tr valign="top">
+<td width="34%">
+
+**Web Development**
+- [x] Build responsive frontend projects
+- [x] Strengthen HTML & CSS
+- [x] Build JavaScript projects
+- [x] Start React.js
+- [x] Start Tailwind CSS
+- [ ] Build advanced React applications
+- [ ] Build REST APIs
+- [ ] Strengthen Node.js
+- [ ] Strengthen Express.js
+- [ ] Build MongoDB-powered applications
+- [ ] Ship complete MERN applications
+
+</td>
+<td width="33%">
+
+**Python & Data**
+- [x] Learn Python fundamentals
+- [x] Start NumPy
+- [x] Start Pandas
+- [x] Start Matplotlib
+- [x] Start Seaborn
+- [ ] Build complete data analysis projects
+- [ ] Strengthen Python problem-solving
+- [ ] Explore AI development with Python
+- [ ] Build an AI-powered application
+
+</td>
+<td width="33%">
+
+**Professional Growth**
+- [x] Build public GitHub projects
+- [x] Maintain a developer portfolio
+- [x] Build a professional LinkedIn presence
+- [ ] Contribute to open source
+- [ ] Collaborate on larger projects
+- [ ] Build production-ready applications
+- [ ] Continue growing as a full-stack developer
+
+</td>
+</tr>
+</table>
+
+---
+
+## Development Journey
 
 ```text
-NOW
- │
- ├── React
- ├── Tailwind
- ├── Node.js
- ├── Express
- ├── MongoDB
- ├── Python
- └── Data
-       │
-       ▼
+2024
+├── HTML
+├── CSS
+└── JavaScript Fundamentals
+        │
+        ▼
+2025
+├── Responsive Web Development
+├── UI Projects
+├── JavaScript Projects
+└── Git & GitHub
+        │
+        ▼
+2026
+├── React.js
+├── Tailwind CSS
+├── MERN Stack
+│   ├── MongoDB
+│   ├── Express.js
+│   ├── React.js
+│   └── Node.js
+├── Python
+├── NumPy
+├── Pandas
+├── Matplotlib
+└── Seaborn
+        │
+        ▼
 NEXT
- │
- ├── Advanced React
- ├── Full MERN Applications
- ├── REST API Architecture
- ├── Authentication
- ├── Advanced Python
- ├── AI APIs
- └── Automation
-       │
-       ▼
-FUTURE
- │
- ├── Machine Learning
- ├── Intelligent Applications
- ├── Open Source
- ├── Scalable Systems
- └── Production Applications
+├── Advanced React
+├── REST APIs
+├── Complete MERN Applications
+├── Python Data Projects
+├── AI with Python
+├── Open Source
+└── Production-ready Applications
 ```
 
+---
+
+## How I Learn
+
+```text
+01  Learn the concept
+        ↓
+02  Write the code
+        ↓
+03  Build something
+        ↓
+04  Break something
+        ↓
+05  Debug the problem
+        ↓
+06  Understand the solution
+        ↓
+07  Improve the implementation
+        ↓
+08  Build again
+```
+
+> The goal isn't to know everything. The goal is to keep getting better.
+
+---
+
+## Coding Profiles
+
+<div align="center">
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-Faizan--khan144-1c1917?style=for-the-badge&logo=github&logoColor=d4af37"/></a>
+<a href="https://leetcode.com/u/yOe2wMOKjt/"><img src="https://img.shields.io/badge/LeetCode-Profile-1c1917?style=for-the-badge&logo=leetcode&logoColor=d4af37"/></a>
+<a href="https://www.codewars.com/users/Faizan-khan144"><img src="https://img.shields.io/badge/Codewars-Faizan--khan144-1c1917?style=for-the-badge&logo=codewars&logoColor=d4af37"/></a>
+<a href="https://www.freecodecamp.org/Muhammad-Faizan-khan"><img src="https://img.shields.io/badge/freeCodeCamp-Muhammad--Faizan--khan-1c1917?style=for-the-badge&logo=freecodecamp&logoColor=d4af37"/></a>
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="140"/>
+</div>
+
+I'm always open to:
+
+- 🤝 Collaborating on web development projects
+- 🌍 Working on open-source projects
+- 💬 Connecting with other developers
+- 📚 Discussing development and technology
+- 🧠 Learning from experienced developers
+- 💼 Exploring internship and junior developer opportunities
+
+<div align="center">
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-1c1917?style=for-the-badge&logo=github&logoColor=d4af37"/></a>
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-1c1917?style=for-the-badge&logo=linkedin&logoColor=d4af37"/></a>
+<a href="mailto:YOUR_REAL_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact%20Me-1c1917?style=for-the-badge&logo=gmail&logoColor=d4af37"/></a>
 </div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:292524,50:1c1917,100:0a0a0a&height=110&section=footer"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257489-7f4f5e3a-2c8b-4d6e-9f1a-8b7c6d5e4f3a.gif" width="130"/>
+**Learn → Build → Debug → Improve → Repeat**
 
-# `17 / CONNECT`
+Frontend Development · MERN · Python · Data · AI
 
-### Building something interesting?
-
-Let's connect, collaborate, and build.
-
-<br>
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-
-<a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-Follow-0d1117?style=for-the-badge&logo=x&logoColor=58A6FF"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0d1117,100:161b22&height=150&section=footer" width="100%"/>
-
-### `while(alive) { code(); learn(); build(); }`
-
-<sub>Thanks for visiting my profile.</sub>
-
+<sub>Thanks for visiting my profile. Feel free to explore my repositories.</sub>
 </div>
