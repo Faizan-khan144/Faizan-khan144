@@ -656,6 +656,37 @@ Designing and building responsive, production-style web interfaces using HTML, C
 
 ---
 
+<div align="center">
+
+### `$ profile --analytics`
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=0B1120&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&color=0B1120&labelColor=111827&logo=github&logoColor=60A5FA" />
+
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&color=0B1120&labelColor=111827&logo=github&logoColor=60A5FA" />
+
+<br/><br/>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                  GITHUB PROFILE TELEMETRY                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  PROFILE VIEWS       →  LIVE COUNTER                        │
+│  FOLLOWERS           →  GITHUB NETWORK                      │
+│  PUBLIC REPOSITORIES →  PROJECT INDEX                       │
+│  CONTRIBUTIONS       →  DEVELOPMENT ACTIVITY                │
+│                                                             │
+│  SOURCE              →  GitHub                              │
+│  USER                →  Faizan-khan144                      │
+│  STATUS              →  ONLINE                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+<br/> <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0B1120&color=E5E7EB&line=60A5FA&point=FFFFFF&area_color=111827&area=true&hide_border=true"/> </div> 
+</div>
+```
 ## GitHub Analytics
 
 <div align="center">
