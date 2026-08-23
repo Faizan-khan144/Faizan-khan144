@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Muhammad%20Faizan%20Khan&fontSize=36&fontColor=d4af37&animation=fadeIn&color=0:0a0a0a,50:1c1917,100:0a0a0a" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Learner;Python+%2B+Data+Enthusiast;print(%22Always+shipping%22)" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Engineer+in+Training;Python+%2B+Data+Enthusiast;const+status+%3D+%22shipping%22%3B" alt="Typing SVG"/>
 
 <a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/followers/Faizan-khan144?logo=github&style=flat&color=1c1917&labelColor=0a0a0a&logoColor=d4af37"/></a>
 <a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/stars/Faizan-khan144?logo=github&style=flat&color=1c1917&labelColor=0a0a0a&logoColor=d4af37"/></a>
@@ -20,36 +20,44 @@
 ## About Me
 
 ```python
-class MuhammadFaizanKhan:
-    """Frontend Developer, transitioning into full-stack + data."""
+from dataclasses import dataclass, field
+from typing import List
 
-    role        = "Frontend Developer"
-    location    = "Pakistan"
-    stack       = ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"]
-    learning    = ["Node.js", "Express", "MongoDB", "MERN Stack"]
-    exploring   = ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
-    available_for = ["Open source", "Internships", "Junior dev roles"]
+@dataclass
+class MuhammadFaizanKhan:
+    role: str = "Frontend Developer"
+    location: str = "Karachi, Pakistan"
+    stack: List[str] = field(default_factory=lambda: [
+        "HTML5", "CSS3", "JavaScript (ES6+)", "React", "Tailwind CSS"
+    ])
+    learning: List[str] = field(default_factory=lambda: [
+        "Node.js", "Express", "MongoDB", "MERN Architecture"
+    ])
+    exploring: List[str] = field(default_factory=lambda: [
+        "Python", "NumPy", "Pandas", "Matplotlib", "Seaborn"
+    ])
+    available_for: List[str] = field(default_factory=lambda: [
+        "Open Source", "Internships", "Junior Dev Roles"
+    ])
 
     def philosophy(self) -> str:
-        return "I don't just want to learn technologies — I want to build things with them."
+        return "Learn the primitive, build the abstraction, ship the product."
 
     def __repr__(self) -> str:
-        return f"<Developer role={self.role!r} status='building'>"
+        return f"<Developer role={self.role!r} status='compiling...'>"
 
 
 me = MuhammadFaizanKhan()
 print(me.philosophy())
-# → I don't just want to learn technologies — I want to build things with them.
+# >>> Learn the primitive, build the abstraction, ship the product.
 ```
-
-*"Learn, build, debug, improve, repeat."*
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel&perline=7&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel,figma,linux&perline=8&theme=dark"/>
 </div>
 
 <table align="center">
@@ -57,45 +65,47 @@ print(me.philosophy())
 <td valign="top" width="20%">
 
 **Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- React
+- HTML5 / Semantic Markup
+- CSS3 / Flexbox / Grid
+- JavaScript (ES6+)
+- React (Hooks, Context)
 - Tailwind CSS
 
 </td>
 <td valign="top" width="20%">
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
+**Backend (Learning)**
+- Node.js Runtime
+- Express.js Routing
+- REST API Design
+- Middleware Patterns
 
 </td>
 <td valign="top" width="20%">
 
 **Database**
-- MongoDB
-- Local Storage
+- MongoDB / Mongoose
+- Schema Design
+- Local Storage / IndexedDB
 
 </td>
 <td valign="top" width="20%">
 
 **Python & Data**
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+- Python 3
+- NumPy / Pandas
+- Matplotlib / Seaborn
+- Data Wrangling
 
 </td>
 <td valign="top" width="20%">
 
-**Dev Tools**
-- Git, GitHub
+**Tooling**
+- Git / GitHub
 - VS Code
 - Postman
-- Vercel
+- Vercel / Netlify
+- Linux CLI
 
 </td>
 </tr>
@@ -103,21 +113,83 @@ print(me.philosophy())
 
 ---
 
-## MERN Architecture — What I'm Building Toward
+## Language & Tooling Distribution
+
+```mermaid
+pie showData
+    title Primary Languages Used
+    "JavaScript" : 42
+    "HTML" : 22
+    "CSS" : 20
+    "Python" : 12
+    "Other" : 4
+```
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+xychart-beta
+    title "Weekly Commit Activity (avg)"
+    x-axis [Mon, Tue, Wed, Thu, Fri, Sat, Sun]
+    y-axis "Commits" 0 --> 20
+    bar [8, 12, 10, 14, 16, 6, 4]
+```
+
+---
+
+## MERN Architecture — System Design
 
 ```mermaid
 flowchart TD
-    A[Client — React UI] -->|HTTP / JSON| B[Express API Routes]
-    B --> C[Node.js Business Logic]
-    C --> D[(MongoDB)]
-    D --> C
-    C --> B
-    B -->|JSON Response| A
+    A["Client — React UI<br/>(Components + Hooks + Context)"] -->|HTTP / JSON| B["Express API Layer<br/>(Routes + Middleware)"]
+    B --> C["Node.js Runtime<br/>(Business Logic + Auth)"]
+    C --> D[("MongoDB<br/>(Collections + Indexes)")]
+    D -.->|Query Result| C
+    C -.->|Processed Data| B
+    B -.->|JSON Response| A
+    E["Tailwind CSS"] -.-> A
+    F["JWT / Sessions"] -.-> C
 
     style A fill:#1c1917,stroke:#d4af37,color:#e5e5e5
     style B fill:#1c1917,stroke:#d4af37,color:#e5e5e5
     style C fill:#1c1917,stroke:#d4af37,color:#e5e5e5
     style D fill:#1c1917,stroke:#d4af37,color:#e5e5e5
+    style E fill:#0a0a0a,stroke:#78716c,color:#e5e5e5
+    style F fill:#0a0a0a,stroke:#78716c,color:#e5e5e5
+```
+
+---
+
+## Request Lifecycle — Sequence Diagram
+
+```mermaid
+sequenceDiagram
+    actor U as User
+    participant R as React Client
+    participant E as Express API
+    participant N as Node Logic
+    participant M as MongoDB
+
+    U->>R: Interacts with UI
+    R->>E: fetch() / axios request
+    E->>N: Route handler invoked
+    N->>M: Query / Mutation
+    M-->>N: Documents returned
+    N-->>E: Processed payload
+    E-->>R: JSON response
+    R-->>U: Re-rendered UI
+```
+
+---
+
+## Skill Proficiency
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+xychart-beta
+    title "Self-Rated Proficiency (out of 10)"
+    x-axis [HTML/CSS, JavaScript, React, Tailwind, Node/Express, MongoDB, Python]
+    y-axis "Proficiency" 0 --> 10
+    bar [9, 7, 7, 8, 5, 4, 5]
 ```
 
 ---
@@ -139,6 +211,25 @@ timeline
     section 2027 Outlook
         AI with Python : Explore ML fundamentals
         Open Source : First real-world contributions
+```
+
+---
+
+## Project State Machine
+
+```mermaid
+stateDiagram-v2
+    [*] --> Idea
+    Idea --> Wireframe
+    Wireframe --> Development
+    Development --> Debugging
+    Debugging --> Development: bugs found
+    Debugging --> Testing
+    Testing --> Deployment
+    Deployment --> Live
+    Live --> Maintenance
+    Maintenance --> Development: new feature
+    Live --> [*]
 ```
 
 ---
@@ -166,36 +257,51 @@ kanban
 
 ---
 
-## How I Work
+## Git Workflow
 
 ```mermaid
 gitGraph
-    commit id: "learn"
+    commit id: "init"
     branch feature
     checkout feature
-    commit id: "build"
-    commit id: "break things"
+    commit id: "build UI"
+    commit id: "wire API"
+    commit id: "fix bugs"
     checkout main
-    merge feature id: "debug + improve"
-    commit id: "deploy"
+    merge feature id: "release v1"
+    branch hotfix
+    checkout hotfix
+    commit id: "patch"
+    checkout main
+    merge hotfix id: "deploy"
 ```
 
 ---
 
-## What I'm Open To
+## Skill Map
 
 ```mermaid
 mindmap
   root((Faizan))
+    Frontend
+      React
+      Tailwind CSS
+      Responsive Design
+    Backend
+      Node.js
+      Express
+      REST APIs
+    Data
+      Python
+      Pandas
+      Visualization
     Collaboration
-      Open source projects
-      Web dev collabs
-    Learning
-      From experienced devs
-      MERN + Python deep dives
-    Opportunities
+      Open Source
+      Code Review
+      Documentation
+    Goals
       Internships
-      Junior developer roles
+      Junior Dev Roles
 ```
 
 ---
@@ -286,6 +392,19 @@ Designing and building responsive, production-style web interfaces using HTML, C
 
 ---
 
+## Repo Metrics Snapshot
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+xychart-beta
+    title "Focus Time by Domain (last 90 days, est. hrs)"
+    x-axis [React, Tailwind, JavaScript, Node/Express, MongoDB, Python]
+    y-axis "Hours" 0 --> 100
+    bar [85, 60, 70, 40, 25, 30]
+```
+
+---
+
 ## Contribution Graph
 
 <div align="center">
@@ -336,6 +455,6 @@ Drop a hello or say what you're building — opens a quick issue on this repo.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1917,100:0a0a0a&height=120&section=footer" width="100%"/>
 
-**Learn, build, debug, improve, repeat**
+**Learn → Build → Debug → Improve → Repeat**
 
 </div>
