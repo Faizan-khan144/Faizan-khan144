@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Muhammad%20Faizan%20Khan&fontSize=36&fontColor=d4af37&animation=fadeIn&color=0:0a0a0a,50:1c1917,100:0a0a0a" width="100%"/>
+```
+┌──────────────────────────────────────────────────────────┐
+│ user@faizan-dev:~$ whoami                                 │
+│ muhammad_faizan_khan                                       │
+│ user@faizan-dev:~$ cat role.txt                            │
+│ Frontend Developer :: MERN-in-progress :: Python + Data    │
+│ user@faizan-dev:~$ status --check                          │
+│ [OK] compiling... [OK] shipping... [OK] always learning    │
+└──────────────────────────────────────────────────────────┘
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Engineer+in+Training;Python+%2B+Data+Enthusiast;const+status+%3D+%22shipping%22%3B" alt="Typing SVG"/>
 
@@ -50,6 +59,31 @@ class MuhammadFaizanKhan:
 me = MuhammadFaizanKhan()
 print(me.philosophy())
 # >>> Learn the primitive, build the abstraction, ship the product.
+```
+
+---
+
+## neofetch --dev
+
+```
+                   ./+o+-       muhammad@faizan-dev
+                 yyyyy- -yyyyyy+     -----------------
+              ://+//////-yyyyyyo     OS: Frontend Engineer v1.0
+          .++ .:/++++++/-.+sss/`     Host: Karachi, Pakistan
+        .:++o:  /++++++++/:--:/-     Kernel: JavaScript ES6+
+       o:+o+:++.`..```.-/oo+++++/    Uptime: 2+ years learning
+      .:+o:+o/.          `+sssoo+/   Shell: React + Tailwind
+ .++/+:+oo+o:`             /sssooo.  Editor: VS Code
+/+++//+:`oo+o               /::--:.  Stack: MERN (in progress)
+\+/+o+++`o++o               ++////.  Toolbelt: Git, Postman, Vercel
+ .++.o+++oo+:`             /dddhhh.  Learning: Node, Express, Mongo
+      .+.o+oo:.          `oyhhhhh.  Exploring: NumPy, Pandas
+       \+.++o+o``-````.:ohdhhhhh+   Memory: Always allocating new skills
+        `:o+++ `ohhhhhhhhyo++os:
+          .o:`.syhhhhhhh/.oo++o`
+              /osyyyyyyo++ooo+++/
+                  ````` +oo+++o\:
+                          `oo++.
 ```
 
 ---
@@ -110,6 +144,58 @@ print(me.philosophy())
 </td>
 </tr>
 </table>
+
+---
+
+## Tech Radar — Adoption Stage
+
+```mermaid
+quadrantChart
+    title Technology Adoption Radar
+    x-axis Low Confidence --> High Confidence
+    y-axis Low Usage --> High Usage
+    quadrant-1 Core Daily Tools
+    quadrant-2 Growing Fast
+    quadrant-3 Watching
+    quadrant-4 Ramping Up
+    React: [0.8, 0.8]
+    Tailwind CSS: [0.85, 0.75]
+    JavaScript: [0.9, 0.9]
+    HTML/CSS: [0.95, 0.95]
+    Node.js: [0.45, 0.5]
+    Express: [0.4, 0.45]
+    MongoDB: [0.35, 0.35]
+    Python: [0.5, 0.4]
+    Pandas: [0.35, 0.3]
+    Git/GitHub: [0.85, 0.9]
+```
+
+---
+
+## API Surface — This Profile as a REST Resource
+
+```http
+GET /api/v1/developers/faizan-khan144
+```
+
+| Field | Type | Value |
+|---|---|---|
+| `role` | `string` | `"Frontend Developer"` |
+| `location` | `string` | `"Karachi, PK"` |
+| `stack` | `string[]` | `["React", "Tailwind", "JavaScript"]` |
+| `status` | `enum` | `OPEN_TO_WORK` |
+| `learning` | `string[]` | `["Node.js", "Express", "MongoDB"]` |
+| `response_time` | `string` | `"< 24h"` |
+
+```json
+{
+  "status": 200,
+  "data": {
+    "available_for": ["internship", "junior_role", "open_source"],
+    "compile_status": "no errors, just more features to add"
+  }
+}
+```
 
 ---
 
