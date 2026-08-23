@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
 ```python
 class MuhammadFaizanKhan:
@@ -42,11 +42,11 @@ print(me.philosophy())
 # → I don't just want to learn technologies — I want to build things with them.
 ```
 
-*"Learn → Build → Debug → Improve → Repeat."*
+*"Learn, build, debug, improve, repeat."*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel&perline=7&theme=dark"/>
@@ -92,7 +92,7 @@ print(me.philosophy())
 <td valign="top" width="20%">
 
 **Dev Tools**
-- Git · GitHub
+- Git, GitHub
 - VS Code
 - Postman
 - Vercel
@@ -103,7 +103,7 @@ print(me.philosophy())
 
 ---
 
-## 🏗️ MERN Architecture — what I'm building toward
+## MERN Architecture — What I'm Building Toward
 
 ```mermaid
 flowchart TD
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-## 🧭 2026 Learning Roadmap
+## 2026 Learning Roadmap
 
 ```mermaid
 timeline
@@ -143,7 +143,7 @@ timeline
 
 ---
 
-## 🎯 Current Focus Board
+## Current Focus Board
 
 ```mermaid
 kanban
@@ -166,7 +166,7 @@ kanban
 
 ---
 
-## 🔁 How I Work
+## How I Work
 
 ```mermaid
 gitGraph
@@ -182,7 +182,7 @@ gitGraph
 
 ---
 
-## 🧠 What I'm Open To
+## What I'm Open To
 
 ```mermaid
 mindmap
@@ -200,7 +200,7 @@ mindmap
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -243,7 +243,33 @@ Banking interface with clean layouts and a dashboard experience.
 
 ---
 
-## 📊 GitHub Analytics
+## Experience
+
+<table>
+<tr>
+<td width="100%">
+
+**Frontend Developer** — *Freelance / Self-Directed Projects*
+*2024 — Present*
+
+Designing and building responsive, production-style web interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS. Focused on clean component architecture, accessibility, and performance across multiple client-style projects, including e-commerce storefronts, agency websites, and dashboard interfaces.
+
+- Built and shipped 4+ complete front-end projects, from wireframe to deployment
+- Implemented cart, wishlist, and filtering logic using client-side state and Local Storage
+- Currently extending skill set into the MERN stack (Node.js, Express, MongoDB) to deliver full-stack solutions
+- Exploring Python for data analysis (NumPy, Pandas, Matplotlib, Seaborn) to broaden technical range
+
+</td>
+</tr>
+</table>
+
+**Core Competencies:** Responsive Web Design · Component-Based Architecture · REST API Integration · Version Control (Git/GitHub) · UI/UX Implementation · Cross-Browser Compatibility
+
+**Currently Seeking:** Junior Frontend Developer roles · Internships · Open-source collaboration
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -260,7 +286,7 @@ Banking interface with clean layouts and a dashboard experience.
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -278,7 +304,7 @@ Banking interface with clean layouts and a dashboard experience.
 
 ---
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
@@ -286,18 +312,18 @@ Banking interface with clean layouts and a dashboard experience.
 
 ---
 
-## 📝 Guestbook
+## Guestbook
 
 Drop a hello or say what you're building — opens a quick issue on this repo.
 
 <div align="center">
-<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues/new?title=👋%20Hello!&body=Say%20hi%20or%20share%20what%20you're%20building!&labels=guestbook"><img src="https://img.shields.io/badge/Sign_the_Guestbook-1c1917?style=for-the-badge&logo=githubactions&logoColor=d4af37"/></a>
+<a href="https://github.com/Faizan-khan144/Faizan-khan144/issues/new?title=Hello!&body=Say%20hi%20or%20share%20what%20you're%20building!&labels=guestbook"><img src="https://img.shields.io/badge/Sign_the_Guestbook-1c1917?style=for-the-badge&logo=githubactions&logoColor=d4af37"/></a>
 <a href="https://github.com/Faizan-khan144/Faizan-khan144/issues?q=label%3Aguestbook"><img src="https://img.shields.io/badge/Read_Past_Entries-1c1917?style=for-the-badge&logo=readdotcv&logoColor=d4af37"/></a>
 </div>
 
 ---
 
-## 🌍 Connect
+## Connect
 
 <div align="center">
 
@@ -310,6 +336,6 @@ Drop a hello or say what you're building — opens a quick issue on this repo.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1917,100:0a0a0a&height=120&section=footer" width="100%"/>
 
-**Learn → Build → Debug → Improve → Repeat**
+**Learn, build, debug, improve, repeat**
 
 </div>
