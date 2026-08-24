@@ -85,7 +85,7 @@ print(me.philosophy())
 
 ---
 
-## Tech Stack
+## Tech Stack.
 
 <table align="center">
 <tr>
