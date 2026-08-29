@@ -1,316 +1,378 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:06B6D4&height=240&section=header&text=FAIZAN%20KHAN&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Professional%20Bug%20Creator%20%7C%20Part-Time%20CSS%20Therapist&descSize=15&descAlignY=62&descColor=67E8F9"/>
+# MUHAMMAD FAIZAN KHAN
+
+### FRONTEND DEVELOPER · MERN STACK · PYTHON
+
+<img src="https://www.gitskins.com/api/section/hero?username=Faizan-khan144&theme=winter&style=aura" width="100%"/>
 
 <br/>
 
-# `👨‍💻 FAIZAN.EXE`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=1000&height=65&lines=Frontend+Developer+%7C+React+Enjoyer;I+write+code+and+occasionally+it+works;MERN+Stack+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Turning+%22small+project%22+into+%22why+is+this+5000+lines%3F%22;Currently+debugging+something+that+worked+5+minutes+ago" alt="Typing SVG"/>
+<img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-0F172A?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/MERN_IN_PROGRESS-0F172A?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-0F172A?style=for-the-badge&logoColor=60A5FA"/>
 
 <br/><br/>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-## 🧑‍💻 THE DEVELOPER
-
-```text
-NAME        : Muhammad Faizan Khan
-ROLE        : Frontend Developer
-LOCATION    : Pakistan
-MAIN WEAPON : JavaScript
-FRAMEWORK   : React
-STYLING     : Tailwind CSS
-CURRENT DLC : MERN Stack
-MOOD        : "It works. Don't touch it."
-```
-
-</td>
-
-<td align="center" width="50%">
-
-## 🧠 BRAIN STATUS
-
-```text
-CPU         : 99% JavaScript
-RAM         : 2% sleep
-STORAGE     : 847 unfinished ideas
-NETWORK     : connected
-COFFEE      : optional
-BUGS        : definitely
-MOTIVATION  : compiling...
-```
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-020617?style=for-the-badge&logo=statuspage&logoColor=22C55E&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-YES-020617?style=for-the-badge&logo=googlechrome&logoColor=22C55E&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/COFFEE-OPTIONAL-020617?style=for-the-badge&logo=buymeacoffee&logoColor=F59E0B&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/BUGS-PROBABLY-020617?style=for-the-badge&logo=bugsnag&logoColor=EF4444&labelColor=020617"/>
-
-<br/><br/><br/>
-
-# 📊 GITHUB PLAYER CARD
-
-<table>
-<tr>
-
-<td align="center">
-
-### 👥 FOLLOWERS
-
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827&color=06B6D4&label=FOLLOWERS"/>
-
-</td>
-
-<td align="center">
-
-### ⭐ STARS
-
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827&color=F59E0B&label=STARS"/>
-
-</td>
-
-<td align="center">
-
-### 👀 VISITORS
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=8B5CF6&labelColor=111827"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/><br/>
-
-# 🇵🇰 GITHUB PAKISTAN LEADERBOARD
-
-### `Apparently I write enough code to show up here 👀`
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-## 🧠 COMMITS
-
-<br/>
-
-<img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg" width="380"/>
-
-<br/><br/>
-
-<sub>PUBLIC COMMITS RANK</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-## 🔥 CONTRIBUTIONS
-
-<br/>
-
-<img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg" width="380"/>
-
-<br/><br/>
-
-<sub>PUBLIC CONTRIBUTIONS RANK</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-## 🔒 EVERYTHING
-
-<br/>
-
-<img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg" width="380"/>
-
-<br/><br/>
-
-<sub>ALL CONTRIBUTIONS RANK</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pakistan%20GitHub%20Ranking-LET'S%20GO-020617?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617"/>
-
-<br/><br/><br/>
-
-# 🌐 FIND ME ON THE INTERNET
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-010409?style=for-the-badge&logo=github&logoColor=FFFFFF&label=CODE"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&labelColor=172033&color=60A5FA&logo=github&logoColor=FFFFFF"/>
 </a>
 
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&labelColor=172033&color=60A5FA&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=60A5FA&labelColor=172033"/>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&label=NETWORK"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF&label=CHAOS"/>
+<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://faizan-portfolio-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:muhammadfaizankhan525@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&label=CONTACT"/>
+<img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
 </a>
 
-<br/><br/><br/>
+</div>
 
-# ⚡ CURRENT BUILD
+---
+
+# PROFILE
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│                         FAIZAN DEVELOPMENT OS                        │
+│                         FAIZAN / PROFILE                              │
 ├──────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  FRONTEND        ████████████████████████████████░░░   ONLINE       │
-│  REACT           ████████████████████████████░░░░░░░   ACTIVE       │
-│  JAVASCRIPT      █████████████████████████████░░░░░░   ACTIVE       │
-│  TAILWIND        ███████████████████████████████░░░░   ACTIVE       │
+│  ROLE          Frontend Developer                                   │
+│  SPECIALTY     Responsive interfaces and modern web experiences     │
+│  PRIMARY       HTML · CSS · JavaScript · React · Tailwind            │
+│  EXPANDING     Node.js · Express · MongoDB · REST APIs               │
+│  EXPLORING     Python · NumPy · Pandas · Matplotlib                  │
 │                                                                      │
-│  NODE.JS         ████████████████░░░░░░░░░░░░░░░░░░   LOADING...    │
-│  EXPRESS         ██████████████░░░░░░░░░░░░░░░░░░░░   LOADING...    │
-│  MONGODB         ████████████░░░░░░░░░░░░░░░░░░░░░░   LOADING...    │
-│  PYTHON          ███████████████░░░░░░░░░░░░░░░░░░░   EXPLORING    │
+│  CURRENT STATE                                                      │
+│  Building projects, improving architecture, learning full-stack.     │
+│                                                                      │
+│  DEVELOPMENT PHILOSOPHY                                             │
+│  Build it. Break it. Understand it. Improve it. Ship it.             │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+---
 
-### 🚨 SYSTEM MESSAGE
+# PAKISTAN CONTRIBUTION RANKINGS
 
-```text
-[OK] React installed
-[OK] JavaScript running
-[OK] Tailwind loaded
-[OK] Git connected
+<div align="center">
 
-[WARN] Too many tabs open
-[WARN] CSS has opinions
-[WARN] "Quick project" becoming full-stack application
-
-[ERROR] Sleep.exe not found
-
-[SUCCESS] Developer still shipping.
-```
+<img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILD-SHIPPING-020617?style=for-the-badge&logo=rocket&logoColor=22D3EE&labelColor=020617"/>
-<img src="https://img.shields.io/badge/DEBUGGING-SURVIVING-020617?style=for-the-badge&logo=bugsnag&logoColor=EF4444&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LEARNING-ALWAYS-020617?style=for-the-badge&logo=bookstack&logoColor=22C55E&labelColor=020617"/>
+<img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg"/>
+
+<br/>
+
+<img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg"/>
 
 <br/><br/>
 
-# 🧩 MY TECH LOADOUT
+`PUBLIC COMMITS` · `ALL CONTRIBUTIONS` · `PUBLIC CONTRIBUTIONS`
+
+</div>
+
+---
+
+# DEVELOPMENT STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel&theme=light"/>
+
+</div>
+
+<br/>
+
+| Area     | Technologies                                 |
+| -------- | -------------------------------------------- |
+| Frontend | HTML5, CSS3, JavaScript, React, Tailwind CSS |
+| Backend  | Node.js, Express.js, REST APIs               |
+| Database | MongoDB, Mongoose                            |
+| Python   | Python, NumPy, Pandas, Matplotlib            |
+| Tooling  | Git, GitHub, VS Code, Postman, Vercel        |
+
+---
+
+# CURRENTLY BUILDING
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stack?username=Faizan-khan144&theme=winter&style=aura" width="92%"/>
+
+</div>
+
+### Frontend
+
+Building cleaner component structures, responsive layouts, modern interactions, and production-style interfaces.
+
+### Backend
+
+Moving deeper into Node.js, Express, REST API architecture, authentication, and MongoDB.
+
+### Python
+
+Exploring Python through data manipulation and visualization with NumPy, Pandas, and Matplotlib.
+
+---
+
+# SELECTED PROJECTS
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### AUGUST & OAK
 
-### 🎨 FRONTEND
+Modern e-commerce storefront focused on clean UI and practical client-side functionality.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark"/>
+`HTML` `CSS` `JavaScript`
 
-</td>
+Features:
 
-<td align="center" width="25%">
+* Product filtering
+* Shopping cart
+* Wishlist
+* Local Storage
+* Responsive interface
 
-### ⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ DATABASE
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">REPOSITORY</a>
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🐍 PYTHON
+### VORTEX AGENCY
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+Modern agency website designed around strong visual hierarchy, responsive layouts, and polished interactions.
+
+`HTML` `CSS` `JavaScript`
+
+Focus:
+
+* Agency presentation
+* Responsive design
+* Modern UI
+* Interactive sections
+
+<a href="https://github.com/Faizan-khan144/vortex-agency">REPOSITORY</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### FZ BANK
+
+Banking dashboard concept with a clean interface and financial-product style layouts.
+
+`HTML` `CSS` `JavaScript`
+
+Focus:
+
+* Dashboard UI
+* Financial components
+* Responsive layouts
+* Interface architecture
+
+<a href="https://github.com/Faizan-khan144">GITHUB</a>
 
 </td>
 
+<td width="50%" valign="top">
+
+### FAIZAN PORTFOLIO
+
+Personal developer portfolio showcasing projects, technical skills, and development work.
+
+`HTML` `CSS` `JavaScript`
+
+Focus:
+
+* Portfolio presentation
+* Responsive design
+* Project showcase
+* Personal branding
+
+<a href="https://faizan-khan144.github.io/faizan-portfolio/">LIVE SITE</a>
+
+</td>
 </tr>
 </table>
 
-<br/>
+---
 
-# 🎮 DEVELOPER STATS
+# GITHUB ACTIVITY
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                     PLAYER PROFILE                         │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  PLAYER        : FAIZAN                                    │
-│  CLASS         : FRONTEND DEVELOPER                        │
-│  SPECIALITY    : REACT                                     │
-│  SECONDARY     : JAVASCRIPT                                │
-│  CURRENT QUEST : MASTER THE MERN STACK                     │
-│                                                            │
-│  XP GAIN       : ███████████████████░░                     │
-│  DEBUG SKILL   : █████████████████░░░                     │
-│  CSS PATIENCE  : ███████░░░░░░░░░░░░                      │
-│  GOOGLE SKILL  : ████████████████████                     │
-│                                                            │
-│  CURRENT BOSS  : "It works on my machine."                │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-<br/>
+<img src="https://www.gitskins.com/api/section/stats?username=Faizan-khan144&theme=winter&style=aura" width="94%"/>
 
-# 🧪 DEVELOPMENT PHILOSOPHY
+<br/><br/>
 
-> **Write code.**
-> **Break code.**
-> **Question life choices.**
-> **Fix code.**
-> **Push to GitHub.**
-> **Repeat.**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=F8FAFC&stroke=CBD5E1&ring=60A5FA&fire=60A5FA&currStreakLabel=2563EB&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" width="90%"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=Faizan-khan144&theme=winter&style=aura" width="94%"/>
+
+</div>
+
+---
+
+# THE ROADMAP
 
 ```text
-while (alive) {
-    build();
-    debug();
-    learn();
-    ship();
-}
+2026
+
+FRONTEND
+████████████████████████████████████  ACTIVE
+
+REACT
+██████████████████████████████████░░  ACTIVE
+
+TAILWIND
+██████████████████████████████████░░  ACTIVE
+
+NODE.JS
+██████████████████████░░░░░░░░░░░░░  BUILDING
+
+EXPRESS
+████████████████████░░░░░░░░░░░░░░░  BUILDING
+
+MONGODB
+██████████████████░░░░░░░░░░░░░░░░░  BUILDING
+
+PYTHON
+████████████████████░░░░░░░░░░░░░░░  EXPLORING
+
+OPEN SOURCE
+██████████████░░░░░░░░░░░░░░░░░░░░░  EXPANDING
 ```
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:06B6D4&height=140&section=footer"/>
+# DEVELOPMENT WORKFLOW
 
-### `NO BUGS WERE HARMED IN THE MAKING OF THIS PROFILE.`
+```mermaid
+flowchart LR
+    A["IDEA"] --> B["DESIGN"]
+    B --> C["BUILD"]
+    C --> D["DEBUG"]
+    D --> E["TEST"]
+    E --> F["DEPLOY"]
+    F --> G["IMPROVE"]
+    G --> C
+```
+
+---
+
+# THE REAL WORKFLOW
+
+```text
+09:00    Open VS Code
+
+09:05    Start project
+
+09:20    "This should be easy"
+
+10:00    CSS stops making sense
+
+10:30    Search documentation
+
+11:00    Fix one thing
+
+11:15    Break three other things
+
+12:00    Git commit
+
+12:01    Notice the bug
+
+12:05    New commit
+
+12:30    Everything works
+
+12:31    Do not touch anything
+
+12:32    Touch everything
+```
+
+---
+
+# WHAT I'M LOOKING FOR
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/INTERNSHIPS-AVAILABLE-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
+<img src="https://img.shields.io/badge/JUNIOR_ROLES-OPEN-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-INTERESTED-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
+<img src="https://img.shields.io/badge/FREELANCE-CONSIDERING-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
+
+</div>
+
+---
+
+# PROFILE TELEMETRY
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=60A5FA&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&color=60A5FA&labelColor=0F172A&logo=github&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&color=60A5FA&labelColor=0F172A&logo=github&logoColor=FFFFFF"/>
+
+</div>
+
+---
+
+# CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/badge/GITHUB-FAIZAN--KHAN144-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+
+<a href="https://x.com/faizan525nk">
+<img src="https://img.shields.io/badge/X-FOLLOW-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:muhammadfaizankhan525@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172033,100:60A5FA&height=150&section=footer"/>
+
+### BUILD. DEBUG. SHIP. REPEAT.
 
 </div>
