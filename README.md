@@ -18,13 +18,25 @@
 
 <!-- Pakistan GitHub Rankings -->
 
-**🇵🇰 GitHub Pakistan Rankings**
+---
+
+## 🇵🇰 GitHub Pakistan Rankings
+
+<div align="center">
 
 <img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg" alt="Public Commits Rank in Pakistan"/>
+&nbsp;&nbsp;
 <img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg" alt="All Contributions Rank in Pakistan"/>
+&nbsp;&nbsp;
 <img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg" alt="Public Contributions Rank in Pakistan"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub_Activity-Pakistan-1a1a2e?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=16213e"/>
+
 </div>
+
+---
 
 ---
 
