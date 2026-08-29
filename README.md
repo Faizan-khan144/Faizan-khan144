@@ -1,72 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B1F3A,100:0EA5E9&height=220&section=header&text=Muhammad%20Faizan%20Khan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20%7C%20Building%20Modern%20Web%20Experiences&descSize=16&descAlignY=62&descColor=CBD5E1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:0369A1&height=8&section=header" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&height=55&lines=Frontend+Developer;React+%2B+JavaScript+Developer;MERN+Stack+Developer+in+Progress;Building+Modern+%26+Responsive+Web+Experiences" alt="Typing SVG"/>
+# `muhammad@faizan:~$ whoami`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Frontend+Developer+%E2%80%94+not+a+div+alignment+expert;React+%7C+JavaScript+%7C+Tailwind;MERN+Stack+loading...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;I+turn+coffee+into+interfaces+and+bugs+into+features" alt="Typing SVG"/>
+
+<br/>
+
+> **I build interfaces that look intentional.**
+> Currently turning `console.log("why isn't this working")` into actual products.
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROLE-FRONTEND_DEVELOPER-020617?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=020617"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-020617?style=for-the-badge&logo=googlechrome&logoColor=22C55E&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BASED_IN-PAKISTAN-020617?style=for-the-badge&logo=googlemaps&logoColor=F87171&labelColor=020617"/>
 
 <br/><br/>
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-Faizan--khan144-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=020617"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=111827&color=0369A1"/>
 </a>
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=111827&color=0369A1"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=VISITORS&color=0369A1&labelColor=111827"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-FOLLOW-0B1120?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=020617"/>
+<img src="https://img.shields.io/badge/X-FOLLOW_THE_CHAOS-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
 </a>
-
 <a href="mailto:muhammadfaizankhan525@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-B91C1C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&labelColor=0F172A&color=0284C7&logo=github&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&labelColor=0F172A&color=0284C7&logo=github&logoColor=FFFFFF"/>
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=0284C7&labelColor=0F172A"/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22C55E&labelColor=0F172A"/>
-
-<br/><br/>
-
-<h2>🇵🇰 GitHub Rankings — Pakistan</h2>
+<br/><br/><br/>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-<b>PUBLIC COMMITS</b>
+### 🇵🇰 PAKISTAN
 
-<br/><br/>
+<img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg" width="300"/>
 
-<img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg" width="420"/>
-
-</td>
-
-<td align="center">
-
-<b>ALL CONTRIBUTIONS</b>
-
-<br/><br/>
-
-<img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg" width="420"/>
+<sub>Public Commits Rank</sub>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>PUBLIC CONTRIBUTIONS</b>
+### 🔥 CONTRIBUTIONS
 
-<br/><br/>
+<img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg" width="300"/>
 
-<img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg" width="420"/>
+<sub>Public Contributions Rank</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔒 ALL ACTIVITY
+
+<img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg" width="300"/>
+
+<sub>All Contributions Rank</sub>
 
 </td>
 </tr>
@@ -74,201 +79,131 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PAKISTAN_DEVELOPER-OPEN_SOURCE_CONTRIBUTOR-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GITHUB_PAKISTAN_RANKING-UNLOCKED-020617?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-CORE-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-CORE-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-CORE-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/REACT-CORE-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TAILWIND-CORE-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   $ git status                                                       │
+│                                                                      │
+│   ● frontend        building                                        │
+│   ● react           shipping                                        │
+│   ● javascript      fighting bugs                                   │
+│   ● mern            loading...                                      │
+│   ● python          exploring                                       │
+│                                                                      │
+│   Current mission:                                                   │
+│   Build something useful enough that someone actually wants to use it│
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+```
 
 <br/>
 
-<img src="https://img.shields.io/badge/NODE.JS-LEARNING-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/EXPRESS-LEARNING-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MONGODB-LEARNING-0F172A?style=for-the-badge&logo=mongodb&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/PYTHON-EXPLORING-0F172A?style=for-the-badge&logo=python&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/BUILD-Ship_it-0F172A?style=for-the-badge&logo=rocket&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/DEBUG-Fix_it-0F172A?style=for-the-badge&logo=bugsnag&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/LEARN-Repeat_it-0F172A?style=for-the-badge&logo=bookstack&logoColor=22C55E"/>
 
 <br/><br/>
 
-<sub>DESIGN • DEVELOP • DEPLOY • IMPROVE</sub>
+<sub>
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind` · `Node.js` · `Express` · `MongoDB` · `Python`
+
+</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,50:0EA5E9,100:38BDF8&height=3&section=footer" width="100%"/>
 
 </div>
 
 ---
 
-# About Me
+## About Me
+
+I'm Muhammad Faizan Khan — a frontend developer who enjoys turning ideas into polished, responsive interfaces.
+
+I spend most of my time with **JavaScript, React, Tailwind CSS, and modern frontend development**, while gradually expanding into the **MERN stack**.
+
+When I'm not fighting CSS, I'm usually:
+
+* Building something that started as "just a small project"
+* Turning designs into responsive interfaces
+* Learning backend development
+* Exploring Python and data tools
+* Breaking something perfectly functional and then fixing it
+* Looking for better ways to write cleaner code
+
+### Current Status
+
+```text
+Frontend        ████████████████████░░  90%
+React           █████████████████░░░░░  80%
+JavaScript      ██████████████████░░░░  85%
+Tailwind CSS    ███████████████████░░░  90%
+Node.js         ███████████░░░░░░░░░░░  Learning
+Express.js      █████████░░░░░░░░░░░░░  Learning
+MongoDB         ████████░░░░░░░░░░░░░░  Learning
+Python          ██████████░░░░░░░░░░░░  Exploring
+```
+
+> **Current objective:** Become dangerously good at building things for the web.
+
+---
+
+## The Developer Behind The Commits
 
 ```python
-class Developer:
+developer = {
+    "name": "Muhammad Faizan Khan",
+    "role": "Frontend Developer",
+    "location": "Pakistan",
 
-    name = "Muhammad Faizan Khan"
-    role = "Frontend Developer"
-    location = "Karachi, Pakistan"
+    "main_weapon": "JavaScript",
+    "favorite_framework": "React",
+    "styling_weapon": "Tailwind CSS",
 
-    core_stack = [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React",
-        "Tailwind CSS"
-    ]
-
-    currently_learning = [
+    "currently_learning": [
         "Node.js",
         "Express.js",
-        "MongoDB",
-        "MERN Architecture"
-    ]
+        "MongoDB"
+    ],
 
-    exploring = [
+    "currently_exploring": [
         "Python",
         "NumPy",
         "Pandas",
-        "Matplotlib",
-        "Seaborn"
-    ]
+        "Data Visualization"
+    ],
 
-    focus = [
-        "Responsive Interfaces",
-        "Modern UI",
-        "Performance",
-        "Clean Architecture"
-    ]
+    "debugging_strategy": [
+        "Read error",
+        "Pretend I understand",
+        "Google it",
+        "Fix it",
+        "Never touch that line again"
+    ],
 
-    philosophy = "Build. Break. Debug. Improve. Ship."
-
-developer = Developer()
+    "life_cycle": "Build → Break → Debug → Learn → Repeat"
+}
 ```
 
 ---
 
-# Developer Profile
-
-<table>
-<tr>
-<td width="50%">
-
-### Frontend
-
-Building responsive interfaces with a focus on clean layouts, reusable components, smooth interactions, and modern UI patterns.
-
-**Core**
-
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-
-</td>
-
-<td width="50%">
-
-### Full Stack
-
-Expanding from frontend development into complete MERN applications and backend architecture.
-
-**Learning**
-
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" height="70"/>
-
-<br/><br/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" height="70"/>
-
-<br/><br/>
-
-### Python & Data
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="70"/>
-
-<br/><br/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" height="70"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel&theme=dark" width="90%"/>
 
 </div>
 
 ---
 
-# Engineering Workflow
-
-```mermaid
-flowchart LR
-
-A["IDEA"] --> B["DESIGN"]
-B --> C["DEVELOP"]
-C --> D["DEBUG"]
-D --> E["TEST"]
-E --> F["DEPLOY"]
-F --> G["IMPROVE"]
-
-G --> C
-
-style A fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style B fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style C fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style D fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style E fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style F fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style G fill:#020617,stroke:#38BDF8,color:#FFFFFF
-```
-
----
-
-# MERN Architecture
-
-```mermaid
-flowchart LR
-
-U["USER"] --> R["REACT"]
-
-R --> T["TAILWIND CSS"]
-
-R -->|HTTP / JSON| E["EXPRESS API"]
-
-E --> N["NODE.JS"]
-
-N --> M[("MONGODB")]
-
-M --> N
-N --> E
-E --> R
-
-style U fill:#020617,stroke:#38BDF8,color:#FFFFFF
-style R fill:#020617,stroke:#61DAFB,color:#FFFFFF
-style T fill:#020617,stroke:#06B6D4,color:#FFFFFF
-style E fill:#020617,stroke:#FFFFFF,color:#FFFFFF
-style N fill:#020617,stroke:#22C55E,color:#FFFFFF
-style M fill:#020617,stroke:#22C55E,color:#FFFFFF
-```
-
----
-
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -278,60 +213,34 @@ style M fill:#020617,stroke:#22C55E,color:#FFFFFF
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=020617&stroke=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B"/>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=020617&color=E2E8F0&line=38BDF8&point=FFFFFF&area_color=0F172A&area=true&hide_border=true"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=020617&stroke=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B"/>
 
 </div>
 
 ---
 
-# GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15"/>
-
-</div>
-
----
-
-# Featured Projects
+## Things I'm Building
 
 <table>
 <tr>
 
 <td width="50%">
 
-## August & Oak
+### August & Oak
 
-Modern e-commerce storefront featuring product filtering, cart functionality, wishlist support, and Local Storage.
-
-**Stack**
+A modern e-commerce experience with filtering, cart functionality, wishlist support, and persistent client-side state.
 
 `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
 
 </td>
 
 <td width="50%">
 
-## Vortex Agency
+### Vortex Agency
 
-Modern agency website focused on premium layouts, responsive design, animations, and polished user experience.
-
-**Stack**
+A premium agency-style website focused on responsive layouts, visual hierarchy, animation, and modern UI.
 
 `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/Faizan-khan144/vortex-agency">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
 
 </td>
 
@@ -341,33 +250,21 @@ Modern agency website focused on premium layouts, responsive design, animations,
 
 <td width="50%">
 
-## Faizan Portfolio
+### Faizan Portfolio
 
-Personal portfolio showcasing projects, technical skills, experience, and development journey.
-
-**Stack**
+My personal developer portfolio for showcasing projects, skills, experiments, and the journey behind them.
 
 `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/Faizan-khan144/faizan-portfolio">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0284C7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
 
 </td>
 
 <td width="50%">
 
-## FZ Bank
+### FZ Bank
 
-Modern banking interface with dashboard-focused layouts and clean financial UI patterns.
-
-**Stack**
+A modern banking interface focused on dashboard layouts, clean information architecture, and polished UI.
 
 `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
 
 </td>
 
@@ -376,136 +273,67 @@ Modern banking interface with dashboard-focused layouts and clean financial UI p
 
 ---
 
-# Current Focus
+## Development Philosophy
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                     CURRENT DEVELOPMENT                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ████████████████████░░░░  React & Frontend                │
-│  ███████████████░░░░░░░░░  JavaScript                     │
-│  ████████████░░░░░░░░░░░░  Tailwind CSS                   │
-│  ██████████░░░░░░░░░░░░░░  Node.js                        │
-│  ████████░░░░░░░░░░░░░░░░  Express.js                     │
-│  ██████░░░░░░░░░░░░░░░░░░  MongoDB                       │
-│  ███████░░░░░░░░░░░░░░░░░  Python                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+GOOD CODE
+    ↓
+Readable
+    ↓
+Maintainable
+    ↓
+Useful
+    ↓
+Fast
+    ↓
+Shipped
 ```
+
+I don't want to just collect technologies.
+
+I want to **build real things with them**.
 
 ---
 
-# 2026 Roadmap
+## 2026 Mission
 
 ```mermaid
-timeline
+flowchart LR
 
-title 2026 Development Roadmap
+A["Frontend"] --> B["Advanced React"]
+B --> C["Node.js"]
+C --> D["Express"]
+D --> E["MongoDB"]
+E --> F["MERN"]
+F --> G["Production Apps"]
 
-section Frontend
-React Mastery
-Advanced UI Patterns
-Performance Optimization
+H["Python"] --> I["NumPy"]
+I --> J["Pandas"]
+J --> K["Data Projects"]
 
-section Backend
-Node.js
-Express.js
-REST APIs
-
-section Database
-MongoDB
-Mongoose
-Database Design
-
-section Full Stack
-MERN Applications
-Authentication
-Production Deployment
-
-section Python
-NumPy
-Pandas
-Data Visualization
+style A fill:#020617,stroke:#38BDF8,color:#FFFFFF
+style B fill:#020617,stroke:#38BDF8,color:#FFFFFF
+style C fill:#020617,stroke:#22C55E,color:#FFFFFF
+style D fill:#020617,stroke:#22C55E,color:#FFFFFF
+style E fill:#020617,stroke:#22C55E,color:#FFFFFF
+style F fill:#020617,stroke:#38BDF8,color:#FFFFFF
+style G fill:#020617,stroke:#38BDF8,color:#FFFFFF
+style H fill:#020617,stroke:#FACC15,color:#FFFFFF
+style I fill:#020617,stroke:#FACC15,color:#FFFFFF
+style J fill:#020617,stroke:#FACC15,color:#FFFFFF
+style K fill:#020617,stroke:#FACC15,color:#FFFFFF
 ```
 
 ---
 
-# Problem Solving
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-FOCUSED-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+### `$ git commit -m "keep building"`
 
-<img src="https://img.shields.io/badge/ALGORITHMS-CONTINUOUSLY_LEARNING-020617?style=for-the-badge&logo=codewars&logoColor=B1361E"/>
+<br/>
 
-<img src="https://img.shields.io/badge/LOGIC-BUILDING-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0369A1&height=130&section=footer"/>
 
-</div>
-
----
-
-# Experience
-
-### Frontend Developer — Freelance / Self-Directed Projects
-
-**2024 — Present**
-
-Building responsive, production-style web interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS.
-
-Focused on:
-
-* Responsive UI development
-* Component-based architecture
-* Modern frontend patterns
-* Client-side state management
-* API integration
-* Performance optimization
-* Cross-browser compatibility
-* Clean and maintainable code
-
-Currently expanding into backend development with Node.js, Express, MongoDB, and the MERN stack.
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=020617&color=E2E8F0&line=38BDF8&point=FFFFFF&area_color=0F172A&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
-</a>
-
-<a href="mailto:muhammadfaizankhan525@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-B91C1C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1F3A,100:0284C7&height=150&section=footer"/>
-
-### `BUILD → SHIP → LEARN → REPEAT`
+`Learn → Build → Debug → Improve → Repeat`
 
 </div>
