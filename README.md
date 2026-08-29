@@ -2,39 +2,65 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=800&lines=Frontend+Developer;MERN+Stack+Engineer+in+Training;Python+%2B+Data+Enthusiast;Building+production-grade+interfaces" alt="Typing SVG"/>
 
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/followers/Faizan-khan144?logo=github&style=flat&color=1a1a2e&labelColor=16213e&logoColor=C084FC"/></a> <a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/github/stars/Faizan-khan144?logo=github&style=flat&color=1a1a2e&labelColor=16213e&logoColor=C084FC"/></a> <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&color=1a1a2e&style=flat&label=Views"/>
-
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/"><img src="https://img.shields.io/badge/LinkedIn-16213e?style=flat&logo=linkedin&logoColor=C084FC"/></a> <a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-16213e?style=flat&logo=x&logoColor=C084FC"/></a> <a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Email-16213e?style=flat&logo=gmail&logoColor=C084FC"/></a> <img src="https://img.shields.io/badge/Open_to_Work-16213e?style=flat&logo=googlechrome&logoColor=C084FC"/>
-
 <br/>
 
-<img src="https://img.shields.io/badge/build-passing-16213e?style=flat-square&logo=githubactions&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/PRs-welcome-16213e?style=flat-square&logo=git&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/license-MIT-16213e?style=flat-square&logo=opensourceinitiative&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/uptime-99.9%25-16213e?style=flat-square&logo=statuspage&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/deployed_on-Vercel-16213e?style=flat-square&logo=vercel&logoColor=white"/>
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=16213e&color=1a1a2e&label=FOLLOWERS"/>
+</a>
+&nbsp;
+<a href="https://github.com/Faizan-khan144">
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=16213e&color=1a1a2e&label=STARS"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=1a1a2e&labelColor=16213e&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<!-- Pakistan GitHub Rankings -->
+<img src="https://img.shields.io/badge/GitHub_Activity-Active-1a1a2e?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=16213e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to_Work-Available-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=C084FC&labelColor=16213e"/>
 
----
+<br/><br/>
 
-## 🇵🇰 GitHub Pakistan Rankings
-
-<div align="center">
+### 🇵🇰 GitHub Pakistan Rankings
 
 <img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg" alt="Public Commits Rank in Pakistan"/>
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg" alt="All Contributions Rank in Pakistan"/>
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg" alt="Public Contributions Rank in Pakistan"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GitHub_Activity-Pakistan-1a1a2e?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=16213e"/>
+<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=16213e"/>
+</a>
+&nbsp;
+<a href="https://x.com/faizan525nk">
+<img src="https://img.shields.io/badge/X-Follow-1a1a2e?style=for-the-badge&logo=x&logoColor=C084FC&labelColor=16213e"/>
+</a>
+&nbsp;
+<a href="mailto:muhammadfaizankhan525@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-1a1a2e?style=for-the-badge&logo=gmail&logoColor=C084FC&labelColor=16213e"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-16213e?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-16213e?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-16213e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-16213e?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-16213e?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Node.js-16213e?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+
+<br/><br/>
+
+<sub>Frontend Development • MERN Stack • Open Source • Continuous Learning</sub>
 
 </div>
+
+---
+
 
 ---
 
