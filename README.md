@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32"> MUHAMMAD FAIZAN KHAN
+# HI <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32"> MUHAMMAD FAIZAN KHAN
 
 ### FRONTEND DEVELOPER · MERN STACK · PYTHON
 
