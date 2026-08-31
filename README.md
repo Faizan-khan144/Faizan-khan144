@@ -1,25 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=MUHAMMAD+FAIZAN+KHAN;FRONTEND+DEVELOPER;MERN+STACK+DEVELOPER;BUILDING+THE+WEB%2C+ONE+PROJECT+AT+A+TIME"/>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32"> MUHAMMAD FAIZAN KHAN
+
+### FRONTEND DEVELOPER · MERN STACK · PYTHON
+
+<p>
+I build modern web interfaces, practical applications, and real-world digital experiences.
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&label=VISITORS&style=flat-square&color=A78BFA"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;JavaScript+Developer;Python+Learner;Always+Building+Something"/>
 
 <br/><br/>
 
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&label=PROFILE+VIEWS&style=for-the-badge&color=2563EB&labelColor=0B1120"/>
 
 </div>
 
@@ -28,90 +23,98 @@
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   MUHAMMAD FAIZAN KHAN                                              │
-│   ─────────────────────                                              │
-│   Frontend Developer                                                │
-│   MERN Stack Developer                                              │
-│   Python Learner                                                    │
-│                                                                      │
-│   I build interfaces.                                               │
-│   I solve problems.                                                 │
-│   I turn ideas into working software.                               │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   MUHAMMAD FAIZAN KHAN                                                     │
+│                                                                             │
+│   Frontend Developer                                                       │
+│   MERN Stack Developer                                                     │
+│   Python Learner                                                           │
+│                                                                             │
+│   Turning ideas into interfaces.                                          │
+│   Turning interfaces into applications.                                    │
+│   Turning problems into solutions.                                         │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-# `01` — WHO AM I?
+---
 
-I'm **Muhammad Faizan Khan**, a frontend developer focused on creating modern, responsive, and functional web experiences.
+# `01` / PROFILE
 
-My journey started with the fundamentals of the web and has grown into building complete projects with JavaScript and React.
+I'm **Muhammad Faizan Khan**, a frontend developer focused on building responsive, modern, and functional web experiences.
 
-Now I'm pushing further into the **MERN stack**, learning how frontend applications communicate with servers, APIs, and databases.
+My strongest area is frontend development with **HTML, CSS, JavaScript, React, and Tailwind CSS**.
 
-Alongside web development, I'm exploring **Python** and its data ecosystem.
+I'm also expanding into backend development through the **MERN stack**, learning how applications communicate through APIs, servers, and databases.
+
+Alongside web development, I'm exploring **Python** with tools such as NumPy, Pandas, and Matplotlib.
 
 ```text
-CURRENT ROLE
-└── Frontend Developer
+PROFILE
+────────────────────────────────────────────────────────
 
-PRIMARY FOCUS
-├── React
-├── JavaScript
-├── Responsive Design
-└── Modern UI Development
+ROLE
+Frontend Developer
+
+FOCUS
+Modern Web Development
+Responsive Interfaces
+React Applications
+JavaScript Development
+
+STACK
+HTML · CSS · JavaScript · React · Tailwind
 
 EXPANDING
-├── Node.js
-├── Express.js
-├── MongoDB
-└── REST APIs
+Node.js · Express · MongoDB · REST APIs
 
 EXPLORING
-├── Python
-├── NumPy
-├── Pandas
-└── Matplotlib
+Python · NumPy · Pandas · Matplotlib
+
+MINDSET
+Build → Debug → Understand → Improve → Ship
 ```
 
 ---
 
-# `02` — DEVELOPMENT PHILOSOPHY
+# `02` / WHAT I BUILD
 
-```text
-                         BUILD
-                           │
-                           ▼
-                        BREAK
-                           │
-                           ▼
-                        DEBUG
-                           │
-                           ▼
-                       UNDERSTAND
-                           │
-                           ▼
-                        IMPROVE
-                           │
-                           ▼
-                          SHIP
-                           │
-                           └───────────────► BUILD
-```
+<table>
+<tr>
 
-I don't see bugs as failures.
+<td width="33%" align="center">
 
-A broken application usually means there's something I haven't understood yet.
+### WEB EXPERIENCES
 
-So I build, investigate, fix, learn, and build again.
+Responsive websites with clean layouts, modern interactions, and strong visual hierarchy.
+
+</td>
+
+<td width="33%" align="center">
+
+### APPLICATIONS
+
+Functional JavaScript and React applications built around real use cases.
+
+</td>
+
+<td width="33%" align="center">
+
+### FULL-STACK
+
+Growing toward complete applications with APIs, servers, databases, and authentication.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `03` — TECHNOLOGY
+# `03` / TECHNOLOGY
 
 <div align="center">
 
@@ -119,73 +122,50 @@ So I build, investigate, fix, learn, and build again.
 
 </div>
 
-### FRONTEND
+<br/>
 
-`HTML5` · `CSS3` · `JavaScript` · `React` · `Tailwind CSS`
-
-### BACKEND
-
-`Node.js` · `Express.js` · `REST APIs`
-
-### DATABASE
-
-`MongoDB` · `Mongoose`
-
-### PYTHON
-
-`Python` · `NumPy` · `Pandas` · `Matplotlib`
-
-### TOOLING
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `Vercel`
+| DOMAIN       | TECHNOLOGIES                                     |
+| :----------- | :----------------------------------------------- |
+| **Frontend** | HTML5 · CSS3 · JavaScript · React · Tailwind CSS |
+| **Backend**  | Node.js · Express.js · REST APIs                 |
+| **Database** | MongoDB · Mongoose                               |
+| **Python**   | Python · NumPy · Pandas · Matplotlib             |
+| **Tools**    | Git · GitHub · VS Code · Postman · Vercel        |
 
 ---
 
-# `04` — WHAT I BUILD
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### WEB APPS
-
-Responsive applications built around real functionality.
-
-</td>
-
-<td width="33%" align="center">
-
-### INTERFACES
-
-Modern UI with attention to layout, hierarchy and interaction.
-
-</td>
-
-<td width="33%" align="center">
-
-### FULL STACK
-
-Moving from frontend experiences toward complete applications.
-
-</td>
-</tr>
-</table>
-
----
-
-# `05` — SELECTED WORK
-
-## `AUGUST & OAK`
-
-**E-Commerce Experience**
-
-A modern storefront focused on a clean shopping experience and practical client-side functionality.
+# `04` / ENGINEERING FOCUS
 
 ```text
-STACK
+┌───────────────────────────┬─────────────────────────────────────────────┐
+│ AREA                      │ CURRENT FOCUS                               │
+├───────────────────────────┼─────────────────────────────────────────────┤
+│ Frontend                  │ Responsive & component-based interfaces     │
+│ JavaScript                │ Clean logic & practical applications       │
+│ React                     │ Components, state & application structure   │
+│ Tailwind                  │ Modern responsive UI                        │
+│ Node.js                   │ Server-side JavaScript                      │
+│ Express                   │ REST API development                        │
+│ MongoDB                   │ Database-driven applications                │
+│ Python                    │ Programming & data exploration              │
+└───────────────────────────┴─────────────────────────────────────────────┘
+```
+
+---
+
+# `05` / SELECTED WORK
+
+## AUGUST & OAK
+
+### Modern E-Commerce Experience
+
+A responsive e-commerce storefront designed around a clean shopping experience and practical client-side functionality.
+
+```text
+TECHNOLOGY
 HTML · CSS · JavaScript
 
-FEATURES
+FUNCTIONALITY
 ├── Product Filtering
 ├── Shopping Cart
 ├── Wishlist
@@ -194,105 +174,107 @@ FEATURES
 ```
 
 <a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 ---
 
-## `VORTEX AGENCY`
+## VORTEX AGENCY
 
-**Digital Agency Interface**
+### Modern Digital Agency Interface
 
-A modern agency website built around strong visual hierarchy, responsive layouts, and interactive sections.
+A polished agency website focused on visual hierarchy, responsive layouts, and interactive sections.
 
 ```text
-STACK
+TECHNOLOGY
 HTML · CSS · JavaScript
 
 FOCUS
 ├── Modern UI
-├── Responsive Layouts
+├── Responsive Design
 ├── Interactive Sections
 └── Agency Presentation
 ```
 
 <a href="https://github.com/Faizan-khan144/vortex-agency">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 ---
 
-## `FZ BANK`
+## FZ BANK
 
-**Banking Interface Concept**
+### Banking Dashboard Concept
 
-A modern banking UI concept designed around dashboards, financial components, and structured layouts.
+A modern banking interface concept built around dashboard layouts, financial components, and structured UI.
 
 ```text
-STACK
+TECHNOLOGY
 HTML · CSS · JavaScript
 
 FOCUS
 ├── Dashboard UI
 ├── Financial Components
-├── Responsive Design
+├── Responsive Layouts
 └── Interface Architecture
 ```
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/VIEW_GITHUB-A78BFA?style=for-the-badge&logo=github&logoColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/VIEW_GITHUB-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 ---
 
-## `FAIZAN PORTFOLIO`
+## DEVELOPER PORTFOLIO
 
-**Personal Developer Portfolio**
+### Personal Developer Platform
 
-A personal space for showcasing projects, development skills, and work.
+A portfolio website created to showcase projects, development skills, and personal work.
 
 ```text
-STACK
+TECHNOLOGY
 HTML · CSS · JavaScript
 
 FOCUS
 ├── Project Showcase
-├── Personal Branding
 ├── Responsive Design
+├── Personal Branding
 └── Modern UI
 ```
 
 <a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=0B0B0F"/>
+<img src="https://img.shields.io/badge/LIVE_PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 ---
 
-# `06` — CURRENTLY BUILDING
+# `06` / DEVELOPMENT STATUS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Improving+React+Architecture;Building+Full-Stack+Projects;Learning+Node.js+%26+Express;Exploring+MongoDB;Practicing+Python"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Improving+React+Architecture;Building+Full-Stack+Applications;Learning+Backend+Development;Working+With+APIs+%26+Databases;Exploring+Python+Data+Tools"/>
 
 </div>
 
+<br/>
+
 ```text
-FRONTEND
+FRONTEND DEVELOPMENT
+████████████████████████████████████████  ACTIVE
+
+JAVASCRIPT
 ████████████████████████████████████████  ACTIVE
 
 REACT
 ██████████████████████████████████████░░  DEVELOPING
 
-JAVASCRIPT
-████████████████████████████████████████  ACTIVE
-
-TAILWIND
+TAILWIND CSS
 ██████████████████████████████████████░░  DEVELOPING
 
 NODE.JS
 ████████████████████████░░░░░░░░░░░░░░░░  BUILDING
 
-EXPRESS
+EXPRESS.JS
 ██████████████████████░░░░░░░░░░░░░░░░░░  BUILDING
 
 MONGODB
@@ -304,149 +286,209 @@ PYTHON
 
 ---
 
-# `07` — GITHUB
+# `07` / DEVELOPMENT PRINCIPLES
 
 <div align="center">
 
-<img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg"/>
+```text
+01 ─ BUILD
+       Start with an idea and turn it into something usable.
 
-<br/><br/>
+02 ─ TEST
+       Find what works and what doesn't.
 
-<img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg"/>
+03 ─ DEBUG
+       Understand the problem instead of hiding it.
 
-<br/><br/>
+04 ─ REFACTOR
+       Improve the code after understanding it.
 
-<img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg"/>
+05 ─ SHIP
+       A finished project teaches more than an unfinished idea.
 
-<br/><br/>
+06 ─ REPEAT
+       Every project is another opportunity to improve.
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=A78BFA&text_color=C4B5FD&icon_color=22D3EE"/>
+</div>
+
+---
+
+# `08` / GITHUB
+
+<div align="center">
+
+### PAKISTAN CONTRIBUTION RANKINGS
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=0B0B0F&stroke=27272A&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A"/>
-
-</div>
-
----
-
-# `08` — CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0B0B0F&color=C4B5FD&line=A78BFA&point=22D3EE&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# `09` — TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
-# `10` — CONTRIBUTION RANK
-
-<div align="center">
-
-```text
-PAKISTAN CONTRIBUTION RANKINGS
-```
-
 <img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg"/>
+
+<br/><br/>
 
 <img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg"/>
 
+<br/><br/>
+
 <img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg"/>
+
+<br/><br/>
+
+### ACTIVITY
+
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=0B1120&stroke=1E293B&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="80%"/>
 
 </div>
 
 ---
 
-# `11` — THE ROAD AHEAD
+# `09` / CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=0B1120&color=CBD5E1&line=2563EB&point=38BDF8&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# `10` / LANGUAGE DISTRIBUTION
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1" width="48%"/>
+
+</div>
+
+---
+
+# `11` / TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+
+</div>
+
+---
+
+# `12` / ROADMAP
 
 ```text
-2026
-│
-├── MASTER FRONTEND DEVELOPMENT
-│
-├── BUILD STRONGER REACT APPLICATIONS
-│
-├── DEVELOP FULL-STACK PROJECTS
-│
-├── LEARN BACKEND ARCHITECTURE
-│
-├── WORK WITH DATABASES & APIs
-│
-├── EXPAND PYTHON KNOWLEDGE
-│
-├── CONTRIBUTE TO OPEN SOURCE
-│
-└── BUILD PROJECTS THAT PEOPLE CAN ACTUALLY USE
+                         2026 DEVELOPMENT ROADMAP
+
+                                START
+                                  │
+                                  ▼
+                         FRONTEND MASTERY
+                                  │
+                                  ▼
+                        REACT DEVELOPMENT
+                                  │
+                                  ▼
+                       FULL-STACK DEVELOPMENT
+                                  │
+                    ┌─────────────┴─────────────┐
+                    ▼                           ▼
+                BACKEND                    DATABASES
+                    │                           │
+                    ▼                           ▼
+                NODE.JS                    MONGODB
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  ▼
+                              REST APIs
+                                  │
+                                  ▼
+                         REAL-WORLD PROJECTS
+                                  │
+                                  ▼
+                            OPEN SOURCE
+                                  │
+                                  ▼
+                               SHIP
 ```
 
 ---
 
-# `12` — DEVELOPER MODE
+# `13` / TERMINAL
+
+<div align="center">
 
 ```text
-$ whoami
+╭─────────────────────────────────────────────────────────────╮
+│ faizan@developer:~$                                        │
+│                                                             │
+│ $ whoami                                                    │
+│ Muhammad Faizan Khan                                        │
+│                                                             │
+│ $ role                                                      │
+│ Frontend Developer                                           │
+│                                                             │
+│ $ stack                                                      │
+│ React · JavaScript · Tailwind · MERN                         │
+│                                                             │
+│ $ learning                                                   │
+│ Node.js · Express · MongoDB · Python                         │
+│                                                             │
+│ $ status                                                     │
+│ Building real projects                                      │
+│                                                             │
+│ $ next                                                       │
+│ Build something better                                      │
+│                                                             │
+│ $ _                                                         │
+╰─────────────────────────────────────────────────────────────╯
+```
 
-muhammad-faizan-khan
+</div>
 
+---
 
-$ current_status
+# `14` / OPEN TO OPPORTUNITIES
 
-Frontend Developer
-MERN Stack — Building
-Python — Exploring
+```text
+INTERNSHIPS
+Exploring opportunities to gain experience through real-world development.
 
+FREELANCE
+Open to selected frontend and web development projects.
 
-$ favorite_stack
+COLLABORATION
+Interested in working with developers and creators on useful projects.
 
-JavaScript + React
-
-
-$ philosophy
-
-"Don't just make it work.
-Understand why it works."
-
-
-$ next_command
-
-keep_building
+OPEN SOURCE
+Interested in learning, contributing, and building with the community.
 ```
 
 ---
 
-# `13` — LET'S CONNECT
+# `15` / CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-FAIZAN--KHAN144-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-FAIZAN--KHAN144-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-MUHAMMAD%20FAIZAN%20KHAN-18181B?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 
 <a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-FAIZAN525NK-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/X-FOLLOW-111827?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-FAIZAN-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:muhammadfaizankhan525@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -455,10 +497,12 @@ keep_building
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=BUILD.;DEBUG.;LEARN.;IMPROVE.;SHIP.;REPEAT."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=BUILD+WITH+PURPOSE;WRITE+CLEAN+CODE;LEARN+FROM+EVERY+BUG;KEEP+SHIPPING"/>
 
 <br/><br/>
 
-`© Muhammad Faizan Khan`
+**MUHAMMAD FAIZAN KHAN**
+
+`Frontend Developer · MERN Stack · Python`
 
 </div>
