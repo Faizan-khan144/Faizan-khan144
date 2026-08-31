@@ -2,75 +2,61 @@
 
 # MUHAMMAD FAIZAN KHAN
 
-### FRONTEND DEVELOPER · MERN STACK · PYTHON
+### Frontend Developer · MERN Stack Developer · Python
+
+<p>
+  <a href="https://github.com/Faizan-khan144">
+    <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&label=PROFILE%20VIEWS&color=0F172A&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Faizan-khan144">
+    <img src="https://img.shields.io/github/followers/Faizan-khan144?label=FOLLOWERS&style=for-the-badge&color=0F172A&labelColor=172033"/>
+  </a>
+  <a href="https://github.com/Faizan-khan144">
+    <img src="https://img.shields.io/github/stars/Faizan-khan144?label=STARS&style=for-the-badge&color=0F172A&labelColor=172033"/>
+  </a>
+</p>
 
 <img src="https://www.gitskins.com/api/section/hero?username=Faizan-khan144&theme=winter&style=aura" width="100%"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/FRONTEND_DEVELOPER-0F172A?style=for-the-badge&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/MERN_IN_PROGRESS-0F172A?style=for-the-badge&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-0F172A?style=for-the-badge&logoColor=60A5FA"/>
-
-<br/><br/>
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&labelColor=172033&color=60A5FA&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&labelColor=172033&color=60A5FA&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=60A5FA&labelColor=172033"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-
-<a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-</a>
-
-<a href="mailto:muhammadfaizankhan525@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+  </a>
+  <a href="https://x.com/faizan525nk">
+    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://faizan-portfolio-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+  </a>
+  <a href="mailto:muhammadfaizankhan525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# PROFILE
+## ABOUT ME
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                         FAIZAN / PROFILE                              │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ROLE          Frontend Developer                                   │
-│  SPECIALTY     Responsive interfaces and modern web experiences     │
-│  PRIMARY       HTML · CSS · JavaScript · React · Tailwind            │
-│  EXPANDING     Node.js · Express · MongoDB · REST APIs               │
-│  EXPLORING     Python · NumPy · Pandas · Matplotlib                  │
-│                                                                      │
-│  CURRENT STATE                                                      │
-│  Building projects, improving architecture, learning full-stack.     │
-│                                                                      │
-│  DEVELOPMENT PHILOSOPHY                                             │
-│  Build it. Break it. Understand it. Improve it. Ship it.             │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+Hi, I'm **Muhammad Faizan Khan**, a frontend developer focused on building responsive, modern, and user-friendly web experiences.
+
+I work primarily with **HTML, CSS, JavaScript, React, and Tailwind CSS**, while expanding into the **MERN stack** and Python-based development.
+
+I enjoy turning ideas into functional interfaces, experimenting with new technologies, and building projects that solve practical problems.
+
+### Currently Working On
+
+* Building modern frontend applications
+* Improving React architecture and component design
+* Expanding into Node.js, Express.js, and MongoDB
+* Learning REST API development
+* Exploring Python with NumPy, Pandas, and Matplotlib
+* Building real-world projects and improving through hands-on development
 
 ---
 
-# PAKISTAN CONTRIBUTION RANKINGS
+## PAKISTAN CONTRIBUTION RANKINGS
 
 <div align="center">
 
@@ -84,77 +70,88 @@
 
 <img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg"/>
 
-<br/><br/>
-
-`PUBLIC COMMITS` · `ALL CONTRIBUTIONS` · `PUBLIC CONTRIBUTIONS`
-
 </div>
 
 ---
 
-# DEVELOPMENT STACK
+## TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github,vscode,postman,vercel&theme=light"/>
-
-</div>
-
-<br/>
-
-| Area     | Technologies                                 |
-| -------- | -------------------------------------------- |
-| Frontend | HTML5, CSS3, JavaScript, React, Tailwind CSS |
-| Backend  | Node.js, Express.js, REST APIs               |
-| Database | MongoDB, Mongoose                            |
-| Python   | Python, NumPy, Pandas, Matplotlib            |
-| Tooling  | Git, GitHub, VS Code, Postman, Vercel        |
-
----
-
-# CURRENTLY BUILDING
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stack?username=Faizan-khan144&theme=winter&style=aura" width="92%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,numpy,git,github,vscode,postman,vercel&theme=light"/>
 
 </div>
 
 ### Frontend
 
-Building cleaner component structures, responsive layouts, modern interactions, and production-style interfaces.
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Tailwind CSS`
 
 ### Backend
 
-Moving deeper into Node.js, Express, REST API architecture, authentication, and MongoDB.
+`Node.js` · `Express.js` · `REST APIs`
+
+### Database
+
+`MongoDB` · `Mongoose`
 
 ### Python
 
-Exploring Python through data manipulation and visualization with NumPy, Pandas, and Matplotlib.
+`Python` · `NumPy` · `Pandas` · `Matplotlib`
+
+### Tools
+
+`Git` · `GitHub` · `VS Code` · `Postman` · `Vercel`
 
 ---
 
-# SELECTED PROJECTS
+## WHAT I BUILD
+
+```text
+Frontend Development
+    ├── Responsive Websites
+    ├── Modern Landing Pages
+    ├── Interactive Interfaces
+    ├── Dashboard UIs
+    └── E-Commerce Experiences
+
+Full-Stack Development
+    ├── React Applications
+    ├── REST APIs
+    ├── Node.js Backends
+    └── MongoDB Applications
+
+Python
+    ├── Data Manipulation
+    ├── Data Analysis
+    └── Visualization
+```
+
+---
+
+## FEATURED PROJECTS
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### AUGUST & OAK
 
-Modern e-commerce storefront focused on clean UI and practical client-side functionality.
+A modern e-commerce experience focused on clean design, responsive layouts, and practical frontend functionality.
+
+**Built With**
 
 `HTML` `CSS` `JavaScript`
 
-Features:
+**Features**
 
 * Product filtering
 * Shopping cart
 * Wishlist
 * Local Storage
-* Responsive interface
+* Responsive UI
 
-<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">REPOSITORY</a>
+<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">View Repository →</a>
 
 </td>
 
@@ -162,66 +159,75 @@ Features:
 
 ### VORTEX AGENCY
 
-Modern agency website designed around strong visual hierarchy, responsive layouts, and polished interactions.
+A modern agency website focused on visual hierarchy, responsive layouts, and polished interactions.
+
+**Built With**
 
 `HTML` `CSS` `JavaScript`
 
-Focus:
+**Highlights**
 
-* Agency presentation
-* Responsive design
 * Modern UI
+* Responsive design
+* Agency presentation
 * Interactive sections
 
-<a href="https://github.com/Faizan-khan144/vortex-agency">REPOSITORY</a>
+<a href="https://github.com/Faizan-khan144/vortex-agency">View Repository →</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### FZ BANK
 
-Banking dashboard concept with a clean interface and financial-product style layouts.
+A modern banking interface concept designed around dashboard layouts and financial-product experiences.
+
+**Built With**
 
 `HTML` `CSS` `JavaScript`
 
-Focus:
+**Highlights**
 
 * Dashboard UI
 * Financial components
 * Responsive layouts
-* Interface architecture
+* Modern interface architecture
 
-<a href="https://github.com/Faizan-khan144">GITHUB</a>
+<a href="https://github.com/Faizan-khan144">View GitHub →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### FAIZAN PORTFOLIO
+### DEVELOPER PORTFOLIO
 
-Personal developer portfolio showcasing projects, technical skills, and development work.
+My personal portfolio showcasing projects, development skills, and work as a frontend developer.
+
+**Built With**
 
 `HTML` `CSS` `JavaScript`
 
-Focus:
+**Highlights**
 
-* Portfolio presentation
-* Responsive design
 * Project showcase
+* Responsive design
 * Personal branding
+* Modern UI
 
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">LIVE SITE</a>
+<a href="https://faizan-portfolio-kappa.vercel.app/">View Live Site →</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <div align="center">
 
@@ -239,24 +245,60 @@ Focus:
 
 ---
 
-# THE ROADMAP
+## GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+## DEVELOPMENT MINDSET
 
 ```text
-2026
+IDEA
+  ↓
+PLAN
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+DEBUG
+  ↓
+TEST
+  ↓
+DEPLOY
+  ↓
+IMPROVE
+  ↺
+```
 
+I believe the best way to learn development is to **build real things, understand the problems, fix what breaks, and keep improving.**
+
+---
+
+## CURRENT ROADMAP
+
+```text
 FRONTEND
 ████████████████████████████████████  ACTIVE
+
+JAVASCRIPT
+██████████████████████████████████░░  ACTIVE
 
 REACT
 ██████████████████████████████████░░  ACTIVE
 
-TAILWIND
+TAILWIND CSS
 ██████████████████████████████████░░  ACTIVE
 
 NODE.JS
 ██████████████████████░░░░░░░░░░░░░  BUILDING
 
-EXPRESS
+EXPRESS.JS
 ████████████████████░░░░░░░░░░░░░░░  BUILDING
 
 MONGODB
@@ -271,98 +313,64 @@ OPEN SOURCE
 
 ---
 
-# DEVELOPMENT WORKFLOW
-
-```mermaid
-flowchart LR
-    A["IDEA"] --> B["DESIGN"]
-    B --> C["BUILD"]
-    C --> D["DEBUG"]
-    D --> E["TEST"]
-    E --> F["DEPLOY"]
-    F --> G["IMPROVE"]
-    G --> C
-```
-
----
-
-# THE REAL WORKFLOW
+## THE DEVELOPER LOOP
 
 ```text
-09:00    Open VS Code
-
-09:05    Start project
-
-09:20    "This should be easy"
-
-10:00    CSS stops making sense
-
-10:30    Search documentation
-
-11:00    Fix one thing
-
-11:15    Break three other things
-
-12:00    Git commit
-
-12:01    Notice the bug
-
-12:05    New commit
-
-12:30    Everything works
-
-12:31    Do not touch anything
-
-12:32    Touch everything
+Write Code
+     ↓
+Run Code
+     ↓
+Something Breaks
+     ↓
+Read Error
+     ↓
+Search Documentation
+     ↓
+Fix It
+     ↓
+Break Something Else
+     ↓
+Fix That Too
+     ↓
+Commit
+     ↓
+Ship
 ```
 
 ---
 
-# WHAT I'M LOOKING FOR
+## RANDOM DEV QUOTE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INTERNSHIPS-AVAILABLE-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
-<img src="https://img.shields.io/badge/JUNIOR_ROLES-OPEN-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
-<img src="https://img.shields.io/badge/OPEN_SOURCE-INTERESTED-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
-<img src="https://img.shields.io/badge/FREELANCE-CONSIDERING-0F172A?style=for-the-badge&labelColor=172033&color=60A5FA"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 
 </div>
 
 ---
 
-# PROFILE TELEMETRY
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=60A5FA&labelColor=0F172A"/>
-
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&label=FOLLOWERS&color=60A5FA&labelColor=0F172A&logo=github&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&label=STARS&color=60A5FA&labelColor=0F172A&logo=github&logoColor=FFFFFF"/>
-
-</div>
-
----
-
-# CONNECT
+## CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-FAIZAN--KHAN144-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-Faizan--khan144-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammadfaizankhan-76513041/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-FOLLOW-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/X-Follow-0F172A?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://faizan-portfolio-kappa.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:muhammadfaizankhan525@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=60A5FA"/>
 </a>
 
 </div>
@@ -373,6 +381,6 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172033,100:60A5FA&height=150&section=footer"/>
 
-### BUILD. DEBUG. SHIP. REPEAT.
+### BUILD · DEBUG · IMPROVE · SHIP
 
 </div>
