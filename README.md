@@ -7,7 +7,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfaizankhan-76513041/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
 [![Email](https://img.shields.io/badge/EMAIL_ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
