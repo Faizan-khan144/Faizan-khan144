@@ -1,6 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=FAIZAN.EXE&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Faizan+Khan;Frontend+Developer+%7C+MERN+Stack;Turning+Ideas+Into+Interfaces" alt="Typing SVG" />
+<table>
+<tr><td>
+
+```
+> booting faizan_bot.exe ...
+> loading profile ██████████ 100%
+> status: ONLINE ✅
+```
+
+</td></tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Faizan+Khan;Frontend+Developer+%7C+MERN+Stack;Turning+Ideas+Into+Interfaces" alt="Typing SVG" />
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="28"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="28"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="28"/>
 
 **Frontend Developer building modern web experiences**
 
@@ -28,7 +44,7 @@ and products into things worth using.
 
 ---
 
-## 🧭 About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ed/512.gif" width="28"/> About Me
 
 - 🚀 Currently building with **React** and **JavaScript**, while expanding into full-stack development with **Node.js, Express & MongoDB**
 - 🎯 Interested in the intersection of **design, engineering, and real-world usefulness**
@@ -38,7 +54,7 @@ and products into things worth using.
 
 ---
 
-## 🛠️ Languages & Tools
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28"/> Languages & Tools
 
 <div align="center">
 
@@ -60,7 +76,7 @@ and products into things worth using.
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28"/> GitHub Stats
 
 <div align="center">
 
@@ -79,7 +95,7 @@ and products into things worth using.
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28"/> Featured Projects
 
 <table>
 <tr>
@@ -132,7 +148,7 @@ A dashboard concept exploring financial UI and structured application layouts.
 
 ---
 
-## 🧠 How I Build
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="28"/> How I Build
 
 ```text
 IDEA → DESIGN → CODE → TEST → DEBUG → SHIP → IMPROVE → repeat
@@ -142,7 +158,7 @@ I don't just want code that works — I want to understand **why it works**, kee
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="28"/> Currently Learning
 
 <div align="center">
 
@@ -157,7 +173,7 @@ I don't just want code that works — I want to understand **why it works**, kee
 
 ---
 
-## 💡 A Few Rules I Code By
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="28"/> A Few Rules I Code By
 
 ```text
 01  Make it useful.
@@ -170,7 +186,7 @@ I don't just want code that works — I want to understand **why it works**, kee
 
 ---
 
-## 🤝 Let's Build Something
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="28"/> Let's Build Something
 
 Open to **frontend roles**, **internships**, **freelance work**, and **open-source collaboration**.
 
@@ -185,6 +201,8 @@ Open to **frontend roles**, **internships**, **freelance work**, and **open-sour
 
 <br><br>
 
-### Build something. Ship something. Learn something.
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="24"/> **Build something.** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="24"/> **Ship something.** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="24"/> **Learn something.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" width="100%"/>
