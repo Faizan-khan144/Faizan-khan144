@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=FAIZAN.EXE&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=%3CFaizan.dev%2F%3E&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -6,9 +6,10 @@
 <tr><td>
 
 ```
-> booting faizan_bot.exe ...
-> loading profile ██████████ 100%
-> status: ONLINE ✅
+$ whoami
+> faizan_khan — frontend.dev
+$ status --check
+> [ONLINE] ⚡ ready to ship
 ```
 
 </td></tr>
