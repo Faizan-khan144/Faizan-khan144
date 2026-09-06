@@ -208,7 +208,7 @@ Open to **frontend roles**, **internships**, **freelance work**, and **open-sour
 <div align="center">
 
 [![Explore My Work](https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge)](https://faizan-portfolio-kappa.vercel.app/)
-[![Connect With Me](https://img.shields.io/badge/CONNECT_WITH_ME-2563EB?style=for-the-badge)](https://www.linkedin.com/in/muhammadfaizankhan-76513041/)
+[![Connect With Me](https://img.shields.io/badge/CONNECT_WITH_ME-2563EB?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
 
 <br>
 
