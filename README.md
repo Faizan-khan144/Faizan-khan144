@@ -1,5 +1,3 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=230&section=header&text=Muhammad%20Faizan%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%26%20MERN%20Stack%20Developer&descAlignY=54&descSize=17&animation=fadeIn"/>
 
 <div align="center">
@@ -81,12 +79,14 @@ I care about the intersection of **design, engineering, and real usefulness** â€
 
 <br>
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-<!-- Replace with your own self-hosted instance once deployed â€” see note at top of file -->
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<!-- Swapped from github-profile-trophy (Vercel-hosted, can be flaky) to shields.io
+     dynamic badges â€” a different, very stable service, unrelated to Vercel. -->
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=2563EB&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=2563EB&labelColor=111827"/>
 
 </div>
 
@@ -96,9 +96,9 @@ I care about the intersection of **design, engineering, and real usefulness** â€
 
 <div align="center">
 
-<!-- Replace with your own self-hosted instance once deployed â€” see note at top of file -->
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" width="40%"/>
+<!-- Migrated to the maintained successor: github-stats-extended.vercel.app -->
+<img src="https://github-stats-extended.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" width="40%"/>
 
 <br>
 
