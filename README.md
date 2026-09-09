@@ -1,25 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=250&section=header&text=Muhammad%20Faizan%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%26%20MERN%20Stack%20Developer&descAlignY=54&descSize=18&animation=fadeIn"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=230&section=header&text=Muhammad%20Faizan%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%26%20MERN%20Stack%20Developer&descAlignY=54&descSize=17&animation=fadeIn"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+clean%2C+functional+web+interfaces;React+%2B+JavaScript+%2B+MERN+Stack;Turning+ideas+into+shipped+products" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+clean%2C+functional+web+interfaces;React+%2B+JavaScript+%2B+MERN+Stack;Turning+ideas+into+shipped+products" alt="typing" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
-[![GitRoll](https://img.shields.io/badge/GITROLL-6f42c1?style=for-the-badge&logo=git&logoColor=white)](https://gitroll.io/profile/us3G6h7xjrmgF57iXqxfrnT3tfAl2)
+<a href="https://faizan-portfolio-kappa.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://gitroll.io/profile/us3G6h7xjrmgF57iXqxfrnT3tfAl2"><img src="https://img.shields.io/badge/GITROLL-6f42c1?style=for-the-badge&logo=git&logoColor=white"/></a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## About Me
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26"/> I'm a Frontend Developer based in **Karachi, Pakistan**, building clean, functional interfaces with **React** and **JavaScript**, and growing into full-stack work with **Node.js, Express & MongoDB**. On the side, I'm picking up **Python, NumPy, Pandas & Matplotlib** for data work.
+I'm a Frontend Developer based in **Karachi, Pakistan**, building clean, functional interfaces with **React** and **JavaScript**, and growing into full-stack work with **Node.js, Express & MongoDB**. On the side, I'm picking up **Python, NumPy, Pandas & Matplotlib** for data work.
 
 I care about the intersection of **design, engineering, and real usefulness** — I'd rather ship something small that solves a real problem than polish a tutorial clone forever.
 
@@ -46,71 +50,53 @@ I care about the intersection of **design, engineering, and real usefulness** �
 </tr>
 </table>
 
----
+<br>
 
-## 🏆 Leaderboard & Rankings
+## Leaderboard & Rankings
 
 <div align="center">
 
-**Public Commits Rank — Pakistan**
-[![rank](https://user-badge.committers.top/pakistan/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+**Public Commits Rank — Pakistan** &nbsp;
+<a href="https://committers.top/pakistan/Faizan-khan144.html"><img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg"/></a>
 
-**All Contributions Rank — Pakistan**
-[![rank](https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+**All Contributions Rank — Pakistan** &nbsp;
+<a href="https://committers.top/pakistan/Faizan-khan144.html"><img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg"/></a>
 
-**Public Contributions Rank — Pakistan**
-[![rank](https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+**Public Contributions Rank — Pakistan** &nbsp;
+<a href="https://committers.top/pakistan/Faizan-khan144.html"><img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg"/></a>
 
 </div>
 
----
+<br>
 
-## 🛠️ Tech Stack
-
-**Languages & Core**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 🥇 GitHub Trophies
+## Tech Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,mongodb,firebase,git,github,vercel,postman,figma,notion,py&perline=9"/>
+
+</div>
+
+> Swapped the wall of separate badges for one icon strip — same info, far cleaner, and it can't go down the way rate-limited stat services can (skillicons.dev is a static asset host).
+
+<br>
+
+## GitHub Trophies
+
+<div align="center">
+
+<!-- Replace with your own self-hosted instance once deployed — see note at top of file -->
 <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+
 </div>
 
----
+<br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
+<!-- Replace with your own self-hosted instance once deployed — see note at top of file -->
 <img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" width="40%"/>
 
@@ -124,9 +110,9 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
@@ -139,7 +125,7 @@ A collection of everyday developer utilities — JSON formatting, Base64 encodin
 
 `React` `Vite` `JavaScript`
 
-[🔗 Live Demo](https://faizan-khan144.github.io/devdock/) &nbsp;|&nbsp; [💻 Source Code](https://github.com/Faizan-khan144/devdock)
+[Live Demo](https://faizan-khan144.github.io/devdock/) · [Source](https://github.com/Faizan-khan144/devdock)
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +137,7 @@ A modern storefront focused on product discovery, category filtering, cart manag
 
 `HTML` `CSS` `JavaScript`
 
-[💻 Source Code](https://github.com/Faizan-khan144/august-and-oak-ecommerce)
+[Source](https://github.com/Faizan-khan144/august-and-oak-ecommerce)
 
 </td>
 </tr>
@@ -165,7 +151,7 @@ A polished agency interface built around strong visual hierarchy, smooth interac
 
 `HTML` `CSS` `JavaScript`
 
-[💻 Source Code](https://github.com/Faizan-khan144/vortex-agency)
+[Source](https://github.com/Faizan-khan144/vortex-agency)
 
 </td>
 <td width="50%" valign="top">
@@ -177,15 +163,15 @@ A financial dashboard UI exploring structured data presentation, account views, 
 
 `HTML` `CSS` `JavaScript`
 
-[💻 Explore More](https://github.com/Faizan-khan144)
+[Explore More](https://github.com/Faizan-khan144)
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 🧭 How I Build
+## How I Build
 
 ```
 IDEA → DESIGN → CODE → TEST → DEBUG → SHIP → IMPROVE → repeat
@@ -193,9 +179,9 @@ IDEA → DESIGN → CODE → TEST → DEBUG → SHIP → IMPROVE → repeat
 
 I don't want to just write code that works — I want to understand **why** it works, keep it maintainable, and keep improving the experience around it. The first version is a draft, not the finish line.
 
----
+<br>
 
-## 📚 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -208,18 +194,9 @@ I don't want to just write code that works — I want to understand **why** it w
 
 </div>
 
----
+<br>
 
-## 🌱 Beyond the Code
-
-**Product design** — how an interface communicates without needing instructions
-**User experience** — how small details change the way a product feels
-**Performance** — making things feel fast, not just technically fast
-**Problem solving** — understanding the problem before reaching for a solution
-
----
-
-## 💡 A Few Rules I Code By
+## A Few Rules I Code By
 
 ```
 01   Make it useful.
@@ -230,17 +207,17 @@ I don't want to just write code that works — I want to understand **why** it w
 06   Ship → learn → improve.
 ```
 
----
+<br>
 
-## 🤝 Let's Build Something
+## Let's Build Something
 
 Open to **frontend roles**, **internships**, **freelance work**, and **open-source collaboration**.
 
 <div align="center">
 
-[![Explore My Work](https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge)](https://faizan-portfolio-kappa.vercel.app/)
-[![Connect With Me](https://img.shields.io/badge/CONNECT_WITH_ME-2563EB?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+<a href="https://faizan-portfolio-kappa.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/"><img src="https://img.shields.io/badge/CONNECT_WITH_ME-2563EB?style=for-the-badge"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=130&section=footer"/>
