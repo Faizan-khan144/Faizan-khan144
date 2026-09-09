@@ -1,27 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=240&section=header&text=Muhammad%20Faizan%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%7C%20MERN%20Stack&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+# Muhammad Faizan Khan
+
+### Frontend Engineer · React Developer · MERN Stack
+
+Building modern, responsive and useful web experiences.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+clean+and+useful+web+experiences;React+%2B+JavaScript+%2B+MERN+Stack;Designing%2C+building%2C+debugging%2C+shipping;Turning+ideas+into+real+products" alt="Typing animation"/>
-
-<br><br>
-
 <a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://gitroll.io/profile/us3G6h7xjrmgF57iXqxfrnT3tfAl2">
-<img src="https://img.shields.io/badge/GITROLL-6F42C1?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitRoll-6F42C1?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <br><br>
@@ -32,49 +29,58 @@
 
 ---
 
-# Muhammad Faizan Khan
+## About
 
-### Frontend Engineer building modern, responsive web experiences.
+I'm a **Frontend Engineer** focused on building clean, responsive and production-oriented web interfaces.
 
-I build interfaces with **React, JavaScript, HTML, CSS, and Tailwind CSS**, while expanding into full-stack development with **Node.js, Express, and MongoDB**.
+My primary stack is **JavaScript, React, HTML, CSS and Tailwind CSS**, with a growing focus on full-stack development using **Node.js, Express and MongoDB**.
 
-I enjoy taking an idea from **concept → interface → code → deployment**, with a focus on clean architecture, responsive design, usability, and maintainable code.
+I enjoy turning ideas into real products — from designing interfaces and building reusable components to debugging, deploying and continuously improving the final experience.
 
-Currently exploring **MERN development** and using **Python** for data-oriented projects and experimentation.
+Alongside web development, I'm exploring **Python, NumPy, Pandas and Matplotlib** for data-oriented development.
 
 ---
 
-## What I Do
+## Engineering Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### Frontend Development
+### Frontend
 
-* React applications
-* Responsive interfaces
-* Component-based architecture
-* JavaScript development
-* Tailwind CSS
-* Modern UI implementation
-* API integration
-* Performance-conscious interfaces
+React
+JavaScript
+HTML
+CSS
+Tailwind CSS
+Responsive UI
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### Full-Stack Development
+### Full Stack
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Authentication concepts
-* CRUD applications
-* Git & GitHub
-* Deployment with Vercel / GitHub Pages
+Node.js
+Express.js
+MongoDB
+REST APIs
+Firebase
+Vite
+
+</td>
+
+<td width="33%" align="center">
+
+### Development
+
+Git
+GitHub
+Postman
+Figma
+Vercel
+VS Code
 
 </td>
 </tr>
@@ -82,30 +88,80 @@ Currently exploring **MERN development** and using **Python** for data-oriented 
 
 ---
 
-## Tech Stack
+# Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,mongodb,firebase,git,github,vercel,postman,figma,notion,py&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,mongodb,firebase,git,github,vercel,postman,figma,notion,python&perline=9"/>
 
 </div>
 
 ---
 
-## GitHub Overview
+# GitHub Leaderboard
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=2563EB&labelColor=111827"/>
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=2563EB&labelColor=111827"/>
-
-</div>
+### 🇵🇰 Pakistan Rankings
 
 <br>
 
+<table>
+<tr>
+<td align="center">
+
+<b>Public Commits</b>
+
+<br><br>
+
+<a href="https://committers.top/pakistan/Faizan-khan144.html">
+<img src="https://user-badge.committers.top/pakistan/Faizan-khan144.svg"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<b>All Contributions</b>
+
+<br><br>
+
+<a href="https://committers.top/pakistan/Faizan-khan144.html">
+<img src="https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<b>Public Contributions</b>
+
+<br><br>
+
+<a href="https://committers.top/pakistan/Faizan-khan144.html">
+<img src="https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://committers.top/pakistan/Faizan-khan144.html">
+View my complete Pakistan leaderboard profile →
+</a>
+
+</div>
+
+---
+
+# GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="48%"/>
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" width="40%"/>
 
 <br><br>
@@ -116,36 +172,42 @@ Currently exploring **MERN development** and using **Python** for data-oriented 
 
 ---
 
-## Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=ffffff&color=475569&line=2563eb&point=111827&area=true&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=ffffff&color=475569&line=2563EB&point=111827&area=true&hide_border=true" width="96%"/>
 
 </div>
 
 ---
 
-## 3D Contribution Graph
+# 3D Contribution Activity
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="95%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>GitHub activity visualized in 3D.</em>
-</p>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="95%"/>
+
+<br><br>
+
+<sub>GitHub contribution activity visualized in 3D.</sub>
+
+</div>
 
 ---
 
-## Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg"/>
-  <img src="dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+<source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+
+<img src="dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="96%">
+
 </picture>
 
 </div>
@@ -154,34 +216,51 @@ Currently exploring **MERN development** and using **Python** for data-oriented 
 
 # Featured Projects
 
+<div align="center">
+
+### Selected work built with modern web technologies
+
+</div>
+
+<br>
+
 <table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## DevDock
 
-**Developer Productivity Workspace**
+### Developer Productivity Workspace
 
-A collection of practical developer utilities brought together into a single workspace.
+A centralized collection of everyday developer utilities designed to make common tasks faster and easier.
 
-**Features**
+**Includes**
 
-* JSON formatter
-* Base64 encoder / decoder
-* UUID generator
-* Regex tester
-* Color utilities
-* Code snippets
-* Focus timer
+* JSON Formatter
+* Base64 Encoder / Decoder
+* UUID Generator
+* Regex Tester
+* Color Tools
+* Code Snippets
+* Focus Timer
 
-**Stack**
+**Built with**
 
 `React` `Vite` `JavaScript`
 
 <br>
 
-<a href="https://faizan-khan144.github.io/devdock/">Live Demo</a> · <a href="https://github.com/Faizan-khan144/devdock">Source Code</a>
+<a href="https://faizan-khan144.github.io/devdock/">
+<b>Live Demo →</b>
+</a>
+
+  
+
+<a href="https://github.com/Faizan-khan144/devdock">
+<b>Source →</b>
+</a>
 
 </td>
 
@@ -189,26 +268,28 @@ A collection of practical developer utilities brought together into a single wor
 
 ## August & Oak
 
-**Modern E-Commerce Experience**
+### E-Commerce Experience
 
-A responsive storefront focused on product discovery and a smooth shopping experience.
+A modern storefront focused on product discovery and a smooth shopping experience.
 
 **Features**
 
 * Product filtering
-* Categories
-* Cart management
-* Wishlist
-* Local storage persistence
+* Category navigation
+* Shopping cart
+* Wishlist system
+* Local storage
 * Responsive interface
 
-**Stack**
+**Built with**
 
 `HTML` `CSS` `JavaScript`
 
 <br>
 
-<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">Source Code</a>
+<a href="https://github.com/Faizan-khan144/august-and-oak-ecommerce">
+<b>Source →</b>
+</a>
 
 </td>
 
@@ -220,17 +301,19 @@ A responsive storefront focused on product discovery and a smooth shopping exper
 
 ## Vortex Agency
 
-**Digital Agency Website**
+### Digital Agency Experience
 
-A modern agency experience built around strong visual hierarchy, responsive layouts, and interactive UI elements.
+A polished agency website designed around strong visual hierarchy, modern layouts and responsive interactions.
 
-**Stack**
+**Built with**
 
 `HTML` `CSS` `JavaScript`
 
 <br>
 
-<a href="https://github.com/Faizan-khan144/vortex-agency">Source Code</a>
+<a href="https://github.com/Faizan-khan144/vortex-agency">
+<b>Source →</b>
+</a>
 
 </td>
 
@@ -238,69 +321,78 @@ A modern agency experience built around strong visual hierarchy, responsive layo
 
 ## FZ Bank
 
-**Banking Dashboard Concept**
+### Banking Dashboard Concept
 
-A financial dashboard concept focused on structured information, account interfaces, and modern application layouts.
+A modern financial dashboard exploring structured information architecture, account interfaces and application-style layouts.
 
-**Stack**
+**Built with**
 
 `HTML` `CSS` `JavaScript`
 
 <br>
 
-<a href="https://github.com/Faizan-khan144">Explore GitHub</a>
+<a href="https://github.com/Faizan-khan144">
+<b>Explore GitHub →</b>
+</a>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# Other Projects
+# More Projects
 
 <div align="center">
 
-| Project                        | Description                             | Technologies            |
-| :----------------------------- | :-------------------------------------- | :---------------------- |
-| **CryptoLens**                 | Cryptocurrency dashboard interface      | React · JavaScript      |
-| **Nexus**                      | Modern landing page experience          | HTML · CSS · JavaScript |
-| **Student Attendance Tracker** | Student attendance management interface | JavaScript · HTML · CSS |
-| **Modern Rock Paper Scissors** | Interactive browser game                | JavaScript · HTML · CSS |
+| Project                        | Category                 | Stack                   |
+| :----------------------------- | :----------------------- | :---------------------- |
+| **CryptoLens**                 | Cryptocurrency Dashboard | React · JavaScript      |
+| **Nexus**                      | Landing Page             | HTML · CSS · JavaScript |
+| **Student Attendance Tracker** | Productivity App         | JavaScript              |
+| **Modern Rock Paper Scissors** | Interactive Web Game     | JavaScript              |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Faizan-khan144?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# Development Philosophy
+# Development Approach
+
+<div align="center">
 
 ```text
-IDEA
- ↓
-DESIGN
- ↓
-BUILD
- ↓
-TEST
- ↓
-DEBUG
- ↓
-DEPLOY
- ↓
-IMPROVE
- ↓
-REPEAT
+IDEA  →  DESIGN  →  ARCHITECTURE  →  BUILD
+                                      ↓
+SHIP  ←  IMPROVE  ←  DEBUG  ←  TEST
 ```
 
-### Principles I follow
+</div>
+
+I approach development with a simple mindset:
+
+> **Build useful things. Understand the code. Solve the problem. Ship the result. Improve it.**
+
+### Principles
 
 ```text
-01  Build useful things.
-02  Keep interfaces simple.
-03  Understand the problem before fixing it.
-04  Prefer clarity over unnecessary complexity.
-05  Write code that can be maintained.
-06  Learn by building real projects.
+01  Build for real use.
+02  Keep interfaces clear.
+03  Understand problems before fixing them.
+04  Avoid unnecessary complexity.
+05  Prefer reusable solutions.
+06  Learn through building.
 07  Ship → learn → improve.
 ```
 
@@ -308,7 +400,8 @@ REPEAT
 
 # Currently Learning
 
-<table>
+<table width="100%">
+
 <tr>
 
 <td width="33%" valign="top">
@@ -317,78 +410,75 @@ REPEAT
 
 * Component architecture
 * State management
-* Reusable components
+* Reusable UI
 * Application structure
 * API integration
+* Modern React patterns
 
 </td>
 
 <td width="33%" valign="top">
 
-### Backend
+### MERN
 
 * Node.js
 * Express.js
-* REST APIs
 * MongoDB
-* Full-stack architecture
+* REST APIs
+* Backend architecture
+* Full-stack applications
 
 </td>
 
 <td width="33%" valign="top">
 
-### Python & Data
+### Python
 
-* Python
+* Python fundamentals
 * NumPy
 * Pandas
 * Matplotlib
-* Data analysis fundamentals
+* Data analysis
+* Practical experimentation
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# What I'm Looking For
-
-I'm interested in opportunities where I can **build real products, collaborate with developers, and continue growing through practical work.**
-
-**Open to:**
-
-* Frontend development roles
-* React / JavaScript opportunities
-* MERN stack opportunities
-* Internships
-* Freelance projects
-* Open-source collaboration
-
----
-
-# Let's Connect
+# GitHub Activity
 
 <div align="center">
 
-If you're building something interesting, let's connect.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=default" width="96%"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+### Let's build something useful.
+
+Whether it's a frontend product, React application, MERN project or an interesting collaboration — I'm always interested in building and learning through real work.
 
 <br>
 
 <a href="https://faizan-portfolio-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
- 
 
 <a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
- 
-
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/VIEW_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -397,6 +487,6 @@ If you're building something interesting, let's connect.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
