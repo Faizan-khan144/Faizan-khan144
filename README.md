@@ -1,109 +1,229 @@
-# Hi 👋, I'm Muhammad Faizan Khan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=250&section=header&text=Muhammad%20Faizan%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20%26%20MERN%20Stack%20Developer&descAlignY=54&descSize=18&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React+%26+MERN+Stack;Building+clean%2C+functional+web+interfaces;Turning+ideas+into+shipped+products" alt="typing" />
+<div align="center">
 
-[![faizan profile views](https://komarev.com/ghpvc/?username=Faizan-khan144&label=Profile%20views&color=2563eb&style=flat)](https://github.com/Faizan-khan144)
-[![GitHub followers](https://img.shields.io/github/followers/Faizan-khan144?label=Follow&style=social)](https://github.com/Faizan-khan144)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+clean%2C+functional+web+interfaces;React+%2B+JavaScript+%2B+MERN+Stack;Turning+ideas+into+shipped+products" alt="typing" />
 
----
+<br>
 
-🧠 **Public Commits Rank in Pakistan:** [![rank](https://user-badge.committers.top/pakistan/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
+[![GitRoll](https://img.shields.io/badge/GITROLL-6f42c1?style=for-the-badge&logo=git&logoColor=white)](https://gitroll.io/profile/us3G6h7xjrmgF57iXqxfrnT3tfAl2)
 
-🔒 **All Contributions Rank in Pakistan:** [![rank](https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
 
-🌐 **Public Contributions Rank in Pakistan:** [![rank](https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
-
----
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
-- 🌱 I'm currently learning **React.js**, **Tailwind CSS**, and **Python**
-- 💬 Ask me about **React, JavaScript, or frontend architecture**
-- 🎯 Looking to collaborate on **beginner-friendly projects** and land a **frontend developer role**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-- ⚡ Fun fact: I ship faster than I sleep
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" height="26"/> About Me
 
-### 💫 About Me
+I'm a Frontend Developer based in **Karachi, Pakistan**, building clean, functional interfaces with **React** and **JavaScript**, and growing into full-stack work with **Node.js, Express & MongoDB**. On the side, I'm picking up **Python, NumPy, Pandas & Matplotlib** for data work.
 
-Hi, I'm Faizan 👋
+I care about the intersection of **design, engineering, and real usefulness** — I'd rather ship something small that solves a real problem than polish a tutorial clone forever.
 
-I'm a Frontend Developer based in Karachi, Pakistan, building clean and functional web interfaces with **React** and **JavaScript**, and expanding into full-stack development with **Node.js, Express & MongoDB**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm also exploring **Python, NumPy, Pandas & Matplotlib** on the side, and I care about where design, engineering, and real usefulness meet — building things that solve small, real problems instead of just following tutorials.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" height="20"/> Currently focused on**
+- Advancing React component architecture & state management
+- Tailwind CSS for fast, consistent UI
+- MERN stack fundamentals (Node, Express, MongoDB)
+- Python for data analysis basics
 
-#### 🔧 Tech & Interests
+</td>
+<td width="50%" valign="top">
 
-- Frontend Development with React & Tailwind CSS
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Data basics with Python, NumPy & Pandas
-- Clean UI/UX and frontend architecture
-- Open-source and beginner-friendly collaboration
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="20" height="20"/> Open to**
+- Frontend developer roles & internships
+- Freelance frontend/React work
+- Beginner-friendly open-source collaboration
+- Pairing on small real-world projects
 
-📫 Let's connect and build something meaningful.
-
-### Connect with me:
-
-<p left>
-<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="32" height="32" />
-</a>
-<a href="https://faizan-portfolio-kappa.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="portfolio" width="32" height="32" />
-</a>
-<a href="https://github.com/Faizan-khan144" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="32" height="32" />
-</a>
-</p>
-
-### Languages and Tools:
-
-<p left>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="css3"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="javascript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="python"/>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="28" alt="react"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" alt="tailwind"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="28" alt="node"/>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="28" alt="express"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="mongodb"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="28" alt="git"/>
-<img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="28" alt="github"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="vercel"/>
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="28" alt="figma"/>
-</p>
-
-### 📊 GitHub Stats
-
-[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=algolia&count_private=true&hide_border=true)](https://github.com/Faizan-khan144)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&theme=algolia&hide_border=true)](https://github.com/Faizan-khan144)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Faizan-khan144&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-### 🔝 Contribution Graph
-
-[![Faizan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=react-dark&hide_border=true)](https://github.com/Faizan-khan144)
-
-### ✍️ Random Dev Quote
-
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Faizan-khan144)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Party%20Popper.png" width="26" height="26"/> Tech Stack
 
-- 🛠️ [**Faizan Portfolio**](https://github.com/Faizan-khan144) — my personal developer portfolio site
-- 🛍️ [**August & Oak**](https://github.com/Faizan-khan144/august-and-oak-ecommerce) — an e-commerce storefront with product discovery, filtering, cart & wishlist
-- 🎨 [**Vortex Agency**](https://github.com/Faizan-khan144/vortex-agency) — a polished digital agency landing site
-- 🏦 [**FZ Bank**](https://github.com/Faizan-khan144) — a banking dashboard UI concept
+**Languages & Core**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-[![GitRoll Profile](https://img.shields.io/badge/GitRoll-View%20Profile-6f42c1?style=for-the-badge&logo=git&logoColor=white)](https://gitroll.io/profile/us3G6h7xjrmgF57iXqxfrnT3tfAl2)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="26" height="26"/> GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+</div>
 
 ---
 
-<p align="center"><i>Open to frontend roles, internships, freelance work, and open-source collaboration 🤝</i></p>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="26" height="26"/> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" width="40%"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Faizan-khan144&hide_border=true&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="65%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=ffffff&color=475569&line=2563eb&point=111827&area=true&hide_border=true" width="97%"/>
+
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" height="26"/> Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🧰 DevDock
+**Developer workspace**
+
+A collection of everyday developer utilities — JSON formatting, Base64 encoding, UUID generation, regex testing, color tools, code snippets, and a focus timer — all in one workspace.
+
+`React` `Vite` `JavaScript`
+
+[🔗 Live Demo](https://faizan-khan144.github.io/devdock/) &nbsp;|&nbsp; [💻 Source Code](https://github.com/Faizan-khan144/devdock)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛍️ August & Oak
+**E-commerce experience**
+
+A modern storefront focused on product discovery, category filtering, cart management, and a wishlist system backed by local storage.
+
+`HTML` `CSS` `JavaScript`
+
+[💻 Source Code](https://github.com/Faizan-khan144/august-and-oak-ecommerce)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 Vortex
+**Digital agency site**
+
+A polished agency interface built around strong visual hierarchy, smooth interactions, and full responsiveness across devices.
+
+`HTML` `CSS` `JavaScript`
+
+[💻 Source Code](https://github.com/Faizan-khan144/vortex-agency)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏦 FZ Bank
+**Banking dashboard concept**
+
+A financial dashboard UI exploring structured data presentation, account views, and clean application layout patterns.
+
+`HTML` `CSS` `JavaScript`
+
+[💻 Explore More](https://github.com/Faizan-khan144)
+
+</td>
+</tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="26" height="26"/> How I Build
+
+```
+IDEA → DESIGN → CODE → TEST → DEBUG → SHIP → IMPROVE → repeat
+```
+
+I don't want to just write code that works — I want to understand **why** it works, keep it maintainable, and keep improving the experience around it. The first version is a draft, not the finish line.
+
+---
+
+### 📚 Currently Learning
+
+<div align="center">
+
+|          React          |  Backend  |    Data    |
+|:------------------------:|:---------:|:----------:|
+|  Component architecture  |  Node.js  |   Python   |
+|     State management     |  Express  |    NumPy   |
+|       Reusable UI        | REST APIs |    Pandas  |
+|   Application structure  |  MongoDB  | Matplotlib |
+
+</div>
+
+---
+
+### 🌱 Beyond the Code
+
+**Product design** — how an interface communicates without needing instructions
+**User experience** — how small details change the way a product feels
+**Performance** — making things feel fast, not just technically fast
+**Problem solving** — understanding the problem before reaching for a solution
+
+---
+
+### 💡 A Few Rules I Code By
+
+```
+01   Make it useful.
+02   Keep the interface simple.
+03   Understand the bug before fixing it.
+04   Don't add complexity without a reason.
+05   Build things instead of only watching tutorials.
+06   Ship → learn → improve.
+```
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="26" height="26"/> Let's Build Something
+
+Open to **frontend roles**, **internships**, **freelance work**, and **open-source collaboration**.
+
+<div align="center">
+
+[![Explore My Work](https://img.shields.io/badge/EXPLORE_MY_WORK-111827?style=for-the-badge)](https://faizan-portfolio-kappa.vercel.app/)
+[![Connect With Me](https://img.shields.io/badge/CONNECT_WITH_ME-2563EB?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E293B,100:0F172A&height=150&section=footer"/>
