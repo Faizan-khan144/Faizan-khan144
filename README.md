@@ -83,8 +83,6 @@ I care about the intersection of **design, engineering, and real usefulness** â€
 
 <div align="center">
 
-<!-- Swapped from github-profile-trophy (Vercel-hosted, can be flaky) to shields.io
-     dynamic badges â€” a different, very stable service, unrelated to Vercel. -->
 <img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=2563EB&labelColor=111827"/>
 <img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=2563EB&labelColor=111827"/>
 
@@ -96,7 +94,6 @@ I care about the intersection of **design, engineering, and real usefulness** â€
 
 <div align="center">
 
-<!-- Migrated to the maintained successor: github-stats-extended.vercel.app -->
 <img src="https://github-stats-extended.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569&icon_color=2563EB&rank_icon=github&count_private=true" width="49%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=475569" width="40%"/>
 
