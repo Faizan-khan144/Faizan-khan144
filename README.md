@@ -17,9 +17,9 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" height="26"/> About Me
+## 👋 About Me
 
-I'm a Frontend Developer based in **Karachi, Pakistan**, building clean, functional interfaces with **React** and **JavaScript**, and growing into full-stack work with **Node.js, Express & MongoDB**. On the side, I'm picking up **Python, NumPy, Pandas & Matplotlib** for data work.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26"/> I'm a Frontend Developer based in **Karachi, Pakistan**, building clean, functional interfaces with **React** and **JavaScript**, and growing into full-stack work with **Node.js, Express & MongoDB**. On the side, I'm picking up **Python, NumPy, Pandas & Matplotlib** for data work.
 
 I care about the intersection of **design, engineering, and real usefulness** — I'd rather ship something small that solves a real problem than polish a tutorial clone forever.
 
@@ -27,8 +27,8 @@ I care about the intersection of **design, engineering, and real usefulness** �
 <tr>
 <td width="50%" valign="top">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" height="20"/> Currently focused on**
-- Advancing React component architecture & state management
+**🎯 Currently focused on**
+- React component architecture & state management
 - Tailwind CSS for fast, consistent UI
 - MERN stack fundamentals (Node, Express, MongoDB)
 - Python for data analysis basics
@@ -36,11 +36,11 @@ I care about the intersection of **design, engineering, and real usefulness** �
 </td>
 <td width="50%" valign="top">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="20" height="20"/> Open to**
+**🤝 Open to**
 - Frontend developer roles & internships
-- Freelance frontend/React work
+- Freelance frontend / React work
 - Beginner-friendly open-source collaboration
-- Pairing on small real-world projects
+- Pairing on small, real-world projects
 
 </td>
 </tr>
@@ -48,7 +48,24 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Party%20Popper.png" width="26" height="26"/> Tech Stack
+## 🏆 Leaderboard & Rankings
+
+<div align="center">
+
+**Public Commits Rank — Pakistan**
+[![rank](https://user-badge.committers.top/pakistan/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+
+**All Contributions Rank — Pakistan**
+[![rank](https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+
+**Public Contributions Rank — Pakistan**
+[![rank](https://user-badge.committers.top/pakistan_public/Faizan-khan144.svg)](https://committers.top/pakistan/Faizan-khan144.html)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages & Core**
 
@@ -82,7 +99,7 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png" width="26" height="26"/> GitHub Trophies
+## 🥇 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
@@ -90,7 +107,7 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="26" height="26"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -109,7 +126,7 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" height="26"/> Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
@@ -168,7 +185,7 @@ A financial dashboard UI exploring structured data presentation, account views, 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="26" height="26"/> How I Build
+## 🧭 How I Build
 
 ```
 IDEA → DESIGN → CODE → TEST → DEBUG → SHIP → IMPROVE → repeat
@@ -178,7 +195,7 @@ I don't want to just write code that works — I want to understand **why** it w
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -193,7 +210,7 @@ I don't want to just write code that works — I want to understand **why** it w
 
 ---
 
-### 🌱 Beyond the Code
+## 🌱 Beyond the Code
 
 **Product design** — how an interface communicates without needing instructions
 **User experience** — how small details change the way a product feels
@@ -202,7 +219,7 @@ I don't want to just write code that works — I want to understand **why** it w
 
 ---
 
-### 💡 A Few Rules I Code By
+## 💡 A Few Rules I Code By
 
 ```
 01   Make it useful.
@@ -215,7 +232,7 @@ I don't want to just write code that works — I want to understand **why** it w
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="26" height="26"/> Let's Build Something
+## 🤝 Let's Build Something
 
 Open to **frontend roles**, **internships**, **freelance work**, and **open-source collaboration**.
 
