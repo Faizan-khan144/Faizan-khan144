@@ -111,15 +111,13 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 ## 3D Contribution Graph
 
-<div align="center">
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
-> Generated automatically once a day by the `3d-contrib.yml` workflow already in this repo. If it doesn't render yet, go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to generate the file for the first time.
-
-<br>
+<p align="center">
+  <em>My GitHub contributions visualized in 3D.</em>
+</p>
 
 ## Contribution Snake
 
