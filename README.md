@@ -112,6 +112,34 @@ I care about the intersection of **design, engineering, and real usefulness** �
 
 <br>
 
+## 3D Contribution Graph
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+> Generated automatically once a day by the `3d-contrib.yml` workflow already in this repo. If it doesn't render yet, go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** once to generate the file for the first time.
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg"/>
+  <img alt="A snake animation eating through my contribution graph" src="dist/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> Powered by the `snake.yml` workflow already in this repo (Platane/snk). Switches automatically between light and dark artwork based on the viewer's GitHub theme. If it doesn't render yet, run it once from **Actions → (snake workflow) → Run workflow**.
+
+<br>
+
 ## Featured Projects
 
 <table width="100%">
