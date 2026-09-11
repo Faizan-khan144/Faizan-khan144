@@ -14,9 +14,7 @@
 <a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITROLL-6F42C1?style=for-the-badge&logo=git&logoColor=white"/>
-</a> <br/>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
 
 </div>
