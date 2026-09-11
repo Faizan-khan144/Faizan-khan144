@@ -19,7 +19,7 @@
 </a>
 <a href="https://gitroll.io/profile/us3G6h7xjrmgF57iXqxfrnT3tfAl2">
 <img src="https://img.shields.io/badge/GITROLL-6F42C1?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
+</a> <br/>
 <img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS&color=2563EB"/>
 
 </div>
