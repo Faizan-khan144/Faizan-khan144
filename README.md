@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,35:0f0f0f,65:4c1d95,100:050505&text=MUHAMMAD%20FAIZAN%20KHAN&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20MERN%20%7C%20AI%20WITH%20PYTHON&descAlignY=58&descSize=15" width="100%"/>
