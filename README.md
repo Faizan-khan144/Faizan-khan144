@@ -11,9 +11,10 @@
 │   ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝            │
 │                                                              │
 │              DEVELOPER PROFILE // v2.0                      │
-╰──────────────────────────────────────────────────────────────╯
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&lines=%3E+system.boot%28%29;%3E+frontend+developer;%3E+react+%2B+javascript;%3E+mern+stack+in+progress;%3E+python+%2B+ai+exploration;%3E+debugging+is+part+of+the+process;%3E+status%3A+ONLINE" /> <br>
+╰──────────────────────────────────────────────────────────────
 ```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&lines=%3E+system.boot%28%29;%3E+frontend+developer;%3E+react+%2B+javascript;%3E+mern+stack+in+progress;%3E+python+%2B+ai+exploration;%3E+debugging+is+part+of+the+process;%3E+status%3A+ONLINE" /> <br>
+
 ┌─────────────────────────────────────────────────────────────┐
 │  USER        faizan@github                                  │
 │  ACCESS      DEVELOPER                                      │
