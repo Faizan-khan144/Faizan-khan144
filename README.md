@@ -1,363 +1,216 @@
 <div align="center">
 
-# FAIZAN KHAN
+# 👨‍💻 Muhammad Faizan Khan
 
-### Frontend Developer · React Developer · MERN Stack Learner · AI with Python
+### Frontend Developer · MERN Stack Learner · AI with Python Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Building+modern+web+experiences;React+%7C+JavaScript+%7C+MERN+%7C+Python;Learning+by+building+real+projects;Turning+ideas+into+working+products;Build.+Learn.+Ship." />
+**Building modern interfaces, useful developer tools, and real-world web projects.**
 
 <br>
 
 <a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat-square&color=181717&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## `whoami`
+## 👨‍💻 About Me
 
-```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│  FAIZAN@DEV                                                 │
-│                                                             │
-│  role       → Frontend Developer                            │
-│  focus      → React · JavaScript · MERN                     │
-│  learning   → AI with Python                                │
-│  location   → Karachi, Pakistan                             │
-│  status     → Building                                     │
-│                                                             │
-│  "Don't just learn it. Build it."                           │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-I'm **Muhammad Faizan Khan**, a frontend developer who enjoys turning ideas into responsive, interactive and useful web experiences.
-
-I'm currently focused on **React, JavaScript, MERN Stack development and AI with Python**, while learning by building real projects.
+* 🔭 Currently building **React and full-stack web projects**
+* 🌱 Learning **MERN Stack Development**
+* 🤖 Learning **AI with Python**
+* 💻 Interested in **frontend development, UI engineering and developer tools**
+* 🚀 I learn best by **building real projects**
+* 🧩 Currently improving my **React, JavaScript and full-stack skills**
+* 📍 Karachi, Pakistan
 
 ---
 
-## 🤖 `faizan-bot`
+## 🚀 My Top Projects
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│                 ╭──────────────╮                     │
-│                 │   ◉      ◉   │                     │
-│                 │      ──      │                     │
-│                 ╰──────┬───────╯                     │
-│                        │                              │
-│                   ╭────┴────╮                         │
-│                   │ FAIZAN  │                         │
-│                   │   BOT   │                         │
-│                   ╰─────────╯                         │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+### 🛠️ DevDock
 
-> **FAIZAN-BOT:** Hello, human. 👋
+> A developer utility command center containing practical tools for everyday development.
 
-```text
-SYSTEM CHECK
+**Features include:**
 
-✓ Developer found
-✓ React projects found
-✓ MERN learning detected
-✓ Python detected
-✓ Ideas detected
-✓ Shipping mode enabled
+`JSON` · `JWT` · `Regex` · `Markdown` · `Base64` · `URL Tools` · `UUID` · `Hash` · `Password` · `HTTP` · `Timestamp` · `Snippets` · `Focus Timer` · `Color Lab`
 
-QUESTION:
-What does Faizan build?
-
-→ Modern web interfaces
-→ Developer tools
-→ React applications
-→ Full-stack experiments
-→ AI experiments with Python
-
-QUESTION:
-Is Faizan finished learning?
-
-→ ERROR 404: Not found.
-```
-
----
-
-## 🛠️ `favorite tools`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,react,nodejs,python&perline=8" />
-
-<br><br>
-
-`VS Code` · `Git` · `GitHub` · `Figma` · `Vercel` · `React` · `Node.js` · `Python`
-
-</div>
-
----
-
-## 💻 `tech stack`
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
-
-### Python / AI
-
-<img src="https://skillicons.dev/icons?i=python&perline=1" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
-
-</div>
-
----
-
-## 🚀 `featured projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### DevDock
-
-**Developer utility command center**
-
-A collection of practical tools for everyday development.
-
-`React` `Vite` `JavaScript` `Lucide`
-
-JSON · JWT · Regex · Markdown · Base64 · URL · UUID · Hash · Password · HTTP · Snippets · Timer · Color Lab
-
-<br>
+**Built with:** `React` `Vite` `JavaScript` `Lucide`
 
 <a href="https://github.com/Faizan-khan144/devdock">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
+---
 
-<td width="50%">
+### 🌐 Aplinode Clone
 
-### Aplinode Clone
+> A modern digital-agency website recreation built to practice real-world frontend architecture.
 
-**Modern digital-agency interface recreation**
+**Focus areas:**
 
-Built to practice component architecture, responsive layouts, navigation, animations and real-world UI implementation.
+`Component Architecture` · `Responsive Design` · `Animations` · `Navigation` · `Interactive UI` · `Modern Layouts`
 
-`React` `Vite` `JavaScript` `CSS`
+**Built with:** `React` `Vite` `JavaScript` `CSS`
+
+<a href="https://github.com/Faizan-khan144/aplinode-clone">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 📚 EduBoard PRO
+
+> A React-based educational productivity dashboard.
+
+**Includes:**
+
+`Dashboard` · `Pomodoro` · `Analytics` · `LocalStorage` · `Student Tools`
+
+**Built with:** `React` `Tailwind CSS` `JavaScript`
+
+---
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### 💻 Software & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+React
+ ├── Component Architecture
+ ├── State Management
+ ├── Responsive Interfaces
+ └── Modern UI Patterns
+
+MERN
+ ├── Node.js
+ ├── Express
+ ├── MongoDB
+ └── Full-Stack Applications
+
+Python + AI
+ ├── NumPy
+ ├── Pandas
+ ├── Matplotlib
+ └── AI / ML Foundations
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&theme=transparent" width="49%"/>
 
 <br><br>
 
-<a href="https://github.com/Faizan-khan144/aplinode-clone">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true&area=true" width="96%"/>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%">
+---
 
-### EduBoard PRO
+## 🔥 Contribution Activity
 
-**Educational productivity dashboard**
+<div align="center">
 
-A React project focused on student productivity, analytics and useful dashboard experiences.
+<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
 
-`React` `Tailwind CSS` `JavaScript`
+</div>
 
-</td>
+---
 
-<td width="50%">
+## 💡 My Development Philosophy
 
-### Portfolio
+<div align="center">
 
-**Personal developer portfolio**
-
-A responsive portfolio showcasing projects, skills, experience and frontend work.
-
-`HTML` `CSS` `JavaScript`
+### Learn → Build → Experiment → Improve → Ship
 
 <br>
 
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/LIVE_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ `what I'm building`
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  ◉ Better React interfaces                          │
-│  ◉ Full-stack MERN applications                    │
-│  ◉ Developer utilities                             │
-│  ◉ Responsive web experiences                      │
-│  ◉ AI experiments with Python                      │
-│  ◉ New ideas → working products                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 `github analytics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666" width="49%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="96%" />
+> **I don't want to just learn technologies.
+> I want to use them to build things.**
 
 </div>
 
 ---
 
-## 🧊 `contribution matrix`
+## 🎯 Current Focus
+
+| Area          | Focus                                           |
+| ------------- | ----------------------------------------------- |
+| ⚛️ Frontend   | React · JavaScript · Responsive UI              |
+| 🚀 Full Stack | Node.js · Express · MongoDB                     |
+| 🐍 Python     | NumPy · Pandas · Data & AI foundations          |
+| 🎨 UI         | Modern layouts · Components · UX                |
+| 🛠️ Projects  | Developer tools · Dashboards · Web applications |
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" />
-
-</div>
-
----
-
-## 🧠 `development loop`
-
-```text
-             ┌───────────────┐
-             │     IDEA      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    DESIGN     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     CODE      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     TEST      │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     SHIP      │
-             └───────┬───────┘
-                     │
-                     └──────────────→ REPEAT
-```
-
----
-
-## 🔭 `current focus`
-
-<div align="center">
-
-| Area       | Focus                                   |
-| :--------- | :-------------------------------------- |
-| Frontend   | React · JavaScript · Responsive UI      |
-| Full Stack | Node · Express · MongoDB                |
-| Python     | NumPy · Pandas · Data / AI foundations  |
-| Projects   | Developer tools · Dashboards · Web apps |
-| Goal       | Build better products                   |
-
-</div>
-
----
-
-## 🖥️ `developer console`
-
-```bash
-┌──(faizan㉿dev)-[~/profile]
-└─$ status
-
-[ ONLINE ]
-
-┌──(faizan㉿dev)-[~/profile]
-└─$ current-project
-
-DevDock
-Aplinode Clone
-EduBoard PRO
-Portfolio
-
-┌──(faizan㉿dev)-[~/profile]
-└─$ mindset
-
-BUILD → LEARN → IMPROVE → SHIP
-
-┌──(faizan㉿dev)-[~/profile]
-└─$ exit
-
-> There is no exit. Keep building.
-```
-
----
-
-## 🌐 `find me`
-
-<div align="center">
-
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://faizan-khan144.github.io/faizan-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/faizan525nk">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br><br>
 
-### `BUILD SOMETHING WORTH SEEING.`
-
-```text
-< FAIZAN.DEV />
-```
+**Thanks for visiting my profile!**
 
 </div>
