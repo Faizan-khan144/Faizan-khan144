@@ -1,184 +1,198 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Faizan+%F0%9F%91%8B;Frontend+Developer;MERN+Stack+Learner;AI+with+Python+Learner;Welcome+to+my+profile!&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/Faizan-khan144)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20There,%20I'm%20Faizan%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%C2%B7%20MERN%20Stack%20Learner%20%C2%B7%20AI%20with%20Python%20Learner&descAlignY=55&descSize=18"/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![X](https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+modern+interfaces+%E2%9A%9B%EF%B8%8F;Learning+the+MERN+stack+%F0%9F%94%A5;Exploring+AI+with+Python+%F0%9F%A4%96;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=B983FF&vCenter=true&pause=1200&size=20)](https://github.com/Faizan-khan144)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=f75c7e&label=PROFILE+VIEWS)](https://github.com/Faizan-khan144)
-[![Followers](https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=2364aa&labelColor=1a1b27&logo=github)](https://github.com/Faizan-khan144?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=ffd60a&labelColor=1a1b27&logo=star)](https://github.com/Faizan-khan144?tab=repositories&sort=stargazers)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+[![X](https://img.shields.io/badge/X-B983FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
+[![GitHub](https://img.shields.io/badge/GitHub-231942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=8e2de2&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=4a00e0&labelColor=231942&logo=github&logoColor=white&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=b983ff&labelColor=231942&logo=star&logoColor=white&label=STARS"/>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently building **React and full-stack web projects**
-- 🌱 Learning **MERN Stack Development**
-- 🤖 Learning **AI with Python**
-- 💻 Interested in **frontend development, UI engineering, and developer tools**
-- 🚀 I learn best by **building real projects**
-- 🧩 Currently improving my **React, JavaScript, and full-stack skills**
-- 📍 Karachi, Pakistan
+```yaml
+name: Muhammad Faizan Khan
+role: Frontend Developer
+location: Karachi, Pakistan
+currently_building: React & full-stack web projects
+currently_learning: [MERN Stack, AI with Python]
+philosophy: Learn → Build → Experiment → Improve → Ship
+fun_fact: "I don't want to just learn technologies — I want to build with them."
+```
 
----
+<br>
 
-## 🚀 My Top Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![DevDock](https://custom-icon-badges.demolab.com/badge/DevDock-181717?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/Faizan-khan144/devdock)
-&nbsp;
-[![Aplinode Clone](https://custom-icon-badges.demolab.com/badge/Aplinode%20Clone-181717?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/Faizan-khan144/aplinode-clone)
-&nbsp;
-[![EduBoard PRO](https://custom-icon-badges.demolab.com/badge/EduBoard%20PRO-181717?style=for-the-badge&logoColor=white&logo=repo)](#)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 🛠️ [DevDock](https://github.com/Faizan-khan144/devdock)
+A developer utility command center packed with everyday dev tools.
 
-### 🛠️ DevDock
-> A developer utility command center containing practical tools for everyday development.
+`JSON` `JWT` `Regex` `Base64` `UUID` `Hash` `Timestamp` `Color Lab` `Focus Timer`
 
-`JSON` · `JWT` · `Regex` · `Markdown` · `Base64` · `URL Tools` · `UUID` · `Hash` · `Password` · `HTTP` · `Timestamp` · `Snippets` · `Focus Timer` · `Color Lab`
+**Stack:** React · Vite · JavaScript · Lucide
 
-**Built with:** `React` `Vite` `JavaScript` `Lucide`
-[📂 Repository](https://github.com/Faizan-khan144/devdock)
+</td>
+<td width="50%" valign="top">
 
-### 🌐 Aplinode Clone
-> A modern digital-agency website recreation built to practice real-world frontend architecture.
+### 🌐 [Aplinode Clone](https://github.com/Faizan-khan144/aplinode-clone)
+A modern digital-agency site recreation for practicing real-world frontend architecture.
 
-`Component Architecture` · `Responsive Design` · `Animations` · `Navigation` · `Interactive UI` · `Modern Layouts`
+`Component Architecture` `Animations` `Responsive Design` `Modern Layouts`
 
-**Built with:** `React` `Vite` `JavaScript` `CSS`
-[📂 Repository](https://github.com/Faizan-khan144/aplinode-clone)
+**Stack:** React · Vite · JavaScript · CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 EduBoard PRO
-> A React-based educational productivity dashboard.
+A React-based educational productivity dashboard.
 
-`Dashboard` · `Pomodoro` · `Analytics` · `LocalStorage` · `Student Tools`
+`Dashboard` `Pomodoro` `Analytics` `LocalStorage`
 
-**Built with:** `React` `Tailwind CSS` `JavaScript`
+**Stack:** React · Tailwind CSS · JavaScript
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ My Favorite Tools
+### ✨ More coming soon
+Currently shipping something new — check back or follow along on GitHub.
 
-### 👨‍💻 Languages
+[![All Repos](https://img.shields.io/badge/View%20All%20Repos-231942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144?tab=repositories)
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" />
-</p>
-
-### 🗄️ Databases & Hosting
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,vercel,githubpages&theme=dark" />
-</p>
-
-### 💻 Software & Dev Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,npm&theme=dark" />
-</p>
-
----
-
-## 🏷️ Holopin Badges
-
-<div align="center">
-
-[![My Holopin Board](https://images.holopin.io/rewards-embed?userId=Faizan-khan144)](https://holopin.io/@Faizan-khan144)
-
-*Collect badges with me on [Holopin](https://holopin.io) — grab one from a repo or event and it'll show up here.*
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=light" />
+
+<br><br>
+
+**Frameworks & Libraries**
+<br>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=light" />
+
+<br><br>
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+
+<br><br>
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,postman,npm&theme=light" />
+
+</div>
+
+<br>
 
 ## 📚 Currently Learning
 
-```text
-React
- ├── Component Architecture
- ├── State Management
- ├── Responsive Interfaces
- └── Modern UI Patterns
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-MERN
- ├── Node.js
- ├── Express
- ├── MongoDB
- └── Full-Stack Applications
+**⚛️ React**
+Component Architecture
+State Management
+Modern UI Patterns
 
-Python + AI
- ├── NumPy
- ├── Pandas
- ├── Matplotlib
- └── AI / ML Foundations
-```
+</td>
+<td align="center" width="33%">
 
----
+**🌿 MERN**
+Node.js · Express
+MongoDB
+Full-Stack Apps
+
+</td>
+<td align="center" width="33%">
+
+**🐍 Python + AI**
+NumPy · Pandas
+Matplotlib
+ML Foundations
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=radical&title_color=f75c7e&icon_color=f8d866&text_color=ffffff&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&theme=radical&background=0d1117&stroke=f75c7e&ring=f8d866&fire=f75c7e&currStreakLabel=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=tokyonight&title_color=b983ff&icon_color=8e2de2&text_color=ffffff&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&theme=tokyonight&background=0d1117&stroke=b983ff&ring=8e2de2&fire=b983ff&currStreakLabel=ffffff" width="49%"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b983ff&line=8e2de2&point=ffffff" width="97%"/>
 
-</div>
+<br><br>
 
----
-
-## 💡 My Development Philosophy
-
-<div align="center">
-
-### Learn → Build → Experiment → Improve → Ship
-
-> **I don't want to just learn technologies.**
-> **I want to use them to build things.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=tokyonight&title_color=b983ff&text_color=ffffff&bg_color=0d1117" width="45%"/>
 
 </div>
 
----
+<br>
 
 ## 🎯 Current Focus
 
 | Area | Focus |
-|---|---|
+|:---|:---|
 | ⚛️ Frontend | React · JavaScript · Responsive UI |
 | 🚀 Full Stack | Node.js · Express · MongoDB |
 | 🐍 Python | NumPy · Pandas · Data & AI foundations |
-| 🎨 UI | Modern layouts · Components · UX |
-| 🛠️ Projects | Developer tools · Dashboards · Web applications |
+| 🎨 UI/UX | Modern layouts · Components · Interaction design |
+| 🛠️ Projects | Developer tools · Dashboards · Web apps |
 
----
-
-## 🌐 Let's Connect
+<br>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
+## 🌐 Let's Connect
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+[![X](https://img.shields.io/badge/X-B983FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
+[![GitHub](https://img.shields.io/badge/GitHub-231942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
 
-**Thanks for visiting my profile! ⭐**
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+
+**Thanks for stopping by! ⭐**
 
 </div>
