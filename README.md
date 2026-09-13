@@ -27,6 +27,6 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,python,git,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,mongodb,python,git,github,figma,vscode,vercel,postman,npm&theme=dark&perline=9" />
 
 ![](https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat)
