@@ -168,6 +168,16 @@ ML Foundations
 
 <br>
 
+## 🏷️ Holopin Badges
+
+<div align="center">
+
+[![@faizankhan144's Holopin board](https://holopin.me/faizankhan144)](https://holopin.io/@faizankhan144)
+
+</div>
+
+<br>
+
 ## 🎯 Current Focus
 
 | Area | Focus |
