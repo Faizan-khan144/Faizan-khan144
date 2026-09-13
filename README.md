@@ -31,18 +31,11 @@
 
 ---
 
-<img src="https://octodex.github.com/images/deckfailtocat.png" width="200"/>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=onedark&column=4&margin-w=10&margin-h=10&no-frame=true" />
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake.svg" />
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"/>
+<img src="https://octodex.github.com/images/maxtocat.gif" width="150"/>
 
 ---
 
-<img src="https://octodex.github.com/images/inspectocat.jpg" width="200"/>
+<img src="https://octodex.github.com/images/carlostocat.gif" width="200"/>
 
 ![](https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat)
