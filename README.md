@@ -1,6 +1,12 @@
-# Hi there, I'm Faizan - aka Faizan-khan144 <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" width="30"/>
+<div align="center">
 
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250"/>
+# Hi there, I'm Faizan <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" width="28"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner;AI+with+Python+Learner)](https://github.com/Faizan-khan144)
+
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="220"/>
+
+</div>
 
 ## I'm a Frontend Developer
 
@@ -27,15 +33,21 @@
 
 ---
 
+<img src="https://octodex.github.com/images/dojocat.jpg" width="180"/>
+
+### 🧰 Skills
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,mongodb,python,git,github,figma,vscode,vercel,postman,npm&theme=light&perline=9" />
 
 ---
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"/>
 <img src="https://octodex.github.com/images/maxtocat.gif" width="150"/>
+<img src="https://octodex.github.com/images/mummytocat.gif" width="160"/>
 
 ---
 
 <img src="https://octodex.github.com/images/carlostocat.gif" width="200"/>
+<img src="https://octodex.github.com/images/grinchtocat.gif" width="180"/>
 
 ![](https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat)
