@@ -1,28 +1,28 @@
 <div align="center">
 
-# 👋 Hello there, fellow `<coder />`!
+# `FAIZAN.DEV`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Congratulations%2C+you+found+Faizan!;Frontend+Developer;MERN+Stack+Learner;AI+%2B+Python+Learner;Building+%7C+Learning+%7C+Breaking+%7C+Fixing" />
-
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100">
-<img src="https://octodex.github.com/images/nyantocat.gif" width="100">
-<img src="https://octodex.github.com/images/robotocat.png" width="100">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=760&lines=Frontend+Developer;MERN+Stack+Learner;AI+with+Python+Learner;I+build+things+I+wish+existed;Currently+turning+ideas+into+code." />
 
 <br>
 
-<a href="https://github.com/Faizan-khan144">
-<img src="https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/">
-<img src="https://img.shields.io/badge/LinkedIn-Faizan-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://faizan-khan144.github.io/faizan-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel">
-</a>
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="105">
+&nbsp;
+<img src="https://octodex.github.com/images/nyantocat.gif" width="105">
+&nbsp;
+<img src="https://octodex.github.com/images/robotocat.png" width="105">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VISITS">
+[![GitHub](https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=flat-square\&logo=github)](https://github.com/Faizan-khan144)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FAIZAN.DEV-7C3AED?style=flat-square\&logo=vercel\&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+[![Instagram](https://img.shields.io/badge/Instagram-Faizan-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/muhammadfaizankhan324/)
+[![X](https://img.shields.io/badge/X-Faizan-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/faizan525nk)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat-square&label=PROFILE+VISITS">
 
 </div>
 
@@ -30,280 +30,240 @@
 
 > [!CAUTION]
 >
-> ## 🚨 Caution
+> ### ⚠️ ENTERING `FAIZAN.DEV`
 >
-> **Congratulations! You found me.**
+> This profile contains:
 >
-> You are entering a profile belonging to a developer who has absolutely no idea what
-> `"one last change"` means.
+> `code` · `experiments` · `side quests` · `bad decisions`
 >
-> Possible side effects:
+> **Proceed at your own risk.**
 >
-> `new project` → `new feature` → `new redesign` → `new bug` → `new feature`
+> There is a high probability that `"one small change"` will become a complete redesign.
 
 ---
 
 > [!NOTE]
 >
-> ## 📝 Note
+> ### `01` — THE HUMAN BEHIND THE CODE
 >
-> I'm **Faizan Khan**, a frontend developer currently building with modern web technologies
-> while learning the **MERN Stack** and **AI with Python**.
+> I'm **Faizan Khan**, a frontend developer who learns by building.
 >
-> I prefer learning by **building real things** instead of just watching tutorials.
+> I'm currently focused on **modern frontend development**, the **MERN stack**, and **AI with Python**.
+>
+> I don't want to just know how technology works.
+>
+> **I want to build things with it.**
 
 ---
 
 > [!IMPORTANT]
 >
-> ## 📌 Important
+> ### `02` — CURRENT OBJECTIVE
 >
-> Currently working with:
->
-> `HTML` `CSS` `JavaScript` `React` `Tailwind` `Node.js` `Express` `MongoDB` `Python`
+> ```text
+> ┌──────────────────────────────────────────────┐
+> │                                              │
+> │  BUILD       ████████████████████  100%     │
+> │  LEARN       ███████████████████░   95%     │
+> │  EXPERIMENT  ████████████████████  100%     │
+> │  SHIP        ██████████████████░░   90%     │
+> │  SLEEP       ███░░░░░░░░░░░░░░░░   15%     │
+> │                                              │
+> └──────────────────────────────────────────────┘
+> ```
 
 ---
 
 > [!WARNING]
 >
-> ## ⚠️ Warning
+> ### `03` — YOU'VE BEEN WARNED
 >
-> **Do not tell me:**
+> I have a dangerous habit:
 >
-> > "It's just a small UI change."
+> **Seeing something and thinking,**
 >
-> Because 15 minutes later there will probably be:
+> `"I could build that."`
 >
-> `3 new components` · `2 animations` · `1 redesign` · `7 bugs`
+> And then actually building it.
 
 ---
 
 > [!TIP]
 >
-> ## 💡 Tip
+> ### `04` — DEVELOPER WISDOM
 >
-> If the code works...
->
-> **DO NOT TOUCH IT.**
->
-> Seriously.
+> ```text
+> If it works       → don't touch it.
+> If it breaks      → pretend you know why.
+> If nobody knows   → restart VS Code.
+> If that fails     → ask AI.
+> If AI fails       → pray.
+> ```
 
 ---
 
-# 👨‍💻 About Me
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `whoami`
-
-```yaml
-name: Faizan Khan
-role: Frontend Developer
-learning:
-  - MERN Stack
-  - AI with Python
-focus:
-  - Web Development
-  - UI/UX
-  - Developer Tools
-location: Karachi, Pakistan
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### Current Status
+# `WHOAMI`
 
 ```text
-Building       ████████████████████ 100%
-Learning       ██████████████████░░  90%
-Experimenting  ███████████████████░  95%
-Debugging      ████████████████████ 100%
-Sleeping       ███░░░░░░░░░░░░░░░░  15%
+╭──────────────────────────────────────────────╮
+│                                              │
+│   NAME       → Faizan Khan                   │
+│   ROLE       → Frontend Developer            │
+│   LEARNING   → MERN + AI with Python         │
+│   BUILDING   → Web Apps + Developer Tools    │
+│   LOCATION   → Karachi, Pakistan             │
+│   STATUS     → Building                      │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-</td>
+---
 
-</tr>
-</table>
+# `THE STACK`
+
+### `FRONTEND`
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+
+### `BACKEND`
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+
+### `PYTHON / AI`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white">
+
+### `TOOLS`
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 
 ---
 
-# 📚 What I'm Learning
+# `AI ROOM`
 
-| Technology |     Level    | Mission             |
-| :--------- | :----------: | :------------------ |
-| React      | `█████████░` | Building interfaces |
-| JavaScript | `██████████` | Going deeper        |
-| Node.js    | `███████░░░` | Backend development |
-| Express    | `███████░░░` | APIs                |
-| MongoDB    | `██████░░░░` | Databases           |
-| Python     | `█████████░` | AI / Data           |
-| NumPy      | `██████░░░░` | Data                |
-| Pandas     | `██████░░░░` | Data analysis       |
-| AI / ML    | `█████░░░░░` | Exploring           |
-
----
-
-# 🧩 〖﻿Ｓｋｉｌｌｓ〗
-
-<table>
-<tr>
-<th>Programming_Languages</th>
-<th>Frontend_Tools</th>
-<th>Backend_Tools</th>
-<th>Data_Related</th>
-<th>IDEs/Softwares</th>
-<th>Other_Tools</th>
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=html">
-<img src="https://skillicons.dev/icons?i=css">
-<img src="https://skillicons.dev/icons?i=js">
-<img src="https://skillicons.dev/icons?i=python">
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=react">
-<img src="https://skillicons.dev/icons?i=vite">
-<img src="https://skillicons.dev/icons?i=tailwind">
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs">
-<img src="https://skillicons.dev/icons?i=express">
-<img src="https://skillicons.dev/icons?i=mongodb">
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=numpy">
-<img src="https://skillicons.dev/icons?i=pandas">
-<img src="https://skillicons.dev/icons?i=python">
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=vscode">
-<img src="https://skillicons.dev/icons?i=pycharm">
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=git">
-<img src="https://skillicons.dev/icons?i=github">
-<img src="https://skillicons.dev/icons?i=postman">
-<img src="https://skillicons.dev/icons?i=vercel">
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Technology Wall
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
-
-</div>
-
----
-
-# 🤖 AI Department
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white">
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white">
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white">
-
-</div>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white"> <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white"> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white">
 
 <details>
-<summary><b>🤖 How AI and I communicate</b></summary>
+<summary><b>What actually happens here?</b></summary>
+
+<br>
 
 ```text
-Me:
-    "Fix this."
+ME:
+    "This should be easy."
+
+5 minutes later:
+    "Why doesn't this work?"
 
 AI:
-    "Here are 14 possible approaches..."
+    "There are several possible reasons..."
 
-Me:
-    "BRO."
+ME:
+    "Just fix it bro."
 
 AI:
-    "Here's the code."
+    [writes code]
 
-Me:
-    "Perfect."
+ME:
+    "LET'S GOOOO"
 
 Code:
     💥
 
-Me:
-    "BRO."
+ME:
+    "BROOOOO"
 ```
 
 </details>
 
 ---
 
-# 🚀 Featured Repositories
+# `PROJECTS`
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<a href="https://github.com/Faizan-khan144/devdock">
+## 🛠️ DevDock
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=transparent&hide_border=true">
+**Developer command center.**
 
-</a>
+A collection of tools I actually wanted while developing.
+
+```text
+JSON
+JWT
+Regex
+Markdown
+UUID
+Hash
+Password
+HTTP
+Base64
+URL
+Timestamp
+Snippets
+Focus Timer
+Color Lab
+```
+
+`React` `Vite` `JavaScript` `Lucide`
+
+**[→ Open DevDock](https://github.com/Faizan-khan144/devdock)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<a href="https://github.com/Faizan-khan144/aplinode-clone">
+## 🌐 Aplinode Clone
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=aplinode-clone&theme=transparent&hide_border=true">
+A recreation of a modern digital agency experience.
 
-</a>
+```text
+Responsive
+Components
+Navigation
+Animations
+Layouts
+```
+
+`React` `Vite` `CSS`
+
+**[→ Open Repository](https://github.com/Faizan-khan144/aplinode-clone)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 📚 EduBoard PRO
+
+My first major React project.
+
+```text
+Dashboard
+Pomodoro
+LocalStorage
+Analytics
+```
+
+`React` `Tailwind`
+
+</td>
+
+<td valign="top">
+
+## 🌎 Portfolio
+
+My personal developer space.
+
+`HTML` `CSS` `JavaScript`
+
+**[→ Visit Portfolio](https://faizan-khan144.github.io/faizan-portfolio/)**
 
 </td>
 
@@ -312,43 +272,61 @@ Me:
 
 ---
 
-# 🛠️ DevDock
-
-> A developer command center for everyday web-development utilities.
+# `THE BUILD LOOP`
 
 ```text
-JSON       JWT        Regex
-Markdown   UUID       Hash
-Password   HTTP       Base64
-URL        Timestamp  Snippets
-Focus      Color Lab
+           ┌──────────────┐
+           │    IDEA      │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │    BUILD     │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │    BREAK     │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │    DEBUG     │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │    LEARN     │
+           └──────┬───────┘
+                  ↓
+           ┌──────────────┐
+           │    SHIP      │
+           └──────┬───────┘
+                  │
+                  └──────────────→ REPEAT
 ```
-
-**Stack:** `React` `Vite` `JavaScript` `Lucide`
-
-[→ Open DevDock](https://github.com/Faizan-khan144/devdock)
 
 ---
 
-# 🌐 Aplinode Clone
+# `CURRENTLY LEARNING`
 
-> A React recreation of a modern digital-agency experience.
+<details open>
+<summary><b>Click to inspect the roadmap</b></summary>
 
-```text
-Responsive UI
-Component Architecture
-Navigation
-Animations
-Modern Layouts
-```
+<br>
 
-**Stack:** `React` `Vite` `CSS`
+| Technology     |        Progress        |
+| :------------- | :--------------------: |
+| React          | `█████████████████░░░` |
+| JavaScript     | `██████████████████░░` |
+| Node.js        | `███████████████░░░░░` |
+| Express        | `██████████████░░░░░░` |
+| MongoDB        | `█████████████░░░░░░░` |
+| Python         | `█████████████████░░░` |
+| NumPy / Pandas | `████████████░░░░░░░░` |
+| AI / ML        | `█████████░░░░░░░░░░░` |
 
-[→ Open Repository](https://github.com/Faizan-khan144/aplinode-clone)
+</details>
 
 ---
 
-# 📊 〖﻿Ｓｔａｔｓ〗
+# `GITHUB // LIVE`
 
 <div align="center">
 
@@ -364,25 +342,17 @@ Modern Layouts
 
 ---
 
-# 📈 More Stats
+# `TROPHY ROOM`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&row=1&margin-w=8">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=transparent">
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1">
 
 </div>
 
 ---
 
-# 📦 More Repositories
+# `REPOSITORY RADAR`
 
 <div align="center">
 
@@ -398,149 +368,127 @@ Modern Layouts
 
 ---
 
-# 🐍 Watch My Contributions Get Eaten
+# `CONTRIBUTION MODE`
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake.svg" width="95%">
 
-</div>
+<br><br>
 
----
+```text
+6,000+ contributions in 2026
+2,000+ contributions in 2025
 
-# 🎨 H o b b i e s
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="55">
-<br>
-Coding
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/design.png" width="55">
-<br>
-Design
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/brain.png" width="55">
-<br>
-Learning
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="55">
-<br>
-Building
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/lol.png" width="55">
-<br>
-Memes
-</td>
-
-</tr>
-</table>
+Not finished.
+Just getting started.
+```
 
 </div>
 
 ---
 
-# 🧪 Developer Laboratory
+# `FAIZAN.EXE`
 
 <details>
-<summary><b>🔬 Open experiment</b></summary>
+<summary><b>⚙️ Execute program</b></summary>
 
 <br>
 
 ```text
-INPUT
-  ↓
-Random idea
-  ↓
-Google
-  ↓
-Documentation
-  ↓
-YouTube
-  ↓
-AI
-  ↓
-"Let me try this"
-  ↓
-It works
-  ↓
-"Wait..."
-  ↓
-Redesign
-  ↓
-Deploy
+[BOOTING FAIZAN.EXE]
+
+Loading personality............... OK
+Loading ideas.................... OK
+Loading projects................. OK
+Loading patience................. 12%
+Loading sleep.................... FAILED
+
+Starting VS Code.................. OK
+Opening browser.................. 47 tabs
+Starting npm...................... OK
+Starting debugging............... 💀
+
+FAIZAN.EXE IS READY.
 ```
 
 </details>
 
 ---
 
-# 🐛 Known Issues
+# `KNOWN BUGS`
 
-| Issue                             | Severity |     Status    |
-| :-------------------------------- | :------: | :-----------: |
-| CSS suddenly stops making sense   |    🔴    | Investigating |
-| One small change becomes redesign |    🔴    |   Permanent   |
-| Too many browser tabs             |    🟡    |    Expected   |
-| `console.log()` everywhere        |    🟡    |    Working    |
-| Sleep schedule                    |    💀    |   Not found   |
+|   ID  | Description                         | Status |
+| :---: | :---------------------------------- | :----: |
+| `001` | "One small change" becomes redesign |   🔴   |
+| `002` | Browser has too many tabs           |   🟡   |
+| `003` | CSS suddenly chooses violence       |   🔴   |
+| `004` | `console.log()` multiplication      |   🟡   |
+| `005` | Sleep schedule missing              |   💀   |
+| `006` | New project idea appears at 2 AM    |   🟢   |
 
 ---
 
-# ⭐ Show Some Love
+# `HOBBIES`
 
 <div align="center">
 
-If one of my projects helps you, **leave a star**.
+`💻 CODING`   `🎨 DESIGN`   `🧠 LEARNING`   `🚀 BUILDING`   `😂 MEMES`
+
+</div>
+
+---
+
+# `CLASSIFIED`
+
+<details>
+<summary><b>🔐 You found the hidden section</b></summary>
+
+<br>
 
 ```text
-        ⭐
-       ⭐⭐⭐
-      ⭐⭐⭐⭐⭐
-     ⭐⭐⭐⭐⭐⭐⭐
-    ⭐⭐⭐⭐⭐⭐⭐⭐⭐
+SECRET #01
+
+I don't need another project.
+
+        ↓
+
+I start another project.
 ```
 
-**Stars keep the commits coming.**
+```text
+SECRET #02
 
-</div>
+"Let's keep the design simple."
+
+        ↓
+
+47 components later...
+```
+
+```text
+SECRET #03
+
+If you read this entire README...
+
+You officially have too much free time.
+```
+
+</details>
 
 ---
 
-# ⏱️ You Have Stayed On My Profile For...
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Still+scrolling%3F;You+actually+made+it+this+far.;Respect.;Now+go+check+the+repositories." />
-
-<br><br>
-
-◔*◔    ⌛    ◔*◔
-
-</div>
-
----
-
-# 💻 Developer Terminal
+# `DEVELOPER TERMINAL`
 
 ```console
-$ whoami
-faizan
+$ git status
 
-$ pwd
-/github/Faizan-khan144
+On branch main
+nothing to commit, working tree clean
+
+$ git push
+
+Everything up-to-date
 
 $ npm run sleep
 
@@ -554,51 +502,45 @@ $ git commit -m "actual final change"
 
 [main] actual final change
 
-$ git commit -m "okay this is REALLY final"
+$ git commit -m "bro this is actually final"
 
-[main] okay this is REALLY final
+[main] bro this is actually final
 ```
 
 ---
 
-# 🎯 Future Goals
-
-```text
-[✓] Learn HTML / CSS
-[✓] Learn JavaScript
-[✓] Build React projects
-[✓] Start MERN
-[✓] Start Python
-[→] Improve backend
-[→] Learn AI / ML
-[→] Build bigger products
-[ ] Never stop creating
-```
-
----
-
-# 🧠 Random Developer Thought
-
-> **The best project isn't the one you planned perfectly.**
->
-> It's the one you actually built.
-
----
+# `THE RULE`
 
 <div align="center">
 
-<img src="https://octodex.github.com/images/inspectocat.jpg" width="130">
+## **Build something.**
 
-### Thanks for visiting my profile!
+## **Break something.**
 
-`Build → Break → Learn → Fix → Ship`
+## **Learn something.**
+
+## **Ship something.**
+
+### Then do it again.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VIEWS">
+<img src="https://octodex.github.com/images/inspectocat.jpg" width="130">
+
+<br>
+
+`Thanks for making it this far.`
+
+<br>
+
+**If you found something useful, consider giving a repository a ⭐**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&label=PROFILE+VISITS">
 
 <br><br>
 
-**© Faizan Khan**
+`FAIZAN.DEV`
 
 </div>
