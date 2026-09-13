@@ -8,12 +8,12 @@
 - 📫 What is the best way to contact me? [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
 - 😄 Based in Karachi, Pakistan
 
-<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" height="45"/></a>
-<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
-<a href="https://www.instagram.com/muhammadfaizankhan324/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/></a>
-<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="45"/></a>
-<a href="https://faizan-khan144.github.io/faizan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
-<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" height="60"/></a>
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/></a>
+<a href="https://www.instagram.com/muhammadfaizankhan324/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="60"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="60"/></a>
+<a href="https://faizan-khan144.github.io/faizan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="60"/></a>
+<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60"/></a>
 
 ---
 
