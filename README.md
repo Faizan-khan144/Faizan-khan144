@@ -8,7 +8,7 @@
 
 </div>
 
-## I'm a Frontend Developer
+## 🧑‍💻 About Me
 
 - 🌱 I am currently learning more about the MERN stack and AI with Python.
 - 📫 What is the best way to contact me? [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
@@ -23,31 +23,59 @@
 
 ---
 
-<img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="250"/>
+## 📂 Featured Projects
 
-### 📂 Featured Projects
+<img align="right" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="180"/>
 
 - **[DevDock](https://github.com/Faizan-khan144/devdock)** — A developer utility command center (JSON, JWT, Regex, Base64, UUID, Hash, and more)
 - **[Aplinode Clone](https://github.com/Faizan-khan144/aplinode-clone)** — A modern digital-agency website recreation
 - **EduBoard PRO** — An educational productivity dashboard with Pomodoro, analytics, and student tools
 
+<br clear="right"/>
+
 ---
 
-<img src="https://octodex.github.com/images/dojocat.jpg" width="180"/>
+## 🧰 Tech Stack
 
-### 🧰 Skills
+<img align="right" src="https://octodex.github.com/images/dojocat.jpg" width="150"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,mongodb,python,git,github,figma,vscode,vercel,postman,npm&theme=light&perline=9" />
 
----
-
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200"/>
-<img src="https://octodex.github.com/images/maxtocat.gif" width="150"/>
-<img src="https://octodex.github.com/images/mummytocat.gif" width="160"/>
+<br clear="right"/>
 
 ---
 
-<img src="https://octodex.github.com/images/carlostocat.gif" width="200"/>
-<img src="https://octodex.github.com/images/grinchtocat.gif" width="180"/>
+## 🤖 Favorite AI Tools
+
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](#)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)](#)
+
+## 🛠️ Favorite Dev Tools
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+<div align="center">
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160"/>
+<img src="https://octodex.github.com/images/maxtocat.gif" width="130"/>
+<img src="https://octodex.github.com/images/mummytocat.gif" width="140"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat)
+
+</div>
