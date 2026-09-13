@@ -8,13 +8,12 @@
 - 📫 What is the best way to contact me? [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
 - 😄 Based in Karachi, Pakistan
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadfaizankhan324/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfaizankhan525@gmail.com)
+<a href="https://github.com/Faizan-khan144"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" height="45"/></a>
+<a href="https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
+<a href="https://www.instagram.com/muhammadfaizankhan324/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/></a>
+<a href="https://x.com/faizan525nk"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" height="45"/></a>
+<a href="https://faizan-khan144.github.io/faizan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
+<a href="mailto:muhammadfaizankhan525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
 
 ---
 
@@ -28,6 +27,6 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,python,git,html,css" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,python,git,figma&theme=dark&perline=8" />
 
 ![](https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat)
