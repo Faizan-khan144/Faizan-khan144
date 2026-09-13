@@ -1,174 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20There,%20I'm%20Faizan%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%C2%B7%20MERN%20Stack%20Learner%20%C2%B7%20AI%20with%20Python%20Learner&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+modern+interfaces+%E2%9A%9B%EF%B8%8F;Learning+the+MERN+stack+%F0%9F%94%A5;Exploring+AI+with+Python+%F0%9F%A4%96;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=B983FF&vCenter=true&pause=1200&size=20)](https://github.com/Faizan-khan144)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=120&section=header&text=Muhammad%20Faizan%20Khan&fontSize=36&fontColor=00D9FF&fontAlignY=55&desc=Frontend%20Developer&descAlignY=75&descSize=16&descColor=8b949e"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![X](https://img.shields.io/badge/X-B983FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
-[![GitHub](https://img.shields.io/badge/GitHub-231942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00D9FF)](https://faizan-khan144.github.io/faizan-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+[![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=00D9FF)](https://x.com/faizan525nk)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/Faizan-khan144)
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=8e2de2&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Faizan-khan144?style=for-the-badge&color=4a00e0&labelColor=231942&logo=github&logoColor=white&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Faizan-khan144?style=for-the-badge&color=b983ff&labelColor=231942&logo=star&logoColor=white&label=STARS"/>
+<sub>
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat-square&color=0d1117&label=views"/>
+<img src="https://img.shields.io/github/followers/Faizan-khan144?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=00D9FF&label=followers"/>
+<img src="https://img.shields.io/github/stars/Faizan-khan144?style=flat-square&color=0d1117&labelColor=0d1117&logo=star&logoColor=00D9FF&label=stars"/>
+</sub>
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+## About
 
-```yaml
-name: Muhammad Faizan Khan
-role: Frontend Developer
-location: Karachi, Pakistan
-currently_building: React & full-stack web projects
-currently_learning: [MERN Stack, AI with Python]
-philosophy: Learn → Build → Experiment → Improve → Ship
-fun_fact: "I don't want to just learn technologies — I want to build with them."
-```
+Frontend developer based in Karachi, Pakistan, focused on building clean, functional interfaces and developer tools. Currently deepening my skills in the MERN stack and exploring AI with Python. I learn by shipping — every project here is something I built to understand something better.
 
 <br>
 
-## 🚀 Featured Projects
-
-<div align="center">
+## Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛠️ [DevDock](https://github.com/Faizan-khan144/devdock)
-A developer utility command center packed with everyday dev tools.
-
-`JSON` `JWT` `Regex` `Base64` `UUID` `Hash` `Timestamp` `Color Lab` `Focus Timer`
-
-**Stack:** React · Vite · JavaScript · Lucide
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Aplinode Clone](https://github.com/Faizan-khan144/aplinode-clone)
-A modern digital-agency site recreation for practicing real-world frontend architecture.
-
-`Component Architecture` `Animations` `Responsive Design` `Modern Layouts`
-
-**Stack:** React · Vite · JavaScript · CSS
-
-</td>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+<th></th>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 EduBoard PRO
-A React-based educational productivity dashboard.
-
-`Dashboard` `Pomodoro` `Analytics` `LocalStorage`
-
-**Stack:** React · Tailwind CSS · JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ More coming soon
-Currently shipping something new — check back or follow along on GitHub.
-
-[![All Repos](https://img.shields.io/badge/View%20All%20Repos-231942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144?tab=repositories)
-
-</td>
+<td><b>DevDock</b></td>
+<td>A developer utility command center — JSON, JWT, Regex, Base64, UUID, Hash, Timestamp tools, and more, all in one place.</td>
+<td><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>Lucide</code></td>
+<td><a href="https://github.com/Faizan-khan144/devdock">↗</a></td>
+</tr>
+<tr>
+<td><b>Aplinode Clone</b></td>
+<td>A recreation of a modern digital-agency website, built to practice component architecture and interactive UI.</td>
+<td><code>React</code> <code>Vite</code> <code>JavaScript</code> <code>CSS</code></td>
+<td><a href="https://github.com/Faizan-khan144/aplinode-clone">↗</a></td>
+</tr>
+<tr>
+<td><b>EduBoard PRO</b></td>
+<td>An educational productivity dashboard with Pomodoro timer, analytics, and student tools.</td>
+<td><code>React</code> <code>Tailwind CSS</code> <code>JavaScript</code></td>
+<td></td>
 </tr>
 </table>
 
-</div>
-
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
-<div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=light" />
-
-<br><br>
-
-**Frameworks & Libraries**
-<br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=light" />
-
-<br><br>
-
-**Database**
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
-
-<br><br>
-
-**Tools & Platforms**
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,postman,npm&theme=light" />
-
-</div>
-
-<br>
-
-## 📚 Currently Learning
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
-
-**⚛️ React**
-Component Architecture
-State Management
-Modern UI Patterns
-
+<td valign="top" width="25%"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" />
 </td>
-<td align="center" width="33%">
-
-**🌿 MERN**
-Node.js · Express
-MongoDB
-Full-Stack Apps
-
+</tr>
+<tr>
+<td valign="top"><b>Frameworks</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark" />
 </td>
-<td align="center" width="33%">
-
-**🐍 Python + AI**
-NumPy · Pandas
-Matplotlib
-ML Foundations
-
+</tr>
+<tr>
+<td valign="top"><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,postman&theme=dark" />
 </td>
 </tr>
 </table>
 
 <br>
 
-## 📊 GitHub Stats
+## Currently Learning
+
+| Track | Focus |
+|:--|:--|
+| **React** | Component architecture, state management, modern UI patterns |
+| **MERN Stack** | Node.js, Express, MongoDB, full-stack applications |
+| **Python + AI** | NumPy, Pandas, Matplotlib, ML foundations |
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=tokyonight&title_color=b983ff&icon_color=8e2de2&text_color=ffffff&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&theme=tokyonight&background=0d1117&stroke=b983ff&ring=8e2de2&fire=b983ff&currStreakLabel=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=github_dark&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-khan144&hide_border=true&theme=github-dark-blue&background=0d1117&stroke=30363d&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b983ff&line=8e2de2&point=ffffff" width="97%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&layout=compact&hide_border=true&theme=tokyonight&title_color=b983ff&text_color=ffffff&bg_color=0d1117" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=c9d1d9" width="97%"/>
 
 </div>
 
 <br>
 
-## 🏷️ Holopin Badges
+## Holopin Badges
 
 <div align="center">
 
@@ -178,31 +122,13 @@ ML Foundations
 
 <br>
 
-## 🎯 Current Focus
-
-| Area | Focus |
-|:---|:---|
-| ⚛️ Frontend | React · JavaScript · Responsive UI |
-| 🚀 Full Stack | Node.js · Express · MongoDB |
-| 🐍 Python | NumPy · Pandas · Data & AI foundations |
-| 🎨 UI/UX | Modern layouts · Components · Interaction design |
-| 🛠️ Projects | Developer tools · Dashboards · Web apps |
-
-<br>
+## Connect
 
 <div align="center">
 
-## 🌐 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
-[![X](https://img.shields.io/badge/X-B983FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
-[![GitHub](https://img.shields.io/badge/GitHub-231942?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
-
-**Thanks for stopping by! ⭐**
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00D9FF)](https://faizan-khan144.github.io/faizan-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
+[![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=00D9FF)](https://x.com/faizan525nk)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/Faizan-khan144)
 
 </div>
