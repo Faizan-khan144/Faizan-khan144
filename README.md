@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://octodex.github.com/images/robotocat.png" width="105">
 
-<br><br>
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=flat-square\&logo=github)](https://github.com/Faizan-khan144)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FAIZAN.DEV-7C3AED?style=flat-square\&logo=vercel\&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
