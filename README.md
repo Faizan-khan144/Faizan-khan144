@@ -22,7 +22,7 @@
 
 ---
 
-## 🏁 Profile Pulse
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Profile Pulse
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧰 The Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> The Stack
 
 **Frontend**
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 📦 Proof of Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Proof of Work
 
 <table>
 <tr>
@@ -111,7 +111,7 @@
 
 ---
 
-## 📈 GitHub // Live
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> GitHub // Live
 
 <div align="center">
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 🧊 Contribution in 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> Contribution in 3D
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/main/profile-3d-contrib/profile-green-animate.svg" width="78%" />
@@ -143,7 +143,7 @@
 
 ---
 
-## 🏆 Trophies & Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> Trophies & Quote
 
 <div align="center">
 
@@ -157,7 +157,7 @@
 
 ---
 
-## 📬 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Let's Connect
 
 I'm always open to developer friends, collaboration and opportunities.
 
