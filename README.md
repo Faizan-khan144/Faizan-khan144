@@ -42,7 +42,7 @@
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend (learning)**
 
@@ -108,6 +108,24 @@
 </table>
 
 *Plus: Python Student Management System (OOP), August & Oak e-commerce, banking sites, games & 25+ more in [my repositories](https://github.com/Faizan-khan144?tab=repositories).*
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> Pinned Repos
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=vue&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=vue&hide_border=true" width="48%" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=vue&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=vue&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
