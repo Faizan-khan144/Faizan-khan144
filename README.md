@@ -4,19 +4,19 @@
 
 ### Frontend Developer · React · JavaScript · MERN Stack Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=720&lines=Frontend+Developer;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Building+the+MERN+Stack;Exploring+AI+with+Python;I+learn+by+shipping+real+projects." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=720&lines=Frontend+Developer;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Building+the+MERN+Stack;Exploring+AI+with+Python;I+learn+by+shipping+real+projects." />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-faizan--portfolio-2D6A4F?style=flat-square&logo=vercel&logoColor=white&labelColor=0f172a)](https://faizan-portfolio-kappa.vercel.app)
-[![GitHub](https://img.shields.io/badge/GITHUB-Faizan--khan144-0f172a?style=flat-square&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Faizan-khan144)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-muhammad--faizan--khan324-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-faizan-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0f172a)](https://www.instagram.com/muhammadfaizankhan324/)
-[![X](https://img.shields.io/badge/X-&#64;faizan525nk-000000?style=flat-square&logo=x&logoColor=white&labelColor=0f172a)](https://x.com/faizan525nk)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2D6A4F?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadfaizankhan324/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=flat-square&color=2D6A4F&label=PROFILE+VISITS">
+<img src="https://komarev.com/ghpvc/?username=Faizan-khan144&style=for-the-badge&color=2D6A4F&label=PROFILE+VISITS">
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 What I Do
+##  About
 
 ```text
 WHOAMI
@@ -40,19 +40,19 @@ WHOAMI
 
 ---
 
-## 🧰 The Stack
+##  Tools and Languages
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 
 **Backend (learning)**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 
 **Python / AI (learning)**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 
 **Tools**
 
@@ -60,28 +60,28 @@ WHOAMI
 
 ---
 
-## 📦 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### **OpenTrace**
-*Structured map of useful websites & resources across the web — find the right website for anything.*
+Structured map of useful websites and resources across the web.
 
 `React` `Tailwind` `Vite` `Local-first`
 
-[⬆ OpenTrace](https://github.com/Faizan-khan144/OpenTrace) · [Live](https://opentrace-faizan.vercel.app)
+[Open Repository](https://github.com/Faizan-khan144/OpenTrace) · [Live](https://opentrace-faizan.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### **DevDock**
-*Developer workspace — JSON, Base64, UUID, Regex, Color & productivity tools.*
+Developer workspace: JSON, Base64, UUID, Regex, Color and productivity tools.
 
-`JavaScript` `Vite` `Developer tools`
+`JavaScript` `Vite`
 
-[⬆ DevDock](https://github.com/Faizan-khan144/devdock) · [Live](https://faizan-khan144.github.io/devdock/)
+[Open Repository](https://github.com/Faizan-khan144/devdock) · [Live](https://faizan-khan144.github.io/devdock/)
 
 </td>
 </tr>
@@ -89,81 +89,87 @@ WHOAMI
 <td width="50%" valign="top">
 
 ### **EduBoard PRO**
-*Student productivity dashboard — assignments, notes, Pomodoro, analytics, dark mode.*
+Student productivity dashboard: assignments, notes, Pomodoro, analytics, dark mode.
 
-`React` `Tailwind` `LocalStorage`
+`React` `Tailwind`
 
-[⬆ EduBoard](https://github.com/Faizan-khan144/eduboard-pro)
+[Open Repository](https://github.com/Faizan-khan144/eduboard-pro)
 
 </td>
 <td width="50%" valign="top">
 
 ### **Cryptolens Dashboard**
-*Real-time cryptocurrency dashboard with trending coins & global stats (CoinGecko API).*
+Real-time cryptocurrency dashboard with trending coins and global stats.
 
 `JavaScript` `Glassmorphism`
 
-[⬆ Cryptolens](https://github.com/Faizan-khan144/cryptolens-dashboard)
+[Open Repository](https://github.com/Faizan-khan144/cryptolens-dashboard)
 
 </td>
 </tr>
 </table>
 
-More experiments, clones and practice builds live in [my repositories](https://github.com/Faizan-khan144?tab=repositories) — including a **Python Student Management System (OOP)** and a genuinely fun **Rock, Paper, Scissors** game.
+More experiments, clones and practice builds live in [my repositories](https://github.com/Faizan-khan144?tab=repositories).
 
 ---
 
-## 📈 GitHub // Live
+##  GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=Faizan-khan144&hide_border=true&theme=transparent" width="49%">
+<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=transparent&hide_border=true" width="49%" />
 
-<br><br>
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true" width="96%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=transparent&hide_border=true&layout=donut" width="36%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=transparent&utcOffset=5" width="36%" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true" width="96%" />
 
 </div>
 
 ---
 
-## 🏆 Trophy Room
+##  Trophy Room
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1">
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Mode
+##  Contribution Mode
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake.svg" width="95%">
+<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake.svg" width="95%" />
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm always open to developer friends, collaboration and opportunities.
 
 - **Portfolio:** https://faizan-portfolio-kappa.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-faizan-khan324/
 - **Email:** muhammadfaizankhan525@gmail.com
-- **X / Instagram:** `@faizan525nk` · `@muhammadfaizankhan324`
+- **X / Instagram:** @faizan525nk / @muhammadfaizankhan324
 
 <div align="center">
 
-<br>
+<br />
 
-<sub>Thanks for stopping by — if something here helped you build, give a repo a ⭐.</sub>
+<sub>Thanks for stopping by — if something here helped you build, give a repo a star.</sub>
 
-<br>
+<br />
 
 </div>
