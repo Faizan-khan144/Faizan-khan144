@@ -15,7 +15,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faizan--khan144-181717?style=flat-square\&logo=github)](https://github.com/Faizan-khan144)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FAIZAN.DEV-7C3AED?style=flat-square\&logo=vercel\&logoColor=white)](https://faizan-khan144.github.io/faizan-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FAIZAN.DEV-7C3AED?style=flat-square\&logo=vercel\&logoColor=white)](https://faizan-portfolio-kappa.vercel.app/#/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan-76513041a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Faizan-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/muhammadfaizankhan324/)
 [![X](https://img.shields.io/badge/X-Faizan-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/faizan525nk)
