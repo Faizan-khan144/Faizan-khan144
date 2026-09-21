@@ -4,7 +4,7 @@
 
 ### Frontend Developer · React · JavaScript · MERN Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=26&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Building+the+MERN+Stack;Exploring+AI+with+Python;I+learn+by+shipping+real+projects." />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=980&lines=Frontend+Developer;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Building+the+MERN+Stack;Exploring+AI+with+Python;I+learn+by+shipping+real+projects." />
 
 <br>
 
@@ -30,7 +30,7 @@
 
 ---
 
-##  About
+##  👨‍💻 About
 
 ```text
 WHOAMI
@@ -44,7 +44,7 @@ WHOAMI
 
 ---
 
-##  Tools and Languages
+##  🧰 Tools and Languages
 
 **Frontend**
 
@@ -64,7 +64,7 @@ WHOAMI
 
 ---
 
-##  Featured Projects
+##  📦 Featured Projects
 
 <table>
 <tr>
@@ -117,71 +117,71 @@ More experiments, clones and practice builds live in [my repositories](https://g
 
 ---
 
-##  GitHub Stats
+##  📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=transparent" width="82%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=vue" width="86%" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=vue&hide_border=true&rank_icon=github" width="52%" />
 
-<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=transparent&hide_border=true" width="50%" />
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=transparent&hide_border=true&layout=donut" width="41%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=transparent&utcOffset=5" width="41%" />
+<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=vue&hide_border=true" width="52%" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true" width="96%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=vue&hide_border=true&layout=donut" width="44%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=vue&utcOffset=5" width="44%" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-##  Pinned Work
+##  📌 Pinned Work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=transparent&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=vue&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=transparent&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=vue&hide_border=true" width="48%" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=transparent&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=vue&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=transparent&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=vue&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-##  Trophy Room
+##  🏆 Trophy Room
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" />
 
 </div>
 
 ---
 
-##  Contribution Mode
+##  🧊 Contribution in 3D
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/main/profile-3d-contrib/profile-green-animate.svg" width="75%" />
 
 </div>
 
 ---
 
-##  Let's Connect
+##  💬 Let's Connect
 
 I'm always open to developer friends, collaboration and opportunities.
 
