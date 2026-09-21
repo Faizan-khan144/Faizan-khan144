@@ -4,7 +4,7 @@
 
 ### Frontend Developer · React · JavaScript · MERN Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=720&lines=Frontend+Developer;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Building+the+MERN+Stack;Exploring+AI+with+Python;I+learn+by+shipping+real+projects." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=26&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Building+the+MERN+Stack;Exploring+AI+with+Python;I+learn+by+shipping+real+projects." />
 
 <br>
 
@@ -13,6 +13,10 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadfaizankhan324/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faizan525nk)
+
+<br>
+
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Frontend_%C2%B7_Remote-2D6A4F?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
 
 <br>
 
@@ -117,19 +121,41 @@ More experiments, clones and practice builds live in [my repositories](https://g
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=transparent&hide_border=true" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=transparent" width="82%" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=transparent&hide_border=true&layout=donut" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="50%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=transparent&utcOffset=5" width="36%" />
+<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=transparent&hide_border=true" width="50%" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=transparent&hide_border=true&layout=donut" width="41%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=transparent&utcOffset=5" width="41%" />
 
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true" width="96%" />
+
+</div>
+
+---
+
+##  Pinned Work
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=transparent&hide_border=true" width="47%" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=transparent&hide_border=true" width="47%" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=transparent&hide_border=true" width="47%" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=transparent&hide_border=true" width="47%" />
 
 </div>
 
