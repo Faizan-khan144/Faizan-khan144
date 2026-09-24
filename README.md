@@ -1,15 +1,14 @@
-bhai bara do huh aur cyan theme karo 
 <div align="center">
 
 # FAIZAN KHAN
 
 **Frontend Developer · React · JavaScript · MERN Stack Learner**
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=2400&pause=900&color=2D6A4F&center=true&vCenter=true&width=920&lines=I+learn+by+shipping;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Now+going+Full+Stack+(MERN);Exploring+AI+with+Python;376%2B+followers+%E2%80%A2+30%2B+repos" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=I+learn+by+shipping;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Now+going+Full+Stack+(MERN);Exploring+AI+with+Python;376%2B+followers+%E2%80%A2+30%2B+repos" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2D6A4F?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadfaizankhan324/)
@@ -17,7 +16,7 @@ bhai bara do huh aur cyan theme karo
 
 <br>
 
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20TO%20WORK-Frontend%20%7C%20React%20%7C%20Remote-2D6A4F?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20TO%20WORK-Frontend%20%7C%20React%20%7C%20Remote-0891B2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
 
 </div>
 
@@ -29,7 +28,7 @@ bhai bara do huh aur cyan theme karo
 
 | Metric | Live Status |
 | :--- | :--- |
-| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=Faizan-khan144&label=Views&color=2d6a4f&style=flat-square) |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=Faizan-khan144&label=Views&color=22d3ee&style=flat-square) |
 | **Public Commits Rank (PK)** | ![PK Rank](https://user-badge.committers.top/pakistan/Faizan-khan144.svg) |
 | **All Contributions Rank (PK)** | ![PK Rank](https://user-badge.committers.top/pakistan_private/Faizan-khan144.svg) |
 
@@ -116,15 +115,15 @@ bhai bara do huh aur cyan theme karo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=vue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=algolia&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=vue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=algolia&hide_border=true" width="48%" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=vue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=algolia&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=vue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=algolia&hide_border=true" width="48%" />
 
 </div>
 
@@ -134,21 +133,21 @@ bhai bara do huh aur cyan theme karo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=vue" width="88%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan-khan144&theme=algolia" width="88%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=vue&hide_border=true&rank_icon=github" width="52%" />
-<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=vue&hide_border=true" width="52%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan-khan144&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" width="52%" />
+<img src="https://streak-stats.demolab.com?user=Faizan-khan144&theme=algolia&hide_border=true" width="52%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=vue&hide_border=true&layout=donut" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=vue&utcOffset=5" width="44%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-khan144&theme=algolia&hide_border=true&layout=donut" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizan-khan144&theme=algolia&utcOffset=5" width="44%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=github-compact&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=react&hide_border=true" width="100%" />
 
 </div>
 
@@ -166,11 +165,11 @@ bhai bara do huh aur cyan theme karo
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=flat&no-bg=true&no-frame=true&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-bg=true&no-frame=true&row=1&column=6)
 
 <br><br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 </div>
 
@@ -191,4 +190,4 @@ I'm always open to developer friends, collaboration and opportunities.
 <br>
 <sub>`FAIZAN KHAN`</sub>
 
-</div> 
+</div>
