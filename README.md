@@ -2,7 +2,7 @@
 
 # FAIZAN KHAN
 
-**Frontend Developer · React · JavaScript · MERN Stack Learner**
+**Founder & Lead Developer @ [Luenia](https://luenia.pages.dev)** · Frontend Developer · React · JavaScript · MERN Stack Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=I+learn+by+shipping;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Now+going+Full+Stack+(MERN);Exploring+AI+with+Python;376%2B+followers+%E2%80%A2+30%2B+repos" />
 
@@ -179,6 +179,7 @@
 
 I'm always open to developer friends, collaboration and opportunities.
 
+- **Luenia (my studio):** https://luenia.pages.dev · @luenia-s on GitHub
 - **Portfolio:** https://faizan-portfolio-kappa.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-faizan-khan324/
 - **Email:** muhammadfaizankhan525@gmail.com
