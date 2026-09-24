@@ -2,7 +2,7 @@
 
 # FAIZAN KHAN
 
-**Founder & Lead Developer @ [Luenia](https://luenia.pages.dev)** · Frontend Developer · React · JavaScript · MERN Stack Learner
+**Founder & CEO @ [Luenia](https://luenia.pages.dev)** · Frontend Developer · React · JavaScript · MERN Stack Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=I+learn+by+shipping;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind;Now+going+Full+Stack+(MERN);Exploring+AI+with+Python;376%2B+followers+%E2%80%A2+30%2B+repos" />
 
