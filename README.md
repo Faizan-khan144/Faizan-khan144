@@ -1,3 +1,4 @@
+bhai bara do huh aur cyan theme karo 
 <div align="center">
 
 # FAIZAN KHAN
@@ -190,4 +191,4 @@ I'm always open to developer friends, collaboration and opportunities.
 <br>
 <sub>`FAIZAN KHAN`</sub>
 
-</div>
+</div> 
