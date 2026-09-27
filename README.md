@@ -1,14 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:22D3EE,50:0891B2,100:0E0E12" width="100%" />
+# 👋 Hi, I'm Faizan Khan
+
+**Founder & CEO @ [Luveia](https://luveia.pages.dev)** · Frontend Developer · React · MERN → learning · AI with Python
 
 <br>
 
-# 👋 Hey, I'm Faizan Khan
+<div style="display:inline-block;text-align:left;background:#0B0B0C;border:1px solid rgba(34,211,238,.35);border-radius:16px;padding:24px 30px;font-family:'Cascadia Code',Consolas,'JetBrains Mono',monospace;color:#67e8f9;box-shadow:0 0 40px rgba(34,211,238,.16);max-width:100%;overflow:auto">
 
-**Building `Luveia`** · Web Design & Development Studio · Frontend Developer · React · MERN (learning) · AI with Python
+<div style="display:flex;gap:9px;margin-bottom:16px">
+  <span style="width:13px;height:13px;border-radius:50%;background:#ff5f57"></span>
+  <span style="width:13px;height:13px;border-radius:50%;background:#febc2e"></span>
+  <span style="width:13px;height:13px;border-radius:50%;background:#28c840"></span>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=I+learn+by+shipping;React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Founder+%40+Luveia+%E2%80%94+Web+design+%26+dev+studio;Now+going+Full+Stack+(MERN)+%2B+AI+(Python)" alt="Typing SVG" />
+<pre style="font-family:inherit;color:#a1a1aa;line-height:1.75;margin:0">
+<span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ whoami
+<span style="color:#e4e4e7">Faizan Khan</span> <span style="color:#71717a">·</span> frontend developer <span style="color:#71717a">·</span> founder <span style="color:#71717a">@</span> Luveia
+
+<span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ ls ./built
+<span style="color:#34d399">react</span> <span style="color:#34d399">javascript</span> <span style="color:#34d399">tailwind</span> <span style="color:#34d399">html</span> <span style="color:#34d399">css</span> <span style="color:#34d399">node</span> <span style="color:#8be9fd">python</span>
+
+<span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ cat manifesto.txt
+<span style="color:#e4e4e7">ship first</span>, <span style="color:#e4e4e7">polish later</span>, <span style="color:#e4e4e7">learn from what ships</span>.
+
+<span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ git commit -m <span style="color:#34d399">"build things people can use"</span>
+<span style="color:#8be9fd">✓ committed</span> <span style="color:#71717a">→</span> <span style="color:#22d3ee">luveia.pages.dev</span> <span style="color:#22d3ee">█</span></pre>
+
+</div>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Founder+%40+Luveia+%E2%80%94+web+design+%26+dev+studio;Going+Full+Stack+(MERN)+%2B+AI+(Python);Open+to+remote+frontend+work" alt="Typing SVG" />
 
 <br>
 
@@ -24,6 +47,13 @@
 
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20TO%20WORK-Frontend%20%7C%20React%20%7C%20Remote-0891B2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
 
+<br>
+
+![Followers](https://img.shields.io/github/followers/Faizan-khan144?style=flat&logo=github&label=Followers&color=22d3ee)
+![Stars](https://img.shields.io/github/stars/Faizan-khan144?style=flat&logo=github&label=Stars&color=0891b2)
+![Repos](https://img.shields.io/badge/Repos-30%2B-0B0B0C?style=flat&logo=github&logoColor=22d3ee)
+![Views](https://komarev.com/ghpvc/?username=Faizan-khan144&label=Profile+Views&color=22d3ee&style=flat)
+
 </div>
 
 ---
@@ -34,14 +64,46 @@
 
 | | |
 | :--- | :--- |
-| 🏗️ **Building** | [Luveia](https://luveia.pages.dev) — web design & development studio |
+| 🏗️ **Building** | [Luveia](https://luveia.pages.dev) — web design & development studio + client sites (private) |
 | 🎯 **Shipped** | [OpenTrace](https://opentrace-faizan.vercel.app), [DevDock](https://faizan-khan144.github.io/devdock/), [EduBoard PRO](https://github.com/Faizan-khan144/eduboard-pro) & more |
-| 🧠 **Learning** | Full Stack (MERN) · AI with Python (DigiSkills Pakistan) |
-| 🚀 **Open to** | Remote frontend / React opportunities |
+| 🧠 **Learning** | Full Stack (MERN) · AI with Python — DigiSkills Pakistan |
+| 🚀 **Open to** | Remote frontend / React opportunities + studio clients |
 
 </div>
 
-> 💡 **About me** — frontend developer who learns by **building**. I write clean, responsive, accessible interfaces with **React, JavaScript, HTML, CSS, Tailwind CSS & Bootstrap**. I make every project I can teach from public here, and I'm building my studio **Luveia** on top of that same habit — ship first, polish later.
+> 💡 **About me** — frontend developer who learns by **building**. I write clean, responsive, accessible interfaces with **React, JavaScript, HTML, CSS, Tailwind CSS & Bootstrap**, and I'm going full-stack with the **MERN Stack** and **AI with Python**. I keep every project I can teach from public here — my GitHub is basically my live résumé.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> Quick hits
+
+<table>
+<tr><td width="25%" align="center" valign="top">
+
+**☕ Habits**
+<br>Chai + 3am commits.
+<br>Ship small, ship often.
+
+</td><td width="25%" align="center" valign="top">
+
+**🏗️ Studio**
+<br>Founder @ Luveia.
+<br>Web design + dev for clients.
+
+</td><td width="25%" align="center" valign="top">
+
+**🎓 Learning**
+<br>MERN Stack + AI (Python).
+<br>DigiSkills Pakistan.
+
+</td><td width="25%" align="center" valign="top">
+
+**🌍 Remotely yours**
+<br>Pakistan · work worldwide.
+<br>Timezone not an excuse.
+
+</td></tr>
+</table>
 
 ---
 
@@ -59,7 +121,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> Proof of Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Proof of Work
 
 <table>
 <tr>
@@ -130,10 +192,6 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=react&hide_border=true&bg_color=0B0B0C" width="100%" />
 
 </div>
@@ -156,7 +214,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" /> Contribution in 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> One commit a day, in 3D
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/main/profile-3d-contrib/profile-season-animate.svg" width="78%" />
@@ -164,7 +222,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 And an equally hungry snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg" width="70%" />
@@ -172,7 +230,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> Trophies & a Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> Trophies & a quote
 
 <div align="center">
 
@@ -188,7 +246,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Let's Connect
 
-I'm always open to developer friends, collaboration and opportunities.
+I'm always open to developer friends, collaboration and opportunities — and Luveia is always open for new clients.
 
 - **Luveia (my studio):** https://luveia.pages.dev · @luenia-s on GitHub
 - **Portfolio:** https://faizan-portfolio-kappa.vercel.app
@@ -202,8 +260,6 @@ I'm always open to developer friends, collaboration and opportunities.
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:22D3EE,50:0891B2,100:0E0E12" width="100%" />
 
 <br>
 <sub>Thanks for stopping by — if something here helped you build, give a repository a ⭐</sub>
