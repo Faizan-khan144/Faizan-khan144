@@ -2,7 +2,11 @@
 
 # 👋 Hi, I'm Faizan Khan
 
-**Founder & CEO @ [Luveia](https://luveia.pages.dev)** · Frontend Developer · React · MERN → learning · AI with Python
+**Founder & CEO @ [Luveia](https://luveia.pages.dev)** · Frontend Developer · React · MERN · Learning Python
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 <br>
 
@@ -31,7 +35,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Founder+%40+Luveia+%E2%80%94+web+design+%26+dev+studio;Going+Full+Stack+(MERN)+%2B+AI+(Python);Open+to+remote+frontend+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Founder+%40+Luveia+%E2%80%94+web+design+%26+dev+studio;Going+Full+Stack+(MERN)+%2B+Python;Open+to+remote+frontend+work" alt="Typing SVG" />
 
 <br>
 
@@ -66,12 +70,12 @@
 | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" /> **Building** | [Luveia](https://luveia.pages.dev) — web design & development studio + client sites (private) |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="24" /> **Shipped** | [OpenTrace](https://opentrace-faizan.vercel.app), [DevDock](https://faizan-khan144.github.io/devdock/), [EduBoard PRO](https://github.com/Faizan-khan144/eduboard-pro) & more |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="24" /> **Learning** | Full Stack (MERN) · AI with Python — DigiSkills Pakistan |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="24" /> **Learning** | Full Stack (MERN) · Python — DigiSkills Pakistan |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="24" /> **Open to** | Remote frontend / React opportunities + studio clients |
 
 </div>
 
-> 💡 **About me** — frontend developer who learns by **building**. I write clean, responsive, accessible interfaces with **React, JavaScript, HTML, CSS, Tailwind CSS & Bootstrap**, and I'm going full-stack with the **MERN Stack** and **AI with Python**. I keep every project I can teach from public here — my GitHub is basically my live résumé.
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="20" /> **About me** — frontend developer who learns by **building**. I write clean, responsive, accessible interfaces with **React, JavaScript, HTML, CSS & Tailwind CSS**, and I'm going full-stack with the **MERN Stack** & **Python**. I keep every project I can teach from public here — my GitHub is basically my live résumé.
 
 ---
 
@@ -99,7 +103,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="34" />
 
 **Learning**
-<br>MERN Stack + AI (Python).
+<br>MERN Stack + Python.
 <br><small>DigiSkills Pakistan.</small>
 
 </td><td width="25%" align="center" valign="top">
@@ -115,30 +119,71 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Movies/Ticket.png" width="26" /> Dev life in 5 frames
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Frames.png" width="26" /> Dev life in ultra pro mode
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" />
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="98%" />
 <br><b>Me:</b> "one more feature, then I sleep"
 </td>
-<td width="50%" align="center" valign="top">
-<img src="https://media.giphy.com/media/ZCT1YpOLEKQBu/giphy.gif" width="95%" />
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/ZCT1YpOLEKQBu/giphy.gif" width="98%" />
 <br><b>Also me:</b> bug found at 3:14 AM
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="98%" />
+<br><b>Reading my own code:</b> from last month
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="95%" />
-<br><b>Reading my own code:</b> from last month
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="98%" />
+<br><b>Deadline week:</b> CODE. COMPILE. REPEAT.
 </td>
-<td width="50%" align="center" valign="top">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="95%" />
-<br><b>Deadline week:</b> focus. levels. unlimited.
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/f3iwgRsEPrL0dsjHhd/giphy.gif" width="98%" />
+<br><b>Brain:</b> 404 Motivation Not Found
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/L8ZhoggWTWKTwKeVlW/giphy.gif" width="98%" />
+<br><b>Me vs Streak:</b> it's personal now
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="98%" />
+<br><b>VS Code:</b> opened for "5 minutes"
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="98%" />
+<br><b>Debugger Cat:</b> I see the bug...
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif" width="98%" />
+<br><b>Build Success:</b> LET'S GOOOOOO
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="98%" />
+<br><b>Frontend:</b> pixel perfect mode ON
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="98%" />
+<br><b>Console:</b> 0 errors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="16" />
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="98%" />
+<br><b>Coffee:</b> required for compilation
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60%" />
+<br><b>Git Push:</b> "it's gonna be fine" <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" width="18" />
+</div>
 
 ---
 
@@ -146,9 +191,9 @@
 
 **Frontend** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="20" />
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark&perline=8)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark&perline=8)](https://skillicons.dev)
 
-**Backend & AI (in progress)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" />
+**Backend & Python** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" />
 
 [![Learning Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark&perline=8)](https://skillicons.dev)
 
@@ -164,7 +209,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 OpenTrace
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="20" /> OpenTrace
 *Structured map of useful sites & resources — find the right website for anything.*
 
 `React` `Tailwind` `Vite`
@@ -174,7 +219,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ DevDock
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /> DevDock
 *Developer workspace: JSON, Base64, UUID, Regex, Color & productivity tools.*
 
 `JavaScript` `Vite` `Tools`
@@ -186,7 +231,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EduBoard PRO
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /> EduBoard PRO
 *Student productivity dashboard — assignments, notes, Pomodoro & analytics.*
 
 `React` `Tailwind`
@@ -196,7 +241,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 📊 Cryptolens Dashboard
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" width="20" /> Cryptolens Dashboard
 *Real-time crypto dashboard — trending coins & global stats.*
 
 `JavaScript` `Glassmorphism`
@@ -207,11 +252,11 @@
 </tr>
 </table>
 
-*Plus: Python Student Management System (OOP), August & Oak e-commerce, banking sites, games & 25+ more in [my repositories](https://github.com/Faizan-khan144?tab=repositories).*
+*<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20at%20the%20Viewer.png" width="18" /> Plus: Python Student Management System (OOP), August & Oak e-commerce, banking sites, games & 25+ more in [my repositories](https://github.com/Faizan-khan144?tab=repositories).*
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Telescope.png" width="26" /> Pinned Repos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="26" /> Pinned Repos
 
 <div align="center">
 
@@ -227,7 +272,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20with%20Upwards%20Trend.png" width="26" /> GitHub // Live
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="26" /> GitHub // Live
 
 <div align="center">
 
@@ -263,17 +308,17 @@
 
 ---
 
-## 🐍 And an equally hungry snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="26" /> And an equally hungry snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg" width="70%" />
 
-  <br>
+  <br><br>
 
-  <img src="https://media.giphy.com/media/L8ZhoggWTWKTwKeVlW/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/L8ZhoggWTWKTwKeVlW/giphy.gif" width="180" />
 
   <br/>
-  <small>*meanwhile, me: "I should really automate my commits" — 🙃 nah, I don't mess with the streak*</small>
+  <small><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Hand%20Over%20Mouth.png" width="14" /> meanwhile, me: "I should really automate my commits" — nah, I don't mess with the streak</small>
 </div>
 
 ---
@@ -314,17 +359,19 @@ I'm always open to developer friends, collaboration and opportunities — and Lu
 [![Say hi in my Guestbook](https://img.shields.io/badge/%F0%9F%92%AC%20GUESTBOOK-Say%20hi!-0891B2?style=for-the-badge)](https://github.com/Faizan-khan144/Faizan-khan144/issues/new?template=guestbook.yml)
 
 <br>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="60" />
 <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="44" />
+<img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="60" />
+
 <br>
-<small>*loading… coffee, motivation, and the next feature*</small>
+<small><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="14" /> loading… coffee, code, chaos & the next big build</small>
 
 </div>
 
 <div align="center">
 
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="20" />
-<sub>Thanks for stopping by — if something here helped you build, give a repository a **⭐**</sub>
+<sub>Thanks for stopping by — if something here helped you build, give a repository a <b>⭐</b></sub>
 <br>
 <sub>`FAIZAN KHAN`</sub>
 
