@@ -58,16 +58,16 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Where I'm at right now
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" /> Where I'm at right now
 
 <div align="center">
 
 | | |
 | :--- | :--- |
-| 🏗️ **Building** | [Luveia](https://luveia.pages.dev) — web design & development studio + client sites (private) |
-| 🎯 **Shipped** | [OpenTrace](https://opentrace-faizan.vercel.app), [DevDock](https://faizan-khan144.github.io/devdock/), [EduBoard PRO](https://github.com/Faizan-khan144/eduboard-pro) & more |
-| 🧠 **Learning** | Full Stack (MERN) · AI with Python — DigiSkills Pakistan |
-| 🚀 **Open to** | Remote frontend / React opportunities + studio clients |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" /> **Building** | [Luveia](https://luveia.pages.dev) — web design & development studio + client sites (private) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="24" /> **Shipped** | [OpenTrace](https://opentrace-faizan.vercel.app), [DevDock](https://faizan-khan144.github.io/devdock/), [EduBoard PRO](https://github.com/Faizan-khan144/eduboard-pro) & more |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="24" /> **Learning** | Full Stack (MERN) · AI with Python — DigiSkills Pakistan |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="24" /> **Open to** | Remote frontend / React opportunities + studio clients |
 
 </div>
 
@@ -75,53 +75,90 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28" /> Quick hits
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" /> Quick hits
 
 <table>
 <tr><td width="25%" align="center" valign="top">
 
-**☕ Habits**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Tear.png" width="34" />
+
+**Habits**
 <br>Chai + 3am commits.
-<br>Ship small, ship often.
+<br><small>Ship small, ship often.</small>
 
 </td><td width="25%" align="center" valign="top">
 
-**🏗️ Studio**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="34" />
+
+**Studio**
 <br>Founder @ Luveia.
-<br>Web design + dev for clients.
+<br><small>Web design + dev for clients.</small>
 
 </td><td width="25%" align="center" valign="top">
 
-**🎓 Learning**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="34" />
+
+**Learning**
 <br>MERN Stack + AI (Python).
-<br>DigiSkills Pakistan.
+<br><small>DigiSkills Pakistan.</small>
 
 </td><td width="25%" align="center" valign="top">
 
-**🌍 Remotely yours**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="34" />
+
+**Remotely yours**
 <br>Pakistan · work worldwide.
-<br>Timezone not an excuse.
+<br><small>Timezone not an excuse.</small>
 
 </td></tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> The Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Movies/Ticket.png" width="26" /> Dev life in 5 frames
 
-<div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,vite,git,github,figma,postman,vercel,python&theme=dark&perline=16)](https://skillicons.dev)
-
-</div>
-
-**Backend & AI (in progress)**
-
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" />
+<br><b>Me:</b> "one more feature, then I sleep"
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://media.giphy.com/media/ZCT1YpOLEKQBu/giphy.gif" width="95%" />
+<br><b>Also me:</b> bug found at 3:14 AM
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="95%" />
+<br><b>Reading my own code:</b> from last month
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="95%" />
+<br><b>Deadline week:</b> focus. levels. unlimited.
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> Proof of Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="26" /> The Stack
+
+**Frontend** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="20" />
+
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark&perline=8)](https://skillicons.dev)
+
+**Backend & AI (in progress)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" />
+
+[![Learning Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,python&theme=dark&perline=8)](https://skillicons.dev)
+
+**Tools I reach for** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" />
+
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,postman,vercel,vscode&theme=dark&perline=8)](https://skillicons.dev)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="26" /> Proof of Work
 
 <table>
 <tr>
@@ -174,7 +211,23 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20with%20Upwards%20Trend.png" width="28" /> GitHub // Live
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Telescope.png" width="26" /> Pinned Repos
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=shadow_cyan&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=shadow_cyan&hide_border=true" width="48%" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=shadow_cyan&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=shadow_cyan&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20with%20Upwards%20Trend.png" width="26" /> GitHub // Live
 
 <div align="center">
 
@@ -192,29 +245,17 @@
 
 <br><br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan-khan144&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" />
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan-khan144&theme=react&hide_border=true&bg_color=0B0B0C" width="100%" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="28" /> Pinned Repos
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=OpenTrace&theme=shadow_cyan&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=devdock&theme=shadow_cyan&hide_border=true" width="48%" />
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=eduboard-pro&theme=shadow_cyan&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan-khan144&repo=cryptolens-dashboard&theme=shadow_cyan&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> One commit a day, in 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" /> One commit a day, in 3D
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/main/profile-3d-contrib/profile-season-animate.svg" width="78%" />
@@ -226,11 +267,26 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Faizan-khan144/Faizan-khan144/output/github-contribution-grid-snake-dark.svg" width="70%" />
+
+  <br>
+
+  <img src="https://media.giphy.com/media/L8ZhoggWTWKTwKeVlW/giphy.gif" width="160" />
+
+  <br/>
+  <small>*meanwhile, me: "I should really automate my commits" — 🙃 nah, I don't mess with the streak*</small>
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="28" /> Trophies & a quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" width="26" /> Dev Jokes — fresh daily
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0B0B0C" width="80%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="26" /> Trophies & a quote
 
 <div align="center">
 
@@ -244,25 +300,31 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26" /> Let's Connect
 
 I'm always open to developer friends, collaboration and opportunities — and Luveia is always open for new clients.
 
-- **Luveia (my studio):** https://luveia.pages.dev · @luenia-s on GitHub
-- **Portfolio:** https://faizan-portfolio-kappa.vercel.app
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-faizan-khan324/
-- **Email:** muhammadfaizankhan525@gmail.com
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" /> **Luveia (my studio):** https://luveia.pages.dev · @luenia-s on GitHub
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="18" /> **Portfolio:** https://faizan-portfolio-kappa.vercel.app
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="18" /> **LinkedIn:** https://www.linkedin.com/in/muhammad-faizan-khan324/
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="18" /> **Email:** muhammadfaizankhan525@gmail.com
 
 <div align="center">
 
 [![Say hi in my Guestbook](https://img.shields.io/badge/%F0%9F%92%AC%20GUESTBOOK-Say%20hi!-0891B2?style=for-the-badge)](https://github.com/Faizan-khan144/Faizan-khan144/issues/new?template=guestbook.yml)
+
+<br>
+<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="44" />
+<br>
+<small>*loading… coffee, motivation, and the next feature*</small>
 
 </div>
 
 <div align="center">
 
 <br>
-<sub>Thanks for stopping by — if something here helped you build, give a repository a ⭐</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="20" />
+<sub>Thanks for stopping by — if something here helped you build, give a repository a **⭐**</sub>
 <br>
 <sub>`FAIZAN KHAN`</sub>
 
