@@ -1,6 +1,6 @@
 <div align="center">
 
-**# 👋 Hi, I'm Faizan Khan**
+# 👋 Hi, I'm Faizan Khan
 
 **Founder & CEO @ [Luveia](https://luveia.pages.dev)** · Frontend Developer · React · MERN · Learning Python
 
