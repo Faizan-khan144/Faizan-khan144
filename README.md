@@ -18,6 +18,10 @@
   <span style="width:13px;height:13px;border-radius:50%;background:#28c840"></span>
 </div>
 
+<pre style="font-family:inherit;color:#a1a1aa;line-height:1.75;margin:0">
+<span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ whoami
+<span style="color:#e4e4e7">Faizan Khan</span> <span style="color:#71717a">·</span> frontend developer <span style="color:#71717a">·</span> founder <span style="color:#71717a">@</span> Luveia
+
 
 <span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ ls ./built
 <span style="color:#34d399">react</span> <span style="color:#34d399">javascript</span> <span style="color:#34d399">tailwind</span> <span style="color:#34d399">html</span> <span style="color:#34d399">css</span> <span style="color:#34d399">node</span> <span style="color:#8be9fd">python</span>
