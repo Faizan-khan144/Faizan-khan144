@@ -20,7 +20,7 @@
 
 <pre style="font-family:inherit;color:#a1a1aa;line-height:1.75;margin:0">
 <span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ whoami
-<span style="color:#e4e4e7">Faizan Khan</span> <span style="color:#71717a">·</span> frontend developer <span style="color:#71717a">·</span> founder <span style="color:#71717a">@</span> Luveia
+<span style="color:#e4e4e7">Faizan Khan</span> <span style="color:#71717a">·</span> frontend developer <span style="color:#71717a">·</span> founder <span style="color:#71717a">@</span> Luveia <span style="color:#71717a">·</span> co-founder <span style="color:#71717a">@</span> Robispera
 
 
 <span style="color:#22d3ee">you</span>@<span style="color:#67e8f9">luveia</span>:<span style="color:#34d399">~</span>$ ls ./built
@@ -36,11 +36,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Founder+%40+Luveia+%E2%80%94+web+design+%26+dev+studio;Going+Full+Stack+(MERN)+%2B+Python;Open+to+remote+frontend+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=23&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=920&lines=React+%E2%80%A2+JavaScript+%E2%80%A2+Tailwind+CSS;Founder+%40+Luveia+%7C+Co-founder+%40+Robispera;Going+Full+Stack+(MERN)+%2B+Python;Open+to+remote+frontend+work" alt="Typing SVG" />
 
 <br>
 
 [![Luveia Studio](https://img.shields.io/badge/LUVEIA%20STUDIO-22D3EE?style=for-the-badge&logo=cloudflare&logoColor=000000)](https://luveia.pages.dev)
+[![Robispera](https://img.shields.io/badge/ROBISPERA-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobySpera/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan-portfolio-kappa.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faizan-khan144)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-khan324/)
@@ -69,14 +70,14 @@
 
 | | |
 | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" /> **Building** | [Luveia](https://luveia.pages.dev) — web design & development studio + client sites (private) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" /> **Building** | **Founder @ [Luveia](https://luveia.pages.dev)** — web design & development studio + client sites (private) <br> **Co-founder @ [Robispera](https://github.com/RobySpera/)** |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="24" /> **Shipped** | [OpenTrace](https://opentrace-faizan.vercel.app), [DevDock](https://faizan-khan144.github.io/devdock/), [EduBoard PRO](https://github.com/Faizan-khan144/eduboard-pro) & more |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="24" /> **Learning** | Full Stack (MERN) · Python — DigiSkills Pakistan |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="24" /> **Open to** | Remote frontend / React opportunities + studio clients |
 
 </div>
 
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="20" /> **About me** — frontend developer who learns by **building**. I write clean, responsive, accessible interfaces with **React, JavaScript, HTML, CSS & Tailwind CSS**, and I'm going full-stack with the **MERN Stack** & **Python**. I keep every project I can teach from public here — my GitHub is basically my live résumé.
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="20" /> **About me** — frontend developer who learns by **building**. I write clean, responsive, accessible interfaces with **React, JavaScript, HTML, CSS & Tailwind CSS**, and I'm going full-stack with the **MERN Stack** & **Python**. I run **Luveia** as its founder and I'm a co-founder at **Robispera**. I keep every project I can teach from public here — my GitHub is basically my live résumé.
 
 ---
 
@@ -97,7 +98,7 @@
 
 **Studio**
 <br>Founder @ Luveia.
-<br><small>Web design + dev for clients.</small>
+<br><small>Co-founder @ Robispera.</small>
 
 </td><td width="25%" align="center" valign="top">
 
@@ -350,7 +351,8 @@
 
 I'm always open to developer friends, collaboration and opportunities — and Luveia is always open for new clients.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" /> **Luveia (my studio):** https://luveia.pages.dev · @luenia-s on GitHub
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" /> **Luveia (founder):** https://luveia.pages.dev · @luenia-s on GitHub
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" /> **Robispera (co-founder):** https://github.com/RobySpera/
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="18" /> **Portfolio:** https://faizan-portfolio-kappa.vercel.app
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" width="18" /> **LinkedIn:** https://www.linkedin.com/in/muhammad-faizan-khan324/
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="18" /> **Email:** muhammadfaizankhan525@gmail.com
