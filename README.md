@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Faizan Khan
 
-**Founder & CEO @ [Luveia](https://luveia.pages.dev)** · Frontend Developer · React · MERN · Learning Python
+
 
 <br>
 
